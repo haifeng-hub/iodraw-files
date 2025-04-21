@@ -766,7 +766,7 @@
         <mxCell id="4L4S0rbMx2XwYcepflJW-37" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4L4S0rbMx2XwYcepflJW-6" target="4L4S0rbMx2XwYcepflJW-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4L4S0rbMx2XwYcepflJW-39" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4L4S0rbMx2XwYcepflJW-6" target="4L4S0rbMx2XwYcepflJW-33">
+        <mxCell id="4L4S0rbMx2XwYcepflJW-39" value="N" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4L4S0rbMx2XwYcepflJW-6" target="4L4S0rbMx2XwYcepflJW-33">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4L4S0rbMx2XwYcepflJW-6" value="用户名是否已被占用" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
@@ -776,7 +776,7 @@
           <mxGeometry x="994" y="483.25" width="152" height="45.5" as="geometry" />
         </mxCell>
         <mxCell id="4L4S0rbMx2XwYcepflJW-9" value="密码、确认密码是否为空" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="727.75" y="687" width="207.5" height="68" as="geometry" />
+          <mxGeometry x="730" y="690" width="207.5" height="68" as="geometry" />
         </mxCell>
         <mxCell id="4L4S0rbMx2XwYcepflJW-10" value="提示信息输入不能为空" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="524" y="698" width="158" height="50" as="geometry" />
@@ -803,6 +803,9 @@
         </mxCell>
         <mxCell id="4L4S0rbMx2XwYcepflJW-30" value="输入用户名" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="761" y="268" width="134" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4L4S0rbMx2XwYcepflJW-40" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4L4S0rbMx2XwYcepflJW-33" target="4L4S0rbMx2XwYcepflJW-9">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4L4S0rbMx2XwYcepflJW-33" value="输入密码与确认密码" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="755" y="575" width="156" height="60" as="geometry" />
