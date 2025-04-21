@@ -517,11 +517,14 @@
         <mxCell id="j0rJzowzzbi5A3T-aMSf-5" value="提示信息输入不能为空" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="84" y="797" width="220" height="49" as="geometry" />
         </mxCell>
+        <mxCell id="j0rJzowzzbi5A3T-aMSf-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="j0rJzowzzbi5A3T-aMSf-6" target="j0rJzowzzbi5A3T-aMSf-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="j0rJzowzzbi5A3T-aMSf-6" value="密码是否匹配数据库" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="209" y="415" width="189" height="86" as="geometry" />
         </mxCell>
         <mxCell id="j0rJzowzzbi5A3T-aMSf-7" value="用户名和密码输入正确, 进入小程序" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="202" y="593" width="214" height="66" as="geometry" />
+          <mxGeometry x="201" y="552" width="205" height="54" as="geometry" />
         </mxCell>
         <mxCell id="j0rJzowzzbi5A3T-aMSf-8" value="提示密码输入错误" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="550" y="999" width="188" height="49" as="geometry" />
