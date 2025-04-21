@@ -616,6 +616,11 @@
             <mxPoint x="-2" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="j0rJzowzzbi5A3T-aMSf-60" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="j0rJzowzzbi5A3T-aMSf-52">
+          <mxGeometry x="0.1593" y="-4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="j0rJzowzzbi5A3T-aMSf-44" value="密码是否匹配数据库" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="211" y="417" width="189" height="86" as="geometry" />
         </mxCell>
