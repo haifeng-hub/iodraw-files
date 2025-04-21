@@ -594,7 +594,7 @@
           <mxGeometry x="243.5" y="22" width="120" height="45" as="geometry" />
         </mxCell>
         <mxCell id="j0rJzowzzbi5A3T-aMSf-23" value="输入用户名及密码" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="545" y="232" width="120" height="60" as="geometry" />
+          <mxGeometry x="243.5" y="231" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
