@@ -506,7 +506,7 @@
           <mxGeometry x="236" y="119" width="135" height="49" as="geometry" />
         </mxCell>
         <mxCell id="j0rJzowzzbi5A3T-aMSf-3" value="输入用户名及密码" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="220" y="217" width="177" height="177" as="geometry" />
+          <mxGeometry x="226" y="224" width="177" height="177" as="geometry" />
         </mxCell>
         <mxCell id="j0rJzowzzbi5A3T-aMSf-4" value="用户名和密码是否为空" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="20" y="444" width="209" height="209" as="geometry" />
@@ -585,6 +585,9 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="j0rJzowzzbi5A3T-aMSf-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="j0rJzowzzbi5A3T-aMSf-20" target="j0rJzowzzbi5A3T-aMSf-2">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="j0rJzowzzbi5A3T-aMSf-20" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="243.5" y="22" width="120" height="45" as="geometry" />
