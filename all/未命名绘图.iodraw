@@ -773,10 +773,10 @@
           <mxGeometry x="352" y="1523" width="220" height="49" as="geometry" />
         </mxCell>
         <mxCell id="4L4S0rbMx2XwYcepflJW-11" value="密码、确认密码是否一致" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="713.5" y="813" width="225" height="225" as="geometry" />
+          <mxGeometry x="713.5" y="813" width="225" height="76" as="geometry" />
         </mxCell>
         <mxCell id="4L4S0rbMx2XwYcepflJW-12" value="结束" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="615" y="1732" width="92" height="49" as="geometry" />
+          <mxGeometry x="700" y="1136" width="92" height="49" as="geometry" />
         </mxCell>
         <mxCell id="4L4S0rbMx2XwYcepflJW-13" value="提示确认密码与密码不一致" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="757" y="1732" width="252" height="49" as="geometry" />
@@ -784,13 +784,6 @@
         <mxCell id="4L4S0rbMx2XwYcepflJW-14" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="4L4S0rbMx2XwYcepflJW-1" target="4L4S0rbMx2XwYcepflJW-2">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="4L4S0rbMx2XwYcepflJW-27" value="Y" style="curved=1;startArrow=none;endArrow=block;exitX=0.25;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="4L4S0rbMx2XwYcepflJW-11" target="4L4S0rbMx2XwYcepflJW-12">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="661" y="1696" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="4L4S0rbMx2XwYcepflJW-28" value="N" style="curved=1;startArrow=none;endArrow=block;exitX=0.75;exitY=1;entryX=0.38;entryY=0;rounded=0;" edge="1" parent="1" source="4L4S0rbMx2XwYcepflJW-11" target="4L4S0rbMx2XwYcepflJW-13">
