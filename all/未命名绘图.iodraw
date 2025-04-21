@@ -957,10 +957,10 @@
           <mxGeometry x="1109" y="1016" width="172" height="49" as="geometry" />
         </mxCell>
         <mxCell id="uMyCTF6s-N0fcqRJ5eWZ-13" value="账号信息" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1527" y="1419" width="124" height="49" as="geometry" />
+          <mxGeometry x="834" y="1279" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="uMyCTF6s-N0fcqRJ5eWZ-14" value="账号管理数据库" style="shape=cylinder3;boundedLbl=1;backgroundOutline=1;size=10;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="1526" y="1518" width="127" height="71" as="geometry" />
+          <mxGeometry x="479" y="1295" width="127" height="71" as="geometry" />
         </mxCell>
         <mxCell id="uMyCTF6s-N0fcqRJ5eWZ-15" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="uMyCTF6s-N0fcqRJ5eWZ-1" target="uMyCTF6s-N0fcqRJ5eWZ-2">
           <mxGeometry relative="1" as="geometry">
