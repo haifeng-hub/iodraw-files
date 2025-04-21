@@ -760,9 +760,6 @@
         <mxCell id="4L4S0rbMx2XwYcepflJW-7" value="提示用户名已被占用" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="284" y="967" width="204" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="4L4S0rbMx2XwYcepflJW-8" value="输入密码与确认密码" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="729.5" y="591" width="193" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="4L4S0rbMx2XwYcepflJW-9" value="密码、确认密码是否为空" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="732" y="882" width="225" height="225" as="geometry" />
         </mxCell>
@@ -790,14 +787,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="4L4S0rbMx2XwYcepflJW-25" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.56;exitY=-0.01;entryX=0.15;entryY=1;rounded=0;" edge="1" parent="1" source="4L4S0rbMx2XwYcepflJW-10" target="4L4S0rbMx2XwYcepflJW-8">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="548" y="1398" />
-              <mxPoint x="548" y="1112" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="4L4S0rbMx2XwYcepflJW-26" value="N" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.69;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="4L4S0rbMx2XwYcepflJW-9" target="4L4S0rbMx2XwYcepflJW-11">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -816,14 +805,6 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="809" y="1696" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="4L4S0rbMx2XwYcepflJW-29" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.52;exitY=0;entryX=1;entryY=0.73;rounded=0;" edge="1" parent="1" source="4L4S0rbMx2XwYcepflJW-13" target="4L4S0rbMx2XwYcepflJW-8">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="896" y="1696" />
-              <mxPoint x="896" y="1112" />
             </Array>
           </mxGeometry>
         </mxCell>
