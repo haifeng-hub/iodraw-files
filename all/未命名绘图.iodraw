@@ -775,7 +775,7 @@
         <mxCell id="4L4S0rbMx2XwYcepflJW-7" value="提示用户名已被占用" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="994" y="483.25" width="152" height="45.5" as="geometry" />
         </mxCell>
-        <mxCell id="4L4S0rbMx2XwYcepflJW-41" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4L4S0rbMx2XwYcepflJW-9" target="4L4S0rbMx2XwYcepflJW-11">
+        <mxCell id="4L4S0rbMx2XwYcepflJW-41" value="N" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4L4S0rbMx2XwYcepflJW-9" target="4L4S0rbMx2XwYcepflJW-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4L4S0rbMx2XwYcepflJW-9" value="密码、确认密码是否为空" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
