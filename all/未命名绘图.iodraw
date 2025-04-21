@@ -767,7 +767,7 @@
           <mxGeometry x="284" y="967" width="204" height="49" as="geometry" />
         </mxCell>
         <mxCell id="4L4S0rbMx2XwYcepflJW-9" value="密码、确认密码是否为空" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="729" y="709" width="225" height="225" as="geometry" />
+          <mxGeometry x="733" y="709" width="225" height="225" as="geometry" />
         </mxCell>
         <mxCell id="4L4S0rbMx2XwYcepflJW-10" value="提示信息输入不能为空" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="352" y="1523" width="220" height="49" as="geometry" />
@@ -821,7 +821,7 @@
           <mxGeometry x="761" y="268" width="134" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4L4S0rbMx2XwYcepflJW-33" value="输入密码与确认密码" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="755" y="573" width="156" height="60" as="geometry" />
+          <mxGeometry x="755" y="575" width="156" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
