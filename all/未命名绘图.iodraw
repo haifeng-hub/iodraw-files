@@ -859,13 +859,13 @@
           <mxGeometry x="635" y="28" width="92" height="49" as="geometry" />
         </mxCell>
         <mxCell id="3hUAPer_U-8sjAbyXUpd-4" value="用户名和密码是否为空" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="576.5" y="369" width="209" height="209" as="geometry" />
+          <mxGeometry x="576.5" y="369" width="209" height="81" as="geometry" />
         </mxCell>
         <mxCell id="3hUAPer_U-8sjAbyXUpd-5" value="提示信息不能为空" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="369" y="813" width="188" height="49" as="geometry" />
         </mxCell>
         <mxCell id="3hUAPer_U-8sjAbyXUpd-6" value="数据库中是否有该账号" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="690" y="733" width="209" height="209" as="geometry" />
+          <mxGeometry x="576" y="500" width="209" height="209" as="geometry" />
         </mxCell>
         <mxCell id="3hUAPer_U-8sjAbyXUpd-7" value="提示用户不为管理员" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="504" y="1015" width="204" height="49" as="geometry" />
