@@ -505,9 +505,6 @@
         <mxCell id="j0rJzowzzbi5A3T-aMSf-2" value="进入小程序界面" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="236" y="119" width="135" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="j0rJzowzzbi5A3T-aMSf-3" value="输入用户名及密码" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="226" y="224" width="177" height="177" as="geometry" />
-        </mxCell>
         <mxCell id="j0rJzowzzbi5A3T-aMSf-4" value="用户名和密码是否为空" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="20" y="444" width="209" height="209" as="geometry" />
         </mxCell>
@@ -526,16 +523,18 @@
         <mxCell id="j0rJzowzzbi5A3T-aMSf-9" value="结束" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="342" y="1107" width="92" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="j0rJzowzzbi5A3T-aMSf-11" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="j0rJzowzzbi5A3T-aMSf-2" target="j0rJzowzzbi5A3T-aMSf-3">
+        <mxCell id="j0rJzowzzbi5A3T-aMSf-11" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="j0rJzowzzbi5A3T-aMSf-2">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
+            <mxPoint x="314.5" y="224" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="j0rJzowzzbi5A3T-aMSf-12" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.81;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="j0rJzowzzbi5A3T-aMSf-3" target="j0rJzowzzbi5A3T-aMSf-4">
+        <mxCell id="j0rJzowzzbi5A3T-aMSf-12" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.81;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" target="j0rJzowzzbi5A3T-aMSf-4">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="124" y="419" />
             </Array>
+            <mxPoint x="259.87037037037044" y="346.37037037037044" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="j0rJzowzzbi5A3T-aMSf-13" value="Y" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.44;entryY=0.01;rounded=0;" edge="1" parent="1" source="j0rJzowzzbi5A3T-aMSf-4" target="j0rJzowzzbi5A3T-aMSf-5">
@@ -545,11 +544,12 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="j0rJzowzzbi5A3T-aMSf-14" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.6;exitY=0.01;entryX=0.5;entryY=1;rounded=0;" edge="1" parent="1" source="j0rJzowzzbi5A3T-aMSf-5" target="j0rJzowzzbi5A3T-aMSf-3">
+        <mxCell id="j0rJzowzzbi5A3T-aMSf-14" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.6;exitY=0.01;entryX=0.5;entryY=1;rounded=0;" edge="1" parent="1" source="j0rJzowzzbi5A3T-aMSf-5">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="309" y="689" />
             </Array>
+            <mxPoint x="314.5" y="401" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="j0rJzowzzbi5A3T-aMSf-15" value="N" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.71;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="j0rJzowzzbi5A3T-aMSf-4" target="j0rJzowzzbi5A3T-aMSf-6">
@@ -573,12 +573,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="j0rJzowzzbi5A3T-aMSf-18" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.53;exitY=0.01;entryX=1;entryY=0.66;rounded=0;" edge="1" parent="1" source="j0rJzowzzbi5A3T-aMSf-8" target="j0rJzowzzbi5A3T-aMSf-3">
+        <mxCell id="j0rJzowzzbi5A3T-aMSf-18" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.53;exitY=0.01;entryX=1;entryY=0.66;rounded=0;" edge="1" parent="1" source="j0rJzowzzbi5A3T-aMSf-8">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="658" y="954" />
               <mxPoint x="658" y="419" />
             </Array>
+            <mxPoint x="381.5454545454545" y="333.9545454545455" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="j0rJzowzzbi5A3T-aMSf-19" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.49;entryY=0;rounded=0;" edge="1" parent="1" source="j0rJzowzzbi5A3T-aMSf-7" target="j0rJzowzzbi5A3T-aMSf-9">
@@ -591,6 +592,9 @@
         </mxCell>
         <mxCell id="j0rJzowzzbi5A3T-aMSf-20" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="243.5" y="22" width="120" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="j0rJzowzzbi5A3T-aMSf-23" value="输入用户名及密码" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="545" y="232" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
