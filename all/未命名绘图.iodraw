@@ -320,7 +320,7 @@
           <mxGeometry x="220" y="217" width="177" height="177" as="geometry" />
         </mxCell>
         <mxCell id="31IfA0k9-0k6YFbew5-E-4" value="用户名和密码是否为空" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="20" y="444" width="209" height="209" as="geometry" />
+          <mxGeometry x="234" y="433" width="209" height="209" as="geometry" />
         </mxCell>
         <mxCell id="31IfA0k9-0k6YFbew5-E-5" value="提示信息输入不能为空" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="84" y="797" width="220" height="49" as="geometry" />
