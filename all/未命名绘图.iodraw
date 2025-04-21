@@ -518,27 +518,13 @@
           <mxGeometry x="208" y="424" width="189" height="86" as="geometry" />
         </mxCell>
         <mxCell id="j0rJzowzzbi5A3T-aMSf-7" value="用户名和密码输入正确, 进入小程序" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="275" y="991" width="226" height="66" as="geometry" />
+          <mxGeometry x="104" y="705" width="226" height="66" as="geometry" />
         </mxCell>
         <mxCell id="j0rJzowzzbi5A3T-aMSf-8" value="提示密码输入错误" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="550" y="999" width="188" height="49" as="geometry" />
         </mxCell>
         <mxCell id="j0rJzowzzbi5A3T-aMSf-9" value="结束" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="342" y="1107" width="92" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="j0rJzowzzbi5A3T-aMSf-16" value="Y" style="curved=1;startArrow=none;endArrow=block;exitX=0.26;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="j0rJzowzzbi5A3T-aMSf-6" target="j0rJzowzzbi5A3T-aMSf-7">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="388" y="954" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="j0rJzowzzbi5A3T-aMSf-17" value="N" style="curved=1;startArrow=none;endArrow=block;exitX=0.98;exitY=1;entryX=0.38;entryY=0.01;rounded=0;" edge="1" parent="1" source="j0rJzowzzbi5A3T-aMSf-6" target="j0rJzowzzbi5A3T-aMSf-8">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="579" y="954" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="j0rJzowzzbi5A3T-aMSf-19" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.49;entryY=0;rounded=0;" edge="1" parent="1" source="j0rJzowzzbi5A3T-aMSf-7" target="j0rJzowzzbi5A3T-aMSf-9">
           <mxGeometry relative="1" as="geometry">
