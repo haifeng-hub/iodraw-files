@@ -873,6 +873,9 @@
         <mxCell id="3hUAPer_U-8sjAbyXUpd-28" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3hUAPer_U-8sjAbyXUpd-6" target="3hUAPer_U-8sjAbyXUpd-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="3hUAPer_U-8sjAbyXUpd-32" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3hUAPer_U-8sjAbyXUpd-6" target="3hUAPer_U-8sjAbyXUpd-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="3hUAPer_U-8sjAbyXUpd-6" value="数据库中是否有该账号" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="576.5" y="496" width="209" height="72" as="geometry" />
         </mxCell>
@@ -880,7 +883,7 @@
           <mxGeometry x="831" y="507.5" width="154" height="42.5" as="geometry" />
         </mxCell>
         <mxCell id="3hUAPer_U-8sjAbyXUpd-8" value="进入管理员界面" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="610" y="635" width="142" height="49" as="geometry" />
+          <mxGeometry x="610" y="624" width="142" height="49" as="geometry" />
         </mxCell>
         <mxCell id="3hUAPer_U-8sjAbyXUpd-9" value="结束" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="635" y="755" width="92" height="49" as="geometry" />
