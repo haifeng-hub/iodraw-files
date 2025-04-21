@@ -503,7 +503,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="j0rJzowzzbi5A3T-aMSf-2" value="进入小程序界面" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="223" y="119" width="172" height="49" as="geometry" />
+          <mxGeometry x="223" y="119" width="148" height="49" as="geometry" />
         </mxCell>
         <mxCell id="j0rJzowzzbi5A3T-aMSf-3" value="输入用户名及密码" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="220" y="217" width="177" height="177" as="geometry" />
