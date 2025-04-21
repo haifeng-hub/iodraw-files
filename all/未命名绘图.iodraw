@@ -936,13 +936,13 @@
           <mxGeometry x="810" y="247" width="172" height="49" as="geometry" />
         </mxCell>
         <mxCell id="uMyCTF6s-N0fcqRJ5eWZ-5" value="用户名和密码是否为空" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="791.5" y="460" width="209" height="209" as="geometry" />
+          <mxGeometry x="791.5" y="460" width="209" height="77" as="geometry" />
         </mxCell>
         <mxCell id="uMyCTF6s-N0fcqRJ5eWZ-6" value="提示信息不能为空" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="486" y="814" width="188" height="49" as="geometry" />
         </mxCell>
         <mxCell id="uMyCTF6s-N0fcqRJ5eWZ-7" value="数据库中是否有该用户名" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="724" y="726" width="225" height="225" as="geometry" />
+          <mxGeometry x="784.5" y="588" width="225" height="225" as="geometry" />
         </mxCell>
         <mxCell id="uMyCTF6s-N0fcqRJ5eWZ-8" value="提示用户名已被占用" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="808" y="1111" width="204" height="49" as="geometry" />
