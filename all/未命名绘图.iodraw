@@ -752,7 +752,7 @@
           <mxGeometry x="745.5" y="371" width="161" height="74" as="geometry" />
         </mxCell>
         <mxCell id="4L4S0rbMx2XwYcepflJW-5" value="提示信息输入不能为空" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="20" y="701" width="220" height="49" as="geometry" />
+          <mxGeometry x="529" y="386" width="143" height="49" as="geometry" />
         </mxCell>
         <mxCell id="4L4S0rbMx2XwYcepflJW-6" value="用户名是否已被占用" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="729.5" y="500" width="193" height="62" as="geometry" />
