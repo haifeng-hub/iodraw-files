@@ -954,10 +954,7 @@
           <mxGeometry x="1076" y="748" width="252" height="49" as="geometry" />
         </mxCell>
         <mxCell id="uMyCTF6s-N0fcqRJ5eWZ-11" value="成功添加管理员" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1424" y="1321" width="172" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="uMyCTF6s-N0fcqRJ5eWZ-12" value="结束" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1385" y="1419" width="92" height="49" as="geometry" />
+          <mxGeometry x="1109" y="1016" width="172" height="49" as="geometry" />
         </mxCell>
         <mxCell id="uMyCTF6s-N0fcqRJ5eWZ-13" value="账号信息" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1527" y="1419" width="124" height="49" as="geometry" />
@@ -981,11 +978,12 @@
             <mxPoint x="896" y="346" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="uMyCTF6s-N0fcqRJ5eWZ-28" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.27;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="uMyCTF6s-N0fcqRJ5eWZ-11" target="uMyCTF6s-N0fcqRJ5eWZ-12">
+        <mxCell id="uMyCTF6s-N0fcqRJ5eWZ-28" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.27;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="uMyCTF6s-N0fcqRJ5eWZ-11">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1431" y="1394" />
             </Array>
+            <mxPoint x="1159" y="1175" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="uMyCTF6s-N0fcqRJ5eWZ-29" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.73;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="uMyCTF6s-N0fcqRJ5eWZ-11" target="uMyCTF6s-N0fcqRJ5eWZ-13">
