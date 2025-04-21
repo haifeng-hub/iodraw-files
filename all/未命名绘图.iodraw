@@ -936,7 +936,7 @@
           <mxGeometry x="810" y="247" width="172" height="49" as="geometry" />
         </mxCell>
         <mxCell id="uMyCTF6s-N0fcqRJ5eWZ-5" value="用户名和密码是否为空" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="406" y="445" width="209" height="209" as="geometry" />
+          <mxGeometry x="791.5" y="460" width="209" height="209" as="geometry" />
         </mxCell>
         <mxCell id="uMyCTF6s-N0fcqRJ5eWZ-6" value="提示信息不能为空" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="486" y="814" width="188" height="49" as="geometry" />
@@ -979,20 +979,6 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
             <mxPoint x="896" y="346" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="uMyCTF6s-N0fcqRJ5eWZ-22" value="Y" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.44;entryY=0.01;rounded=0;" edge="1" parent="1" source="uMyCTF6s-N0fcqRJ5eWZ-7" target="uMyCTF6s-N0fcqRJ5eWZ-8">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="836" y="987" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="uMyCTF6s-N0fcqRJ5eWZ-24" value="N" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.72;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="uMyCTF6s-N0fcqRJ5eWZ-7" target="uMyCTF6s-N0fcqRJ5eWZ-9">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1174" y="987" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="uMyCTF6s-N0fcqRJ5eWZ-25" value="N" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.38;entryY=-0.01;rounded=0;" edge="1" parent="1" source="uMyCTF6s-N0fcqRJ5eWZ-9" target="uMyCTF6s-N0fcqRJ5eWZ-10">
