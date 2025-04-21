@@ -868,7 +868,7 @@
           <mxGeometry x="576.5" y="496" width="209" height="72" as="geometry" />
         </mxCell>
         <mxCell id="3hUAPer_U-8sjAbyXUpd-7" value="提示用户不为管理员" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="906" y="507" width="204" height="49" as="geometry" />
+          <mxGeometry x="831" y="507.5" width="204" height="49" as="geometry" />
         </mxCell>
         <mxCell id="3hUAPer_U-8sjAbyXUpd-8" value="进入管理员界面" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="610" y="635" width="142" height="49" as="geometry" />
@@ -889,6 +889,9 @@
         </mxCell>
         <mxCell id="3hUAPer_U-8sjAbyXUpd-24" value="输入用户名和密码" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="621" y="257" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3hUAPer_U-8sjAbyXUpd-27" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3hUAPer_U-8sjAbyXUpd-26" target="3hUAPer_U-8sjAbyXUpd-22">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3hUAPer_U-8sjAbyXUpd-26" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;管理员&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="827" y="137.75" width="80" height="80" as="geometry" />
