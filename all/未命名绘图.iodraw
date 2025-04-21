@@ -871,10 +871,10 @@
           <mxGeometry x="504" y="1015" width="204" height="49" as="geometry" />
         </mxCell>
         <mxCell id="3hUAPer_U-8sjAbyXUpd-8" value="进入管理员界面" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="615" y="644" width="142" height="49" as="geometry" />
+          <mxGeometry x="610" y="635" width="142" height="49" as="geometry" />
         </mxCell>
         <mxCell id="3hUAPer_U-8sjAbyXUpd-9" value="结束" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="783" y="1113" width="92" height="49" as="geometry" />
+          <mxGeometry x="635" y="755" width="92" height="49" as="geometry" />
         </mxCell>
         <mxCell id="3hUAPer_U-8sjAbyXUpd-10" value="管理员" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="823" y="160" width="78" height="49" as="geometry" />
