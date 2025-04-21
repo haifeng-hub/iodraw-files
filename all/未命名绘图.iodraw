@@ -521,7 +521,7 @@
           <mxGeometry x="209" y="415" width="189" height="86" as="geometry" />
         </mxCell>
         <mxCell id="j0rJzowzzbi5A3T-aMSf-7" value="用户名和密码输入正确, 进入小程序" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="104" y="705" width="226" height="66" as="geometry" />
+          <mxGeometry x="202" y="593" width="214" height="66" as="geometry" />
         </mxCell>
         <mxCell id="j0rJzowzzbi5A3T-aMSf-8" value="提示密码输入错误" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="550" y="999" width="188" height="49" as="geometry" />
