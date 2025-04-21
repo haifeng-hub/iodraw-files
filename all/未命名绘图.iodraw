@@ -751,7 +751,7 @@
         <mxCell id="4L4S0rbMx2XwYcepflJW-34" value="N" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4L4S0rbMx2XwYcepflJW-4" target="4L4S0rbMx2XwYcepflJW-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4L4S0rbMx2XwYcepflJW-38" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4L4S0rbMx2XwYcepflJW-4" target="4L4S0rbMx2XwYcepflJW-5">
+        <mxCell id="4L4S0rbMx2XwYcepflJW-38" value="Y" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4L4S0rbMx2XwYcepflJW-4" target="4L4S0rbMx2XwYcepflJW-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4L4S0rbMx2XwYcepflJW-4" value="用户名是否为空" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
