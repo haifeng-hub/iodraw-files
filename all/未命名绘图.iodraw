@@ -746,10 +746,10 @@
           <mxGeometry x="747" y="171" width="158" height="49" as="geometry" />
         </mxCell>
         <mxCell id="4L4S0rbMx2XwYcepflJW-3" value="输入用户名" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="180" y="217" width="129" height="129" as="geometry" />
+          <mxGeometry x="773" y="279" width="129" height="129" as="geometry" />
         </mxCell>
         <mxCell id="4L4S0rbMx2XwYcepflJW-4" value="用户名是否为空" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="50" y="396" width="161" height="161" as="geometry" />
+          <mxGeometry x="115" y="369" width="161" height="161" as="geometry" />
         </mxCell>
         <mxCell id="4L4S0rbMx2XwYcepflJW-5" value="提示信息输入不能为空" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="20" y="701" width="220" height="49" as="geometry" />
