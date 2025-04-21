@@ -743,7 +743,7 @@
           <mxGeometry x="780" y="47" width="92" height="49" as="geometry" />
         </mxCell>
         <mxCell id="4L4S0rbMx2XwYcepflJW-2" value="进入用户注册界面" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="166" y="119" width="158" height="49" as="geometry" />
+          <mxGeometry x="747" y="171" width="158" height="49" as="geometry" />
         </mxCell>
         <mxCell id="4L4S0rbMx2XwYcepflJW-3" value="输入用户名" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="180" y="217" width="129" height="129" as="geometry" />
