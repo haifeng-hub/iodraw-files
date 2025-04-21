@@ -837,6 +837,9 @@
         <mxCell id="4L4S0rbMx2XwYcepflJW-33" value="输入密码与确认密码" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="753.5" y="575" width="156" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="4L4S0rbMx2XwYcepflJW-48" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.955;entryY=0.394;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="4L4S0rbMx2XwYcepflJW-7" target="4L4S0rbMx2XwYcepflJW-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
