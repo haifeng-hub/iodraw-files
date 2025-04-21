@@ -517,7 +517,7 @@
         <mxCell id="j0rJzowzzbi5A3T-aMSf-57" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="j0rJzowzzbi5A3T-aMSf-5" target="j0rJzowzzbi5A3T-aMSf-48">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="93" y="212" />
+              <mxPoint x="77" y="203" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -532,6 +532,9 @@
         </mxCell>
         <mxCell id="j0rJzowzzbi5A3T-aMSf-7" value="用户名和密码输入正确, 进入小程序" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="201" y="552" width="205" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="j0rJzowzzbi5A3T-aMSf-58" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="j0rJzowzzbi5A3T-aMSf-8" target="j0rJzowzzbi5A3T-aMSf-48">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="j0rJzowzzbi5A3T-aMSf-8" value="提示密码输入错误" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="490" y="430.25" width="84" height="57.5" as="geometry" />
