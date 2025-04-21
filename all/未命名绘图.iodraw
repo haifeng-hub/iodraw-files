@@ -859,7 +859,7 @@
           <mxGeometry x="635" y="28" width="92" height="49" as="geometry" />
         </mxCell>
         <mxCell id="3hUAPer_U-8sjAbyXUpd-4" value="用户名和密码是否为空" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="690" y="452" width="209" height="209" as="geometry" />
+          <mxGeometry x="576.5" y="369" width="209" height="209" as="geometry" />
         </mxCell>
         <mxCell id="3hUAPer_U-8sjAbyXUpd-5" value="提示信息不能为空" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="369" y="813" width="188" height="49" as="geometry" />
@@ -878,40 +878,6 @@
         </mxCell>
         <mxCell id="3hUAPer_U-8sjAbyXUpd-10" value="管理员" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="823" y="160" width="78" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="3hUAPer_U-8sjAbyXUpd-13" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.78;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" target="3hUAPer_U-8sjAbyXUpd-4">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="794" y="427" />
-            </Array>
-            <mxPoint x="775.230769230769" y="327.2692307692307" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="3hUAPer_U-8sjAbyXUpd-14" value="Y" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.75;entryX=0.55;entryY=0.01;rounded=0;" edge="1" parent="1" source="3hUAPer_U-8sjAbyXUpd-4" target="3hUAPer_U-8sjAbyXUpd-5">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="514" y="697" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="3hUAPer_U-8sjAbyXUpd-16" value="N" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="3hUAPer_U-8sjAbyXUpd-4" target="3hUAPer_U-8sjAbyXUpd-6">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="3hUAPer_U-8sjAbyXUpd-17" value="N" style="curved=1;startArrow=none;endArrow=block;exitX=0.16;exitY=1;entryX=0.68;entryY=-0.01;rounded=0;" edge="1" parent="1" source="3hUAPer_U-8sjAbyXUpd-6" target="3hUAPer_U-8sjAbyXUpd-7">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="700" y="978" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="3hUAPer_U-8sjAbyXUpd-19" value="Y" style="curved=1;startArrow=none;endArrow=block;exitX=0.62;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="3hUAPer_U-8sjAbyXUpd-6" target="3hUAPer_U-8sjAbyXUpd-8">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="829" y="978" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="3hUAPer_U-8sjAbyXUpd-20" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="3hUAPer_U-8sjAbyXUpd-8" target="3hUAPer_U-8sjAbyXUpd-9">
           <mxGeometry relative="1" as="geometry">
