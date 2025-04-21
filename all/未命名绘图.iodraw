@@ -868,7 +868,7 @@
           <mxGeometry x="576.5" y="496" width="209" height="72" as="geometry" />
         </mxCell>
         <mxCell id="3hUAPer_U-8sjAbyXUpd-7" value="提示用户不为管理员" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="504" y="1015" width="204" height="49" as="geometry" />
+          <mxGeometry x="883" y="494" width="204" height="49" as="geometry" />
         </mxCell>
         <mxCell id="3hUAPer_U-8sjAbyXUpd-8" value="进入管理员界面" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="610" y="635" width="142" height="49" as="geometry" />
