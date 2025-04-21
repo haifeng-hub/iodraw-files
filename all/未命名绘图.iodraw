@@ -502,6 +502,98 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="j0rJzowzzbi5A3T-aMSf-1" value="开始" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="219" y="20" width="136" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="j0rJzowzzbi5A3T-aMSf-2" value="进入小程序界面" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="223" y="119" width="172" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="j0rJzowzzbi5A3T-aMSf-3" value="输入用户名及密码" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="220" y="217" width="177" height="177" as="geometry" />
+        </mxCell>
+        <mxCell id="j0rJzowzzbi5A3T-aMSf-4" value="用户名和密码是否为空" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="20" y="444" width="209" height="209" as="geometry" />
+        </mxCell>
+        <mxCell id="j0rJzowzzbi5A3T-aMSf-5" value="提示信息输入不能为空" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="84" y="797" width="220" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="j0rJzowzzbi5A3T-aMSf-6" value="密码是否匹配数据库" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="354" y="725" width="193" height="193" as="geometry" />
+        </mxCell>
+        <mxCell id="j0rJzowzzbi5A3T-aMSf-7" value="用户名和密码输入正确, 进入小程序" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="275" y="991" width="226" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="j0rJzowzzbi5A3T-aMSf-8" value="提示密码输入错误" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="550" y="999" width="188" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="j0rJzowzzbi5A3T-aMSf-9" value="结束" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="342" y="1107" width="92" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="j0rJzowzzbi5A3T-aMSf-10" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="j0rJzowzzbi5A3T-aMSf-1" target="j0rJzowzzbi5A3T-aMSf-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="j0rJzowzzbi5A3T-aMSf-11" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="j0rJzowzzbi5A3T-aMSf-2" target="j0rJzowzzbi5A3T-aMSf-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="j0rJzowzzbi5A3T-aMSf-12" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.81;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="j0rJzowzzbi5A3T-aMSf-3" target="j0rJzowzzbi5A3T-aMSf-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="124" y="419" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="j0rJzowzzbi5A3T-aMSf-13" value="Y" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.44;entryY=0.01;rounded=0;" edge="1" parent="1" source="j0rJzowzzbi5A3T-aMSf-4" target="j0rJzowzzbi5A3T-aMSf-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="124" y="689" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="j0rJzowzzbi5A3T-aMSf-14" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.6;exitY=0.01;entryX=0.5;entryY=1;rounded=0;" edge="1" parent="1" source="j0rJzowzzbi5A3T-aMSf-5" target="j0rJzowzzbi5A3T-aMSf-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="309" y="689" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="j0rJzowzzbi5A3T-aMSf-15" value="N" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.71;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="j0rJzowzzbi5A3T-aMSf-4" target="j0rJzowzzbi5A3T-aMSf-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="450" y="689" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="j0rJzowzzbi5A3T-aMSf-16" value="Y" style="curved=1;startArrow=none;endArrow=block;exitX=0.26;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="j0rJzowzzbi5A3T-aMSf-6" target="j0rJzowzzbi5A3T-aMSf-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="388" y="954" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="j0rJzowzzbi5A3T-aMSf-17" value="N" style="curved=1;startArrow=none;endArrow=block;exitX=0.98;exitY=1;entryX=0.38;entryY=0.01;rounded=0;" edge="1" parent="1" source="j0rJzowzzbi5A3T-aMSf-6" target="j0rJzowzzbi5A3T-aMSf-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="579" y="954" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="j0rJzowzzbi5A3T-aMSf-18" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.53;exitY=0.01;entryX=1;entryY=0.66;rounded=0;" edge="1" parent="1" source="j0rJzowzzbi5A3T-aMSf-8" target="j0rJzowzzbi5A3T-aMSf-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="658" y="954" />
+              <mxPoint x="658" y="419" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="j0rJzowzzbi5A3T-aMSf-19" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.49;entryY=0;rounded=0;" edge="1" parent="1" source="j0rJzowzzbi5A3T-aMSf-7" target="j0rJzowzzbi5A3T-aMSf-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
