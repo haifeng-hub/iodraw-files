@@ -814,6 +814,9 @@
         <mxCell id="4L4S0rbMx2XwYcepflJW-30" value="输入用户名" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="766" y="265" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="4L4S0rbMx2XwYcepflJW-33" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="766" y="602" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
