@@ -775,8 +775,11 @@
         <mxCell id="4L4S0rbMx2XwYcepflJW-7" value="提示用户名已被占用" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="994" y="483.25" width="152" height="45.5" as="geometry" />
         </mxCell>
+        <mxCell id="4L4S0rbMx2XwYcepflJW-41" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4L4S0rbMx2XwYcepflJW-9" target="4L4S0rbMx2XwYcepflJW-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="4L4S0rbMx2XwYcepflJW-9" value="密码、确认密码是否为空" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="730" y="690" width="207.5" height="68" as="geometry" />
+          <mxGeometry x="729" y="690" width="207.5" height="68" as="geometry" />
         </mxCell>
         <mxCell id="4L4S0rbMx2XwYcepflJW-10" value="提示信息输入不能为空" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="524" y="698" width="158" height="50" as="geometry" />
@@ -785,7 +788,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4L4S0rbMx2XwYcepflJW-11" value="密码、确认密码是否一致" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="713.5" y="813" width="213.5" height="76" as="geometry" />
+          <mxGeometry x="731" y="819" width="213.5" height="76" as="geometry" />
         </mxCell>
         <mxCell id="4L4S0rbMx2XwYcepflJW-12" value="结束" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="782" y="932" width="92" height="49" as="geometry" />
@@ -808,7 +811,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4L4S0rbMx2XwYcepflJW-33" value="输入密码与确认密码" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="755" y="575" width="156" height="60" as="geometry" />
+          <mxGeometry x="753.5" y="575" width="156" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
