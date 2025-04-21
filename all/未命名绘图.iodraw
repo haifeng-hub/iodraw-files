@@ -855,9 +855,6 @@
         <mxCell id="3hUAPer_U-8sjAbyXUpd-1" value="开始" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="635" y="28" width="92" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="3hUAPer_U-8sjAbyXUpd-2" value="进入管理员登录界面" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="594" y="127" width="174" height="49" as="geometry" />
-        </mxCell>
         <mxCell id="3hUAPer_U-8sjAbyXUpd-3" value="输入用户名和密码" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="504" y="225" width="177" height="177" as="geometry" />
         </mxCell>
@@ -882,16 +879,12 @@
         <mxCell id="3hUAPer_U-8sjAbyXUpd-10" value="管理员" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="730" y="289" width="78" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="3hUAPer_U-8sjAbyXUpd-11" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="3hUAPer_U-8sjAbyXUpd-1" target="3hUAPer_U-8sjAbyXUpd-2">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="3hUAPer_U-8sjAbyXUpd-12" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.25;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="3hUAPer_U-8sjAbyXUpd-2" target="3hUAPer_U-8sjAbyXUpd-3">
+        <mxCell id="3hUAPer_U-8sjAbyXUpd-12" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.25;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" target="3hUAPer_U-8sjAbyXUpd-3">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="592" y="200" />
             </Array>
+            <mxPoint x="636.612244897959" y="176" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="3hUAPer_U-8sjAbyXUpd-13" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.78;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="3hUAPer_U-8sjAbyXUpd-3" target="3hUAPer_U-8sjAbyXUpd-4">
@@ -947,11 +940,12 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3hUAPer_U-8sjAbyXUpd-21" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.75;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="3hUAPer_U-8sjAbyXUpd-2" target="3hUAPer_U-8sjAbyXUpd-10">
+        <mxCell id="3hUAPer_U-8sjAbyXUpd-21" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.75;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" target="3hUAPer_U-8sjAbyXUpd-10">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="769" y="200" />
             </Array>
+            <mxPoint x="725.387755102041" y="176" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
       </root>
