@@ -515,7 +515,7 @@
           <mxGeometry x="211.5" y="290" width="184" height="83" as="geometry" />
         </mxCell>
         <mxCell id="j0rJzowzzbi5A3T-aMSf-5" value="提示信息输入不能为空" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="39" y="302" width="78" height="125" as="geometry" />
+          <mxGeometry x="48" y="281" width="78" height="125" as="geometry" />
         </mxCell>
         <mxCell id="j0rJzowzzbi5A3T-aMSf-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="j0rJzowzzbi5A3T-aMSf-6" target="j0rJzowzzbi5A3T-aMSf-7">
           <mxGeometry relative="1" as="geometry" />
