@@ -523,12 +523,6 @@
         <mxCell id="j0rJzowzzbi5A3T-aMSf-9" value="结束" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="342" y="1107" width="92" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="j0rJzowzzbi5A3T-aMSf-11" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="j0rJzowzzbi5A3T-aMSf-2">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-            <mxPoint x="314.5" y="224" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="j0rJzowzzbi5A3T-aMSf-12" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.81;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" target="j0rJzowzzbi5A3T-aMSf-4">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -594,7 +588,7 @@
           <mxGeometry x="243.5" y="22" width="120" height="45" as="geometry" />
         </mxCell>
         <mxCell id="j0rJzowzzbi5A3T-aMSf-23" value="输入用户名及密码" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="243.5" y="231" width="120" height="60" as="geometry" />
+          <mxGeometry x="226.5" y="223" width="137" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
