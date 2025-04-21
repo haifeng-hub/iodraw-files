@@ -789,7 +789,11 @@
           <mxGeometry x="729" y="690" width="207.5" height="68" as="geometry" />
         </mxCell>
         <mxCell id="4L4S0rbMx2XwYcepflJW-47" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="4L4S0rbMx2XwYcepflJW-10" target="4L4S0rbMx2XwYcepflJW-33">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="601" y="605" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="4L4S0rbMx2XwYcepflJW-10" value="提示信息输入不能为空" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="524" y="698" width="158" height="50" as="geometry" />
@@ -809,7 +813,7 @@
         <mxCell id="4L4S0rbMx2XwYcepflJW-46" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="4L4S0rbMx2XwYcepflJW-13" target="4L4S0rbMx2XwYcepflJW-33">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1074" y="603" />
+              <mxPoint x="1083" y="603" />
             </Array>
           </mxGeometry>
         </mxCell>
