@@ -745,9 +745,6 @@
         <mxCell id="4L4S0rbMx2XwYcepflJW-2" value="进入用户注册界面" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="747" y="171" width="158" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="4L4S0rbMx2XwYcepflJW-3" value="输入用户名" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="773" y="279" width="129" height="129" as="geometry" />
-        </mxCell>
         <mxCell id="4L4S0rbMx2XwYcepflJW-4" value="用户名是否为空" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="115" y="369" width="161" height="161" as="geometry" />
         </mxCell>
@@ -779,11 +776,6 @@
           <mxGeometry x="757" y="1732" width="252" height="49" as="geometry" />
         </mxCell>
         <mxCell id="4L4S0rbMx2XwYcepflJW-14" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="4L4S0rbMx2XwYcepflJW-1" target="4L4S0rbMx2XwYcepflJW-2">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="4L4S0rbMx2XwYcepflJW-15" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="4L4S0rbMx2XwYcepflJW-2" target="4L4S0rbMx2XwYcepflJW-3">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
