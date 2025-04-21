@@ -596,7 +596,7 @@
         <mxCell id="j0rJzowzzbi5A3T-aMSf-40" value="进入小程序界面" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="238.5" y="113" width="135" height="36" as="geometry" />
         </mxCell>
-        <mxCell id="j0rJzowzzbi5A3T-aMSf-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="j0rJzowzzbi5A3T-aMSf-42" target="j0rJzowzzbi5A3T-aMSf-44">
+        <mxCell id="j0rJzowzzbi5A3T-aMSf-41" value="N" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="j0rJzowzzbi5A3T-aMSf-42" target="j0rJzowzzbi5A3T-aMSf-44">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="j0rJzowzzbi5A3T-aMSf-49" value="Y" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="j0rJzowzzbi5A3T-aMSf-42" target="j0rJzowzzbi5A3T-aMSf-5">
@@ -608,7 +608,7 @@
         <mxCell id="j0rJzowzzbi5A3T-aMSf-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="j0rJzowzzbi5A3T-aMSf-44" target="j0rJzowzzbi5A3T-aMSf-45">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="j0rJzowzzbi5A3T-aMSf-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="j0rJzowzzbi5A3T-aMSf-44" target="j0rJzowzzbi5A3T-aMSf-8">
+        <mxCell id="j0rJzowzzbi5A3T-aMSf-52" value="N" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="j0rJzowzzbi5A3T-aMSf-44" target="j0rJzowzzbi5A3T-aMSf-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="j0rJzowzzbi5A3T-aMSf-44" value="密码是否匹配数据库" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
