@@ -865,7 +865,7 @@
           <mxGeometry x="369" y="813" width="188" height="49" as="geometry" />
         </mxCell>
         <mxCell id="3hUAPer_U-8sjAbyXUpd-6" value="数据库中是否有该账号" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="576" y="500" width="209" height="209" as="geometry" />
+          <mxGeometry x="576.5" y="496" width="209" height="72" as="geometry" />
         </mxCell>
         <mxCell id="3hUAPer_U-8sjAbyXUpd-7" value="提示用户不为管理员" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="504" y="1015" width="204" height="49" as="geometry" />
