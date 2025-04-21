@@ -764,7 +764,7 @@
           <mxGeometry x="735" y="475" width="193" height="62" as="geometry" />
         </mxCell>
         <mxCell id="4L4S0rbMx2XwYcepflJW-7" value="提示用户名已被占用" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1071" y="564" width="204" height="49" as="geometry" />
+          <mxGeometry x="998" y="481.5" width="152" height="45.5" as="geometry" />
         </mxCell>
         <mxCell id="4L4S0rbMx2XwYcepflJW-9" value="密码、确认密码是否为空" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="727.75" y="687" width="207.5" height="68" as="geometry" />
