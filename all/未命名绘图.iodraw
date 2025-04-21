@@ -767,13 +767,13 @@
           <mxGeometry x="284" y="967" width="204" height="49" as="geometry" />
         </mxCell>
         <mxCell id="4L4S0rbMx2XwYcepflJW-9" value="密码、确认密码是否为空" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="720.5" y="688" width="225" height="68" as="geometry" />
+          <mxGeometry x="727.75" y="687" width="207.5" height="68" as="geometry" />
         </mxCell>
         <mxCell id="4L4S0rbMx2XwYcepflJW-10" value="提示信息输入不能为空" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="352" y="1523" width="220" height="49" as="geometry" />
         </mxCell>
         <mxCell id="4L4S0rbMx2XwYcepflJW-11" value="密码、确认密码是否一致" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="622" y="1435" width="225" height="225" as="geometry" />
+          <mxGeometry x="704" y="838" width="225" height="225" as="geometry" />
         </mxCell>
         <mxCell id="4L4S0rbMx2XwYcepflJW-12" value="结束" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="615" y="1732" width="92" height="49" as="geometry" />
