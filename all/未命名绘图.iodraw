@@ -527,7 +527,7 @@
           <mxGeometry x="201" y="552" width="205" height="54" as="geometry" />
         </mxCell>
         <mxCell id="j0rJzowzzbi5A3T-aMSf-8" value="提示密码输入错误" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="491" y="433.5" width="188" height="49" as="geometry" />
+          <mxGeometry x="491" y="433.5" width="84" height="57.5" as="geometry" />
         </mxCell>
         <mxCell id="j0rJzowzzbi5A3T-aMSf-9" value="结束" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="259.5" y="689" width="92" height="49" as="geometry" />
@@ -592,6 +592,9 @@
           <mxGeometry x="213.5" y="292" width="184" height="83" as="geometry" />
         </mxCell>
         <mxCell id="j0rJzowzzbi5A3T-aMSf-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="j0rJzowzzbi5A3T-aMSf-44" target="j0rJzowzzbi5A3T-aMSf-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="j0rJzowzzbi5A3T-aMSf-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="j0rJzowzzbi5A3T-aMSf-44" target="j0rJzowzzbi5A3T-aMSf-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="j0rJzowzzbi5A3T-aMSf-44" value="密码是否匹配数据库" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
