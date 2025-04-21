@@ -815,7 +815,7 @@
           <mxGeometry x="766" y="265" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4L4S0rbMx2XwYcepflJW-33" value="输入密码与确认密码" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="766" y="602" width="120" height="60" as="geometry" />
+          <mxGeometry x="743" y="602" width="143" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
