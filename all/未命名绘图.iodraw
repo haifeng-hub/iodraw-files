@@ -509,7 +509,7 @@
           <mxGeometry x="236" y="119" width="135" height="49" as="geometry" />
         </mxCell>
         <mxCell id="j0rJzowzzbi5A3T-aMSf-4" value="用户名和密码是否为空" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="20" y="444" width="209" height="209" as="geometry" />
+          <mxGeometry x="204" y="349" width="209" height="209" as="geometry" />
         </mxCell>
         <mxCell id="j0rJzowzzbi5A3T-aMSf-5" value="提示信息输入不能为空" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="84" y="797" width="220" height="49" as="geometry" />
@@ -526,14 +526,6 @@
         <mxCell id="j0rJzowzzbi5A3T-aMSf-9" value="结束" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="342" y="1107" width="92" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="j0rJzowzzbi5A3T-aMSf-12" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.81;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" target="j0rJzowzzbi5A3T-aMSf-4">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="124" y="419" />
-            </Array>
-            <mxPoint x="259.87037037037044" y="346.37037037037044" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="j0rJzowzzbi5A3T-aMSf-16" value="Y" style="curved=1;startArrow=none;endArrow=block;exitX=0.26;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="j0rJzowzzbi5A3T-aMSf-6" target="j0rJzowzzbi5A3T-aMSf-7">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -546,15 +538,6 @@
             <Array as="points">
               <mxPoint x="579" y="954" />
             </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="j0rJzowzzbi5A3T-aMSf-18" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.53;exitY=0.01;entryX=1;entryY=0.66;rounded=0;" edge="1" parent="1" source="j0rJzowzzbi5A3T-aMSf-8">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="658" y="954" />
-              <mxPoint x="658" y="419" />
-            </Array>
-            <mxPoint x="381.5454545454545" y="333.9545454545455" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="j0rJzowzzbi5A3T-aMSf-19" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.49;entryY=0;rounded=0;" edge="1" parent="1" source="j0rJzowzzbi5A3T-aMSf-7" target="j0rJzowzzbi5A3T-aMSf-9">
