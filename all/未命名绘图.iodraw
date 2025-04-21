@@ -515,7 +515,7 @@
           <mxGeometry x="84" y="797" width="220" height="49" as="geometry" />
         </mxCell>
         <mxCell id="j0rJzowzzbi5A3T-aMSf-6" value="密码是否匹配数据库" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="206" y="419" width="191" height="102" as="geometry" />
+          <mxGeometry x="208" y="424" width="189" height="86" as="geometry" />
         </mxCell>
         <mxCell id="j0rJzowzzbi5A3T-aMSf-7" value="用户名和密码输入正确, 进入小程序" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="275" y="991" width="226" height="66" as="geometry" />
