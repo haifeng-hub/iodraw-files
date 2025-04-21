@@ -749,13 +749,13 @@
           <mxGeometry x="747" y="171" width="158" height="49" as="geometry" />
         </mxCell>
         <mxCell id="4L4S0rbMx2XwYcepflJW-4" value="用户名是否为空" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="745.5" y="371" width="161" height="74" as="geometry" />
+          <mxGeometry x="751" y="369" width="161" height="74" as="geometry" />
         </mxCell>
         <mxCell id="4L4S0rbMx2XwYcepflJW-5" value="提示信息输入不能为空" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="529" y="386" width="143" height="49" as="geometry" />
         </mxCell>
         <mxCell id="4L4S0rbMx2XwYcepflJW-6" value="用户名是否已被占用" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="729.5" y="484" width="193" height="62" as="geometry" />
+          <mxGeometry x="735" y="475" width="193" height="62" as="geometry" />
         </mxCell>
         <mxCell id="4L4S0rbMx2XwYcepflJW-7" value="提示用户名已被占用" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="284" y="967" width="204" height="49" as="geometry" />
