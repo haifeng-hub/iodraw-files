@@ -938,7 +938,7 @@
         <mxCell id="uMyCTF6s-N0fcqRJ5eWZ-39" value="N" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uMyCTF6s-N0fcqRJ5eWZ-5" target="uMyCTF6s-N0fcqRJ5eWZ-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="uMyCTF6s-N0fcqRJ5eWZ-50" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uMyCTF6s-N0fcqRJ5eWZ-5" target="uMyCTF6s-N0fcqRJ5eWZ-6">
+        <mxCell id="uMyCTF6s-N0fcqRJ5eWZ-50" value="Y" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uMyCTF6s-N0fcqRJ5eWZ-5" target="uMyCTF6s-N0fcqRJ5eWZ-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="uMyCTF6s-N0fcqRJ5eWZ-5" value="用户名和密码是否为空" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
