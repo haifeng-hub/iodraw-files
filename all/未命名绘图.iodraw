@@ -1571,7 +1571,7 @@
         <mxCell id="FEFq3QiBygx-5Q_GKjlm-20" value="Y" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FEFq3QiBygx-5Q_GKjlm-17" target="FEFq3QiBygx-5Q_GKjlm-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FEFq3QiBygx-5Q_GKjlm-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="FEFq3QiBygx-5Q_GKjlm-17" target="FEFq3QiBygx-5Q_GKjlm-21">
+        <mxCell id="FEFq3QiBygx-5Q_GKjlm-24" value="N" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="FEFq3QiBygx-5Q_GKjlm-17" target="FEFq3QiBygx-5Q_GKjlm-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FEFq3QiBygx-5Q_GKjlm-17" value="是否进行电费充值" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
