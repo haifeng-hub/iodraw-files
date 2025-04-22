@@ -955,7 +955,7 @@
         <mxCell id="uMyCTF6s-N0fcqRJ5eWZ-40" value="N" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uMyCTF6s-N0fcqRJ5eWZ-7" target="uMyCTF6s-N0fcqRJ5eWZ-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="uMyCTF6s-N0fcqRJ5eWZ-49" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uMyCTF6s-N0fcqRJ5eWZ-7" target="uMyCTF6s-N0fcqRJ5eWZ-8">
+        <mxCell id="uMyCTF6s-N0fcqRJ5eWZ-49" value="Y" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uMyCTF6s-N0fcqRJ5eWZ-7" target="uMyCTF6s-N0fcqRJ5eWZ-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="uMyCTF6s-N0fcqRJ5eWZ-7" value="数据库中是否有该用户名" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
@@ -988,7 +988,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="uMyCTF6s-N0fcqRJ5eWZ-10" value="提示密码和确认密码不一致" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1291" y="742.25" width="199" height="53.5" as="geometry" />
+          <mxGeometry x="1233" y="738" width="199" height="53.5" as="geometry" />
         </mxCell>
         <mxCell id="uMyCTF6s-N0fcqRJ5eWZ-45" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uMyCTF6s-N0fcqRJ5eWZ-11" target="uMyCTF6s-N0fcqRJ5eWZ-42">
           <mxGeometry relative="1" as="geometry" />
