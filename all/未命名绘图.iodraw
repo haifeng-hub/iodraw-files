@@ -1605,7 +1605,7 @@
             <mxPoint x="579" y="311" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="f_wUWw4qduWoo7amwxs1-4" value="进入通知页面" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="f_wUWw4qduWoo7amwxs1-4" value="进入签到界面" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="519" y="194" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="f_wUWw4qduWoo7amwxs1-5" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="f_wUWw4qduWoo7amwxs1-6" target="f_wUWw4qduWoo7amwxs1-4">
