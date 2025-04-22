@@ -1063,11 +1063,6 @@
         <mxCell id="DZ6jfc3219-5HhBuk_K5-2" value="进行个人信息修改界面" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1867" y="1399" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="DZ6jfc3219-5HhBuk_K5-16" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="DZ6jfc3219-5HhBuk_K5-2">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="2069" y="1429" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="DZ6jfc3219-5HhBuk_K5-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="DZ6jfc3219-5HhBuk_K5-23">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1542" y="1609" as="sourcePoint" />
@@ -1098,10 +1093,10 @@
           <mxGeometry x="1703" y="1548" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DZ6jfc3219-5HhBuk_K5-35" value="修改姓名" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1984" y="1548" width="120" height="60" as="geometry" />
+          <mxGeometry x="2001" y="1548" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DZ6jfc3219-5HhBuk_K5-37" value="修改手机号" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2230" y="1550" width="120" height="60" as="geometry" />
+          <mxGeometry x="2246" y="1548" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
