@@ -1066,6 +1066,12 @@
         <mxCell id="DZ6jfc3219-5HhBuk_K5-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="DZ6jfc3219-5HhBuk_K5-2" target="DZ6jfc3219-5HhBuk_K5-34">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="DZ6jfc3219-5HhBuk_K5-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="DZ6jfc3219-5HhBuk_K5-2" target="DZ6jfc3219-5HhBuk_K5-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DZ6jfc3219-5HhBuk_K5-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="DZ6jfc3219-5HhBuk_K5-2" target="DZ6jfc3219-5HhBuk_K5-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="DZ6jfc3219-5HhBuk_K5-2" value="进行个人信息修改界面" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1867" y="1399" width="120" height="60" as="geometry" />
         </mxCell>
