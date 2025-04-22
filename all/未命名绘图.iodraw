@@ -1631,11 +1631,6 @@
         <mxCell id="f_wUWw4qduWoo7amwxs1-17" value="N" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="f_wUWw4qduWoo7amwxs1-14" target="f_wUWw4qduWoo7amwxs1-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="f_wUWw4qduWoo7amwxs1-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="f_wUWw4qduWoo7amwxs1-14">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1127" y="607" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="f_wUWw4qduWoo7amwxs1-14" value="签到是否结束" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="512" y="407" width="126" height="80" as="geometry" />
         </mxCell>
@@ -1644,6 +1639,9 @@
         </mxCell>
         <mxCell id="f_wUWw4qduWoo7amwxs1-18" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="515" y="628" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="f_wUWw4qduWoo7amwxs1-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.617;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="f_wUWw4qduWoo7amwxs1-14" target="f_wUWw4qduWoo7amwxs1-18">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
