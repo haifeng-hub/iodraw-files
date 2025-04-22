@@ -1628,7 +1628,7 @@
         <mxCell id="f_wUWw4qduWoo7amwxs1-13" value="宿管发布签到信息" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="515" y="311" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="f_wUWw4qduWoo7amwxs1-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="f_wUWw4qduWoo7amwxs1-14" target="f_wUWw4qduWoo7amwxs1-16">
+        <mxCell id="f_wUWw4qduWoo7amwxs1-17" value="N" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="f_wUWw4qduWoo7amwxs1-14" target="f_wUWw4qduWoo7amwxs1-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="f_wUWw4qduWoo7amwxs1-14" value="签到是否结束" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
