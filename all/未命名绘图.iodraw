@@ -971,10 +971,10 @@
         <mxCell id="uMyCTF6s-N0fcqRJ5eWZ-8" value="提示用户名已被占用" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="510" y="606" width="204" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="uMyCTF6s-N0fcqRJ5eWZ-32" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uMyCTF6s-N0fcqRJ5eWZ-9" target="uMyCTF6s-N0fcqRJ5eWZ-10">
+        <mxCell id="uMyCTF6s-N0fcqRJ5eWZ-32" value="N" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uMyCTF6s-N0fcqRJ5eWZ-9" target="uMyCTF6s-N0fcqRJ5eWZ-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="uMyCTF6s-N0fcqRJ5eWZ-41" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uMyCTF6s-N0fcqRJ5eWZ-9" target="uMyCTF6s-N0fcqRJ5eWZ-11">
+        <mxCell id="uMyCTF6s-N0fcqRJ5eWZ-41" value="Y" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uMyCTF6s-N0fcqRJ5eWZ-9" target="uMyCTF6s-N0fcqRJ5eWZ-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="uMyCTF6s-N0fcqRJ5eWZ-9" value="密码和确认密码是否一致" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
