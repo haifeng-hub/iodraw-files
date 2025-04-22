@@ -1173,7 +1173,7 @@
         <mxCell id="DZ6jfc3219-5HhBuk_K5-73" value="Y" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DZ6jfc3219-5HhBuk_K5-71" target="DZ6jfc3219-5HhBuk_K5-72">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="DZ6jfc3219-5HhBuk_K5-90" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DZ6jfc3219-5HhBuk_K5-71" target="DZ6jfc3219-5HhBuk_K5-86">
+        <mxCell id="DZ6jfc3219-5HhBuk_K5-90" value="N" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DZ6jfc3219-5HhBuk_K5-71" target="DZ6jfc3219-5HhBuk_K5-86">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="DZ6jfc3219-5HhBuk_K5-71" value="验证码是否正确" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
