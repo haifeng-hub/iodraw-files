@@ -1116,14 +1116,11 @@
         <mxCell id="DZ6jfc3219-5HhBuk_K5-37" value="修改手机号" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2246" y="1548" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="DZ6jfc3219-5HhBuk_K5-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DZ6jfc3219-5HhBuk_K5-45" target="DZ6jfc3219-5HhBuk_K5-47">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="DZ6jfc3219-5HhBuk_K5-45" value="审核宿舍房间号是否正确" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1723" y="1873" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="DZ6jfc3219-5HhBuk_K5-47" value="" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1543" y="1863" width="80" height="80" as="geometry" />
+        <mxCell id="DZ6jfc3219-5HhBuk_K5-49" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="1627" y="1755" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
