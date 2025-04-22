@@ -935,7 +935,7 @@
         <mxCell id="uMyCTF6s-N0fcqRJ5eWZ-3" value="点击添加管理员" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="810" y="247" width="172" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="uMyCTF6s-N0fcqRJ5eWZ-39" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uMyCTF6s-N0fcqRJ5eWZ-5" target="uMyCTF6s-N0fcqRJ5eWZ-7">
+        <mxCell id="uMyCTF6s-N0fcqRJ5eWZ-39" value="N" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uMyCTF6s-N0fcqRJ5eWZ-5" target="uMyCTF6s-N0fcqRJ5eWZ-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="uMyCTF6s-N0fcqRJ5eWZ-50" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uMyCTF6s-N0fcqRJ5eWZ-5" target="uMyCTF6s-N0fcqRJ5eWZ-6">
