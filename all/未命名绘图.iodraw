@@ -1568,7 +1568,7 @@
         <mxCell id="FEFq3QiBygx-5Q_GKjlm-14" value="查询剩余电量" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="519" y="306" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FEFq3QiBygx-5Q_GKjlm-17" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="FEFq3QiBygx-5Q_GKjlm-17" value="是否进行电费充值" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="518.5" y="406" width="121" height="44" as="geometry" />
         </mxCell>
       </root>
