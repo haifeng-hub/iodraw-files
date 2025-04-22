@@ -957,7 +957,11 @@
           <mxGeometry x="784.5" y="588" width="225" height="85" as="geometry" />
         </mxCell>
         <mxCell id="uMyCTF6s-N0fcqRJ5eWZ-51" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="uMyCTF6s-N0fcqRJ5eWZ-8" target="uMyCTF6s-N0fcqRJ5eWZ-31">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="612" y="378" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="uMyCTF6s-N0fcqRJ5eWZ-8" value="提示用户名已被占用" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="510" y="606" width="204" height="49" as="geometry" />
