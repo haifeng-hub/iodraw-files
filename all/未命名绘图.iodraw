@@ -1086,7 +1086,7 @@
         <mxCell id="DZ6jfc3219-5HhBuk_K5-23" value="插入个人头像" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="1482" y="1666" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="DZ6jfc3219-5HhBuk_K5-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DZ6jfc3219-5HhBuk_K5-24" target="DZ6jfc3219-5HhBuk_K5-25">
+        <mxCell id="DZ6jfc3219-5HhBuk_K5-26" value="N" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DZ6jfc3219-5HhBuk_K5-24" target="DZ6jfc3219-5HhBuk_K5-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="DZ6jfc3219-5HhBuk_K5-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DZ6jfc3219-5HhBuk_K5-24" target="DZ6jfc3219-5HhBuk_K5-31">
@@ -1198,7 +1198,11 @@
           <mxGeometry x="2466" y="2004" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DZ6jfc3219-5HhBuk_K5-96" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="DZ6jfc3219-5HhBuk_K5-86" target="DZ6jfc3219-5HhBuk_K5-69">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2475" y="1706" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="DZ6jfc3219-5HhBuk_K5-86" value="验证不正确" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2418" y="1780" width="120" height="60" as="geometry" />
