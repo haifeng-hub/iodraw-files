@@ -1097,7 +1097,7 @@
         <mxCell id="DZ6jfc3219-5HhBuk_K5-34" value="&lt;br&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;修改宿舍房间号&lt;/span&gt;&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="1703" y="1548" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="DZ6jfc3219-5HhBuk_K5-35" value="修改手机号" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="DZ6jfc3219-5HhBuk_K5-35" value="修改姓名" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1984" y="1548" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DZ6jfc3219-5HhBuk_K5-37" value="修改手机号" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
