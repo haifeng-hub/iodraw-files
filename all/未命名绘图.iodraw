@@ -569,13 +569,11 @@
             <mxPoint x="304.54545454545405" y="416.02068302068255" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="j0rJzowzzbi5A3T-aMSf-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="j0rJzowzzbi5A3T-aMSf-35">
+        <mxCell id="j0rJzowzzbi5A3T-aMSf-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="304.5" y="501.9999999999998" as="sourcePoint" />
+            <mxPoint x="304.54545454545405" y="553.0000000000002" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="j0rJzowzzbi5A3T-aMSf-35" value="用户名和密码输入正确, 进入小程序" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="202" y="553" width="205" height="54" as="geometry" />
         </mxCell>
         <mxCell id="j0rJzowzzbi5A3T-aMSf-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
