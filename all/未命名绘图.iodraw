@@ -1050,7 +1050,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="PyIi7psqrE4PSn06CVdH" name="第 8 页">
-    <mxGraphModel dx="1937" dy="1069" grid="1" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1e+25" pageHeight="1e+22" math="0" shadow="0">
+    <mxGraphModel dx="1339" dy="609" grid="1" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1e+25" pageHeight="1e+22" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1173,14 +1173,13 @@
         <mxCell id="DZ6jfc3219-5HhBuk_K5-71" value="验证码是否正确" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2253.5" y="1778" width="105" height="65" as="geometry" />
         </mxCell>
-        <mxCell id="DZ6jfc3219-5HhBuk_K5-77" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DZ6jfc3219-5HhBuk_K5-72" target="DZ6jfc3219-5HhBuk_K5-76">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="DZ6jfc3219-5HhBuk_K5-77" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DZ6jfc3219-5HhBuk_K5-72">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2306" y="2025" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="DZ6jfc3219-5HhBuk_K5-72" value="输入更该后的手机号和验证码" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="2246" y="1895" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="DZ6jfc3219-5HhBuk_K5-76" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2266" y="2025" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
