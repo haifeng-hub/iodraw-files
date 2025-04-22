@@ -508,11 +508,10 @@
         <mxCell id="j0rJzowzzbi5A3T-aMSf-2" value="进入小程序界面" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="236.5" y="111" width="135" height="36" as="geometry" />
         </mxCell>
-        <mxCell id="j0rJzowzzbi5A3T-aMSf-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="j0rJzowzzbi5A3T-aMSf-4" target="j0rJzowzzbi5A3T-aMSf-6">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="j0rJzowzzbi5A3T-aMSf-4" value="用户名和密码是否为空" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="211.5" y="290" width="184" height="83" as="geometry" />
+        <mxCell id="j0rJzowzzbi5A3T-aMSf-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="j0rJzowzzbi5A3T-aMSf-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="303.5" y="373" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="j0rJzowzzbi5A3T-aMSf-57" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="j0rJzowzzbi5A3T-aMSf-5">
           <mxGeometry relative="1" as="geometry">
@@ -551,8 +550,10 @@
         <mxCell id="j0rJzowzzbi5A3T-aMSf-20" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="243.5" y="28" width="120" height="39" as="geometry" />
         </mxCell>
-        <mxCell id="j0rJzowzzbi5A3T-aMSf-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="j0rJzowzzbi5A3T-aMSf-23" target="j0rJzowzzbi5A3T-aMSf-4">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="j0rJzowzzbi5A3T-aMSf-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="j0rJzowzzbi5A3T-aMSf-23">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="303.5" y="290" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="j0rJzowzzbi5A3T-aMSf-23" value="输入用户名及密码" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="235" y="189" width="137" height="41" as="geometry" />
@@ -563,16 +564,10 @@
             <mxPoint x="304.54545454545405" y="190" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="j0rJzowzzbi5A3T-aMSf-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="j0rJzowzzbi5A3T-aMSf-32" target="j0rJzowzzbi5A3T-aMSf-34">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="dFnmG2QY7vnMRIKthvqE-1" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="j0rJzowzzbi5A3T-aMSf-32">
+        <mxCell id="j0rJzowzzbi5A3T-aMSf-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="j0rJzowzzbi5A3T-aMSf-34">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="304.5" y="231" as="targetPoint" />
+            <mxPoint x="304.5" y="374" as="sourcePoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="j0rJzowzzbi5A3T-aMSf-32" value="用户名和密码是否为空" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="212.5" y="291" width="184" height="83" as="geometry" />
         </mxCell>
         <mxCell id="j0rJzowzzbi5A3T-aMSf-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="j0rJzowzzbi5A3T-aMSf-34" target="j0rJzowzzbi5A3T-aMSf-35">
           <mxGeometry relative="1" as="geometry" />
@@ -587,11 +582,6 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="305" y="68" as="sourcePoint" />
             <mxPoint x="305.090909090909" y="112" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="j0rJzowzzbi5A3T-aMSf-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="j0rJzowzzbi5A3T-aMSf-32">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="304.5" y="231" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="j0rJzowzzbi5A3T-aMSf-41" value="N" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="j0rJzowzzbi5A3T-aMSf-44">
