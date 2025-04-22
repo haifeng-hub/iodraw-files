@@ -1093,6 +1093,9 @@
         <mxCell id="DZ6jfc3219-5HhBuk_K5-7" value="修改手机号" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2218" y="1543" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="DZ6jfc3219-5HhBuk_K5-23" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="1473" y="1675" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
