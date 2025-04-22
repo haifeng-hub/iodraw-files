@@ -1098,6 +1098,9 @@
         <mxCell id="DZ6jfc3219-5HhBuk_K5-25" value="插入文件格式不正确" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1296" y="1775" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="DZ6jfc3219-5HhBuk_K5-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="DZ6jfc3219-5HhBuk_K5-31" target="DZ6jfc3219-5HhBuk_K5-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="DZ6jfc3219-5HhBuk_K5-31" value="审核头像是否规范" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1482" y="1873" width="120" height="60" as="geometry" />
         </mxCell>
