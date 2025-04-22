@@ -1090,7 +1090,7 @@
         <mxCell id="DZ6jfc3219-5HhBuk_K5-6" value="修改姓名" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1990" y="1544" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="DZ6jfc3219-5HhBuk_K5-7" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="DZ6jfc3219-5HhBuk_K5-7" value="修改手机号" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2218" y="1543" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
