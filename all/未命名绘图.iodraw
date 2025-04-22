@@ -1070,8 +1070,10 @@
             <mxPoint x="2050" y="1544" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DZ6jfc3219-5HhBuk_K5-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="DZ6jfc3219-5HhBuk_K5-2" target="DZ6jfc3219-5HhBuk_K5-7">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="DZ6jfc3219-5HhBuk_K5-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="DZ6jfc3219-5HhBuk_K5-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2278" y="1543" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="DZ6jfc3219-5HhBuk_K5-2" value="进行个人信息修改界面" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1867" y="1399" width="120" height="60" as="geometry" />
@@ -1085,9 +1087,6 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1542" y="1609" as="sourcePoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="DZ6jfc3219-5HhBuk_K5-7" value="修改手机号" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2218" y="1543" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DZ6jfc3219-5HhBuk_K5-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DZ6jfc3219-5HhBuk_K5-23" target="DZ6jfc3219-5HhBuk_K5-24">
           <mxGeometry relative="1" as="geometry" />
@@ -1112,11 +1111,6 @@
         </mxCell>
         <mxCell id="DZ6jfc3219-5HhBuk_K5-34" value="&lt;br&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;修改宿舍房间号&lt;/span&gt;&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="1703" y="1548" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="DZ6jfc3219-5HhBuk_K5-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DZ6jfc3219-5HhBuk_K5-35">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="2109" y="1469" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="DZ6jfc3219-5HhBuk_K5-35" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1984" y="1548" width="120" height="60" as="geometry" />
