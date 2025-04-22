@@ -1063,7 +1063,7 @@
         <mxCell id="DZ6jfc3219-5HhBuk_K5-15" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="DZ6jfc3219-5HhBuk_K5-2" target="DZ6jfc3219-5HhBuk_K5-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="DZ6jfc3219-5HhBuk_K5-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="DZ6jfc3219-5HhBuk_K5-2" target="DZ6jfc3219-5HhBuk_K5-6">
+        <mxCell id="DZ6jfc3219-5HhBuk_K5-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DZ6jfc3219-5HhBuk_K5-2" target="DZ6jfc3219-5HhBuk_K5-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="DZ6jfc3219-5HhBuk_K5-2" value="进行个人信息修改界面" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
