@@ -957,7 +957,7 @@
           <mxGeometry x="1069" y="744.5" width="199" height="53.5" as="geometry" />
         </mxCell>
         <mxCell id="uMyCTF6s-N0fcqRJ5eWZ-11" value="成功添加管理员" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1109" y="1016" width="172" height="49" as="geometry" />
+          <mxGeometry x="1076" y="476" width="172" height="49" as="geometry" />
         </mxCell>
         <mxCell id="uMyCTF6s-N0fcqRJ5eWZ-13" value="账号信息" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="834" y="1279" width="124" height="49" as="geometry" />
