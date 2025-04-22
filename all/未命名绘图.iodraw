@@ -1310,6 +1310,11 @@
         <mxCell id="oAzM1HqzuUDWrc07fD7h-2" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="519" y="68" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="oAzM1HqzuUDWrc07fD7h-18" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="oAzM1HqzuUDWrc07fD7h-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="418.3333740234375" y="292.33331298828125" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="oAzM1HqzuUDWrc07fD7h-4" value="进入寻物启事" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="519" y="194" width="120" height="60" as="geometry" />
         </mxCell>
@@ -1324,6 +1329,9 @@
         </mxCell>
         <mxCell id="oAzM1HqzuUDWrc07fD7h-16" value="寻物启事" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="676" y="301" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oAzM1HqzuUDWrc07fD7h-17" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="343" y="434" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
