@@ -952,7 +952,7 @@
         <mxCell id="uMyCTF6s-N0fcqRJ5eWZ-6" value="提示信息不能为空" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1068" y="476" width="188" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="uMyCTF6s-N0fcqRJ5eWZ-40" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uMyCTF6s-N0fcqRJ5eWZ-7" target="uMyCTF6s-N0fcqRJ5eWZ-9">
+        <mxCell id="uMyCTF6s-N0fcqRJ5eWZ-40" value="N" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uMyCTF6s-N0fcqRJ5eWZ-7" target="uMyCTF6s-N0fcqRJ5eWZ-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="uMyCTF6s-N0fcqRJ5eWZ-49" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uMyCTF6s-N0fcqRJ5eWZ-7" target="uMyCTF6s-N0fcqRJ5eWZ-8">
