@@ -941,6 +941,9 @@
         <mxCell id="uMyCTF6s-N0fcqRJ5eWZ-6" value="提示信息不能为空" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="520" y="744.5" width="188" height="49" as="geometry" />
         </mxCell>
+        <mxCell id="uMyCTF6s-N0fcqRJ5eWZ-38" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uMyCTF6s-N0fcqRJ5eWZ-7" target="uMyCTF6s-N0fcqRJ5eWZ-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="uMyCTF6s-N0fcqRJ5eWZ-7" value="数据库中是否有该用户名" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="784.5" y="588" width="225" height="85" as="geometry" />
         </mxCell>
