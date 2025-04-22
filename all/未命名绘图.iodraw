@@ -1065,8 +1065,10 @@
             <mxPoint x="1542" y="1549" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DZ6jfc3219-5HhBuk_K5-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="DZ6jfc3219-5HhBuk_K5-2" target="DZ6jfc3219-5HhBuk_K5-5">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="DZ6jfc3219-5HhBuk_K5-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="DZ6jfc3219-5HhBuk_K5-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1796.066666666667" y="1543" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="DZ6jfc3219-5HhBuk_K5-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="DZ6jfc3219-5HhBuk_K5-2" target="DZ6jfc3219-5HhBuk_K5-6">
           <mxGeometry relative="1" as="geometry" />
@@ -1087,9 +1089,6 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1542" y="1609" as="sourcePoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="DZ6jfc3219-5HhBuk_K5-5" value="修改宿舍房间号" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1736" y="1543" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DZ6jfc3219-5HhBuk_K5-6" value="修改姓名" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1990" y="1544" width="120" height="60" as="geometry" />
@@ -1115,8 +1114,11 @@
         <mxCell id="DZ6jfc3219-5HhBuk_K5-31" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1472" y="1893" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="DZ6jfc3219-5HhBuk_K5-32" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="DZ6jfc3219-5HhBuk_K5-32" value="修改个人头像" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1482" y="1548" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DZ6jfc3219-5HhBuk_K5-33" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1742" y="1547" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
