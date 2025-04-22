@@ -1348,6 +1348,9 @@
         <mxCell id="oAzM1HqzuUDWrc07fD7h-30" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="678" y="365" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="oAzM1HqzuUDWrc07fD7h-31" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="364.5" y="541" width="103" height="53" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
