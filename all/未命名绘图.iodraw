@@ -1105,17 +1105,14 @@
         <mxCell id="DZ6jfc3219-5HhBuk_K5-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DZ6jfc3219-5HhBuk_K5-24" target="DZ6jfc3219-5HhBuk_K5-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="DZ6jfc3219-5HhBuk_K5-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DZ6jfc3219-5HhBuk_K5-24" target="DZ6jfc3219-5HhBuk_K5-29">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="DZ6jfc3219-5HhBuk_K5-24" value="插入文件格式是否正确" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1496.5" y="1775" width="91" height="61" as="geometry" />
         </mxCell>
         <mxCell id="DZ6jfc3219-5HhBuk_K5-25" value="插入文件格式不正确" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1296" y="1775" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="DZ6jfc3219-5HhBuk_K5-29" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1482" y="1916.5" width="120" height="60" as="geometry" />
+        <mxCell id="DZ6jfc3219-5HhBuk_K5-31" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1472" y="1893" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
