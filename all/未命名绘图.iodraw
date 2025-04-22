@@ -1518,14 +1518,20 @@
         <mxCell id="40kboMVZspeu3Mp1bDKl-14" value="输入需要报修信息" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="519" y="198" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="40kboMVZspeu3Mp1bDKl-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="40kboMVZspeu3Mp1bDKl-15" target="40kboMVZspeu3Mp1bDKl-19">
+        <mxCell id="40kboMVZspeu3Mp1bDKl-20" value="Y" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="40kboMVZspeu3Mp1bDKl-15" target="40kboMVZspeu3Mp1bDKl-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="40kboMVZspeu3Mp1bDKl-15" value="是否需要立即修理" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="524" y="299" width="110" height="42" as="geometry" />
         </mxCell>
+        <mxCell id="40kboMVZspeu3Mp1bDKl-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="40kboMVZspeu3Mp1bDKl-19" target="40kboMVZspeu3Mp1bDKl-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="40kboMVZspeu3Mp1bDKl-19" value="输入联系方式" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="519" y="388" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="40kboMVZspeu3Mp1bDKl-21" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="519" y="503" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
