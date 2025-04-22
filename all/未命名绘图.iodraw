@@ -1096,14 +1096,17 @@
         <mxCell id="DZ6jfc3219-5HhBuk_K5-7" value="修改手机号" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2218" y="1543" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="DZ6jfc3219-5HhBuk_K5-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DZ6jfc3219-5HhBuk_K5-23" target="DZ6jfc3219-5HhBuk_K5-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="DZ6jfc3219-5HhBuk_K5-23" value="插入个人头像" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="1480" y="1663" width="120" height="60" as="geometry" />
+          <mxGeometry x="1482" y="1666" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DZ6jfc3219-5HhBuk_K5-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DZ6jfc3219-5HhBuk_K5-24" target="DZ6jfc3219-5HhBuk_K5-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="DZ6jfc3219-5HhBuk_K5-24" value="插入文件格式是否正确" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1489" y="1774" width="91" height="61" as="geometry" />
+          <mxGeometry x="1495" y="1776" width="91" height="61" as="geometry" />
         </mxCell>
         <mxCell id="DZ6jfc3219-5HhBuk_K5-25" value="插入文件格式不正确" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1296" y="1775" width="120" height="60" as="geometry" />
