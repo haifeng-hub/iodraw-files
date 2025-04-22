@@ -1515,8 +1515,8 @@
         <mxCell id="40kboMVZspeu3Mp1bDKl-14" value="输入需要报修信息" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="519" y="198" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="40kboMVZspeu3Mp1bDKl-15" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="539" y="302" width="80" height="80" as="geometry" />
+        <mxCell id="40kboMVZspeu3Mp1bDKl-15" value="是否需要立即修理" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="539" y="302" width="80" height="42" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
