@@ -1322,7 +1322,7 @@
         <mxCell id="oAzM1HqzuUDWrc07fD7h-15" value="失物招领" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="356" y="301" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="oAzM1HqzuUDWrc07fD7h-16" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="oAzM1HqzuUDWrc07fD7h-16" value="寻物启事" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="676" y="301" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
