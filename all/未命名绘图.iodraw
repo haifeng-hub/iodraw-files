@@ -1562,11 +1562,14 @@
         <mxCell id="FEFq3QiBygx-5Q_GKjlm-6" value="用户" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="393" y="184" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="FEFq3QiBygx-5Q_GKjlm-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FEFq3QiBygx-5Q_GKjlm-14" target="FEFq3QiBygx-5Q_GKjlm-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="FEFq3QiBygx-5Q_GKjlm-14" value="查询剩余电量" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="519" y="306" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FEFq3QiBygx-5Q_GKjlm-17" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="539" y="410" width="80" height="80" as="geometry" />
+          <mxGeometry x="518.5" y="406" width="121" height="44" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
