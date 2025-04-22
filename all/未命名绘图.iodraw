@@ -1334,6 +1334,12 @@
         <mxCell id="oAzM1HqzuUDWrc07fD7h-17" value="输入相对应信息" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="343" y="434" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="oAzM1HqzuUDWrc07fD7h-22" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="673" y="428" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oAzM1HqzuUDWrc07fD7h-23" value="输入相对应信息" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="343" y="434" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
