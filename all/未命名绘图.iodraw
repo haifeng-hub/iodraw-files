@@ -1550,10 +1550,8 @@
         <mxCell id="FEFq3QiBygx-5Q_GKjlm-2" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="519" y="68" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FEFq3QiBygx-5Q_GKjlm-3" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FEFq3QiBygx-5Q_GKjlm-4">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="579" y="311" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="FEFq3QiBygx-5Q_GKjlm-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FEFq3QiBygx-5Q_GKjlm-4" target="FEFq3QiBygx-5Q_GKjlm-14">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FEFq3QiBygx-5Q_GKjlm-4" value="进入电费缴纳界面" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="519" y="194" width="120" height="60" as="geometry" />
@@ -1565,7 +1563,7 @@
           <mxGeometry x="393" y="184" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="FEFq3QiBygx-5Q_GKjlm-14" value="查询剩余电量" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="517" y="313" width="120" height="60" as="geometry" />
+          <mxGeometry x="519" y="306" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
