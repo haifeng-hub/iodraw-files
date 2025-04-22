@@ -1060,21 +1060,6 @@
         <mxCell id="DZ6jfc3219-5HhBuk_K5-1" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1867" y="1275" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="DZ6jfc3219-5HhBuk_K5-15" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="DZ6jfc3219-5HhBuk_K5-2">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1542" y="1549" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="DZ6jfc3219-5HhBuk_K5-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="DZ6jfc3219-5HhBuk_K5-2">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="2050" y="1544" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="DZ6jfc3219-5HhBuk_K5-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="DZ6jfc3219-5HhBuk_K5-2">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="2278" y="1543" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="DZ6jfc3219-5HhBuk_K5-2" value="进行个人信息修改界面" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1867" y="1399" width="120" height="60" as="geometry" />
         </mxCell>
@@ -1114,6 +1099,9 @@
         </mxCell>
         <mxCell id="DZ6jfc3219-5HhBuk_K5-35" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1984" y="1548" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DZ6jfc3219-5HhBuk_K5-37" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2227" y="1545" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
