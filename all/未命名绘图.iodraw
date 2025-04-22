@@ -944,6 +944,9 @@
         <mxCell id="uMyCTF6s-N0fcqRJ5eWZ-6" value="提示信息不能为空" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="520" y="744.5" width="188" height="49" as="geometry" />
         </mxCell>
+        <mxCell id="uMyCTF6s-N0fcqRJ5eWZ-40" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uMyCTF6s-N0fcqRJ5eWZ-7" target="uMyCTF6s-N0fcqRJ5eWZ-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="uMyCTF6s-N0fcqRJ5eWZ-7" value="数据库中是否有该用户名" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="784.5" y="588" width="225" height="85" as="geometry" />
         </mxCell>
@@ -963,7 +966,7 @@
           <mxGeometry x="1076" y="476" width="172" height="49" as="geometry" />
         </mxCell>
         <mxCell id="uMyCTF6s-N0fcqRJ5eWZ-13" value="账号信息" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="835" y="875" width="124" height="49" as="geometry" />
+          <mxGeometry x="602" y="919" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="uMyCTF6s-N0fcqRJ5eWZ-14" value="账号管理数据库" style="shape=cylinder3;boundedLbl=1;backgroundOutline=1;size=10;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="835" y="1038" width="127" height="71" as="geometry" />
