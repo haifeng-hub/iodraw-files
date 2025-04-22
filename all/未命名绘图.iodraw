@@ -1530,7 +1530,7 @@
         <mxCell id="40kboMVZspeu3Mp1bDKl-19" value="输入联系方式" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="519" y="388" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="40kboMVZspeu3Mp1bDKl-21" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="40kboMVZspeu3Mp1bDKl-21" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="519" y="503" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
