@@ -1201,6 +1201,9 @@
         <mxCell id="daPEY9SbJjOjVUm6iGDQ-1" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="519" y="68" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="daPEY9SbJjOjVUm6iGDQ-2" value="进入通知页面" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="519" y="194" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
