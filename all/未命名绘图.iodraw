@@ -942,7 +942,7 @@
           <mxGeometry x="791.5" y="460" width="209" height="77" as="geometry" />
         </mxCell>
         <mxCell id="uMyCTF6s-N0fcqRJ5eWZ-6" value="提示信息不能为空" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="520" y="744.5" width="188" height="49" as="geometry" />
+          <mxGeometry x="1065" y="477" width="188" height="49" as="geometry" />
         </mxCell>
         <mxCell id="uMyCTF6s-N0fcqRJ5eWZ-40" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uMyCTF6s-N0fcqRJ5eWZ-7" target="uMyCTF6s-N0fcqRJ5eWZ-9">
           <mxGeometry relative="1" as="geometry" />
