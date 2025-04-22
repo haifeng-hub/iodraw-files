@@ -1119,7 +1119,10 @@
         <mxCell id="DZ6jfc3219-5HhBuk_K5-45" value="审核宿舍房间号是否正确" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1723" y="1873" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="DZ6jfc3219-5HhBuk_K5-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="DZ6jfc3219-5HhBuk_K5-49" target="DZ6jfc3219-5HhBuk_K5-45">
+        <mxCell id="DZ6jfc3219-5HhBuk_K5-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="DZ6jfc3219-5HhBuk_K5-49" target="DZ6jfc3219-5HhBuk_K5-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DZ6jfc3219-5HhBuk_K5-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="DZ6jfc3219-5HhBuk_K5-49" target="DZ6jfc3219-5HhBuk_K5-31">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="DZ6jfc3219-5HhBuk_K5-49" value="管理员" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
