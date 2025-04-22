@@ -1081,8 +1081,11 @@
         <mxCell id="DZ6jfc3219-5HhBuk_K5-3" value="用户" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="2069" y="1389" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="DZ6jfc3219-5HhBuk_K5-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DZ6jfc3219-5HhBuk_K5-4" target="DZ6jfc3219-5HhBuk_K5-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="DZ6jfc3219-5HhBuk_K5-4" value="修改个人头像" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1480" y="1543" width="120" height="60" as="geometry" />
+          <mxGeometry x="1482" y="1549" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DZ6jfc3219-5HhBuk_K5-5" value="修改宿舍房间号" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1736" y="1543" width="120" height="60" as="geometry" />
