@@ -1293,7 +1293,7 @@
         <mxCell id="YTOQmtyAfnmk_S82o4-Y-12" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="519" y="520" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="YTOQmtyAfnmk_S82o4-Y-13" value="宿管发布信息" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="YTOQmtyAfnmk_S82o4-Y-13" value="宿管输入信息" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="515" y="311" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
