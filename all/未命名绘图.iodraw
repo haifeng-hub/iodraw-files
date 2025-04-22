@@ -965,6 +965,9 @@
         <mxCell id="uMyCTF6s-N0fcqRJ5eWZ-10" value="提示密码和确认密码不一致" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1069" y="744.5" width="199" height="53.5" as="geometry" />
         </mxCell>
+        <mxCell id="uMyCTF6s-N0fcqRJ5eWZ-45" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uMyCTF6s-N0fcqRJ5eWZ-11" target="uMyCTF6s-N0fcqRJ5eWZ-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="uMyCTF6s-N0fcqRJ5eWZ-11" value="成功添加管理员" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="810" y="855" width="172" height="49" as="geometry" />
         </mxCell>
@@ -1011,6 +1014,9 @@
               <mxPoint x="642" y="849" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="uMyCTF6s-N0fcqRJ5eWZ-46" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="836" y="946" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
