@@ -1173,19 +1173,8 @@
         <mxCell id="DZ6jfc3219-5HhBuk_K5-71" value="验证码是否正确" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2253.5" y="1778" width="105" height="65" as="geometry" />
         </mxCell>
-        <mxCell id="DZ6jfc3219-5HhBuk_K5-77" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DZ6jfc3219-5HhBuk_K5-72">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="2306" y="2025" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="DZ6jfc3219-5HhBuk_K5-72" value="输入更该后的手机号和验证码" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="2246" y="1895" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="DZ6jfc3219-5HhBuk_K5-80" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DZ6jfc3219-5HhBuk_K5-79" target="DZ6jfc3219-5HhBuk_K5-72">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="DZ6jfc3219-5HhBuk_K5-79" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2259" y="2032" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
