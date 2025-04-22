@@ -514,8 +514,9 @@
         <mxCell id="j0rJzowzzbi5A3T-aMSf-4" value="用户名和密码是否为空" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="211.5" y="290" width="184" height="83" as="geometry" />
         </mxCell>
-        <mxCell id="j0rJzowzzbi5A3T-aMSf-57" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="j0rJzowzzbi5A3T-aMSf-5" target="j0rJzowzzbi5A3T-aMSf-48">
+        <mxCell id="j0rJzowzzbi5A3T-aMSf-57" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="j0rJzowzzbi5A3T-aMSf-5">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="250.97959183673447" y="203.34183673469374" as="targetPoint" />
             <Array as="points">
               <mxPoint x="77" y="203" />
             </Array>
@@ -533,8 +534,9 @@
         <mxCell id="j0rJzowzzbi5A3T-aMSf-7" value="用户名和密码输入正确, 进入小程序" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="201" y="552" width="205" height="54" as="geometry" />
         </mxCell>
-        <mxCell id="j0rJzowzzbi5A3T-aMSf-58" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="j0rJzowzzbi5A3T-aMSf-8" target="j0rJzowzzbi5A3T-aMSf-48">
+        <mxCell id="j0rJzowzzbi5A3T-aMSf-58" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="j0rJzowzzbi5A3T-aMSf-8">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="368.60629921259806" y="202.0570866141734" as="targetPoint" />
             <Array as="points">
               <mxPoint x="532" y="202" />
             </Array>
@@ -590,22 +592,26 @@
         <mxCell id="j0rJzowzzbi5A3T-aMSf-38" value="输入用户名及密码" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="236" y="190" width="137" height="41" as="geometry" />
         </mxCell>
-        <mxCell id="j0rJzowzzbi5A3T-aMSf-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="j0rJzowzzbi5A3T-aMSf-48">
+        <mxCell id="j0rJzowzzbi5A3T-aMSf-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="306" y="149" as="sourcePoint" />
+            <mxPoint x="305.45454545454504" y="191" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="j0rJzowzzbi5A3T-aMSf-41" value="N" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="j0rJzowzzbi5A3T-aMSf-42" target="j0rJzowzzbi5A3T-aMSf-44">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="j0rJzowzzbi5A3T-aMSf-41" value="N" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="j0rJzowzzbi5A3T-aMSf-44">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="305.49999999999955" y="375" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="j0rJzowzzbi5A3T-aMSf-49" value="Y" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="j0rJzowzzbi5A3T-aMSf-42" target="j0rJzowzzbi5A3T-aMSf-5">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="j0rJzowzzbi5A3T-aMSf-49" value="Y" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="j0rJzowzzbi5A3T-aMSf-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="213.60076670317721" y="333.45454545454527" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="j0rJzowzzbi5A3T-aMSf-42" value="用户名和密码是否为空" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="213.5" y="292" width="184" height="83" as="geometry" />
-        </mxCell>
-        <mxCell id="j0rJzowzzbi5A3T-aMSf-43" value="Y" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="j0rJzowzzbi5A3T-aMSf-44" target="j0rJzowzzbi5A3T-aMSf-45">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="j0rJzowzzbi5A3T-aMSf-43" value="Y" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="j0rJzowzzbi5A3T-aMSf-44">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="305.49999999999955" y="554" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="j0rJzowzzbi5A3T-aMSf-52" value="N" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="j0rJzowzzbi5A3T-aMSf-44" target="j0rJzowzzbi5A3T-aMSf-8">
           <mxGeometry relative="1" as="geometry" />
@@ -613,11 +619,10 @@
         <mxCell id="j0rJzowzzbi5A3T-aMSf-44" value="密码是否匹配数据库" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="211" y="417" width="189" height="86" as="geometry" />
         </mxCell>
-        <mxCell id="j0rJzowzzbi5A3T-aMSf-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="j0rJzowzzbi5A3T-aMSf-45" target="j0rJzowzzbi5A3T-aMSf-9">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="j0rJzowzzbi5A3T-aMSf-45" value="用户名和密码输入正确, 进入小程序" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="203" y="554" width="205" height="54" as="geometry" />
+        <mxCell id="j0rJzowzzbi5A3T-aMSf-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="j0rJzowzzbi5A3T-aMSf-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="305.5" y="608" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="j0rJzowzzbi5A3T-aMSf-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
@@ -625,11 +630,11 @@
             <mxPoint x="306" y="113" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="j0rJzowzzbi5A3T-aMSf-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="j0rJzowzzbi5A3T-aMSf-48" target="j0rJzowzzbi5A3T-aMSf-42">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="j0rJzowzzbi5A3T-aMSf-48" value="输入用户名及密码" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="237" y="191" width="137" height="41" as="geometry" />
+        <mxCell id="j0rJzowzzbi5A3T-aMSf-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="305.45454545454504" y="231.99999999999977" as="sourcePoint" />
+            <mxPoint x="305.49999999999955" y="292" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
