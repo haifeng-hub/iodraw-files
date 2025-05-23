@@ -2671,7 +2671,7 @@
           <mxGeometry x="682" y="840" width="188" height="49" as="geometry" />
         </mxCell>
         <mxCell id="9KhGymi9i63sxjAp125N-10" value="是否在宿舍范围内?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="682" y="926" width="183" height="183" as="geometry" />
+          <mxGeometry x="684.5" y="926" width="183" height="183" as="geometry" />
         </mxCell>
         <mxCell id="9KhGymi9i63sxjAp125N-11" value="提示位置异常" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="757" y="1182" width="156" height="49" as="geometry" />
