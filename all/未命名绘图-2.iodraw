@@ -2322,19 +2322,11 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XUwIG_liIp07Ohd70iV--37" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.73;entryY=0.01;rounded=0;" edge="1" parent="1" source="XUwIG_liIp07Ohd70iV--9" target="XUwIG_liIp07Ohd70iV--11">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="936" y="824" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="XUwIG_liIp07Ohd70iV--37" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.73;entryY=0.01;rounded=0;" edge="1" parent="1" source="XUwIG_liIp07Ohd70iV--9" target="XUwIG_liIp07Ohd70iV--11">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="XUwIG_liIp07Ohd70iV--38" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.01;entryY=0.01;rounded=0;" edge="1" parent="1" source="XUwIG_liIp07Ohd70iV--10" target="XUwIG_liIp07Ohd70iV--11">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="615" y="824" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="XUwIG_liIp07Ohd70iV--38" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.01;entryY=0.01;rounded=0;" edge="1" parent="1" source="XUwIG_liIp07Ohd70iV--10" target="XUwIG_liIp07Ohd70iV--11">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XUwIG_liIp07Ohd70iV--39" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="XUwIG_liIp07Ohd70iV--11" target="XUwIG_liIp07Ohd70iV--12">
           <mxGeometry relative="1" as="geometry">
