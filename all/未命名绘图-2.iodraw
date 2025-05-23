@@ -4364,9 +4364,6 @@
         <mxCell id="OQJQ3TFo7hP5b4XqAZz0-18" value="宿舍管理员" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="310" y="1680" width="100" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="OQJQ3TFo7hP5b4XqAZz0-19" value="学生用户" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="798" y="1750" width="124" height="49" as="geometry" />
-        </mxCell>
         <mxCell id="OQJQ3TFo7hP5b4XqAZz0-20" value="宿舍管理员" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="598" y="2010" width="140" height="49" as="geometry" />
         </mxCell>
@@ -4375,20 +4372,6 @@
         </mxCell>
         <mxCell id="OQJQ3TFo7hP5b4XqAZz0-22" value="宿舍管理系统" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="782" y="1871" width="156" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="OQJQ3TFo7hP5b4XqAZz0-23" value="各类信息查询和业务申请" style="curved=1;startArrow=none;endArrow=block;exitX=0.2;exitY=0.99;entryX=0.26;entryY=0.01;rounded=0;" edge="1" parent="1" source="OQJQ3TFo7hP5b4XqAZz0-19" target="OQJQ3TFo7hP5b4XqAZz0-22">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="768" y="1835" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="OQJQ3TFo7hP5b4XqAZz0-24" value="查询结果或办理反馈" style="curved=1;startArrow=none;endArrow=block;exitX=0.74;exitY=0.01;entryX=0.8;entryY=0.99;rounded=0;" edge="1" parent="1" source="OQJQ3TFo7hP5b4XqAZz0-22" target="OQJQ3TFo7hP5b4XqAZz0-19">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="952" y="1835" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="OQJQ3TFo7hP5b4XqAZz0-25" value="基础数据录入、宿舍事务申请审批处理" style="curved=1;startArrow=none;endArrow=block;exitX=0.77;exitY=0.01;entryX=0.31;entryY=1;rounded=0;" edge="1" parent="1" source="OQJQ3TFo7hP5b4XqAZz0-20" target="OQJQ3TFo7hP5b4XqAZz0-22">
           <mxGeometry relative="1" as="geometry">
@@ -4421,6 +4404,11 @@
         <mxCell id="OQJQ3TFo7hP5b4XqAZz0-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="OQJQ3TFo7hP5b4XqAZz0-14">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="330" y="1570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OQJQ3TFo7hP5b4XqAZz0-43" value="查询结果或办理反馈" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="OQJQ3TFo7hP5b4XqAZz0-40">
+          <mxGeometry x="-0.1451" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
