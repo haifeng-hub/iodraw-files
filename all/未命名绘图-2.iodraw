@@ -1842,10 +1842,10 @@
           <mxGeometry x="739.5" y="1190" width="151" height="151" as="geometry" />
         </mxCell>
         <mxCell id="A8CwcBPdFAWz8-e88l2W-17" value="继续展示" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="723" y="1823" width="124" height="49" as="geometry" />
+          <mxGeometry x="708" y="1900" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="A8CwcBPdFAWz8-e88l2W-18" value="通过小程序联系对方" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="723" y="1440" width="204" height="49" as="geometry" />
+          <mxGeometry x="721" y="1400" width="204" height="49" as="geometry" />
         </mxCell>
         <mxCell id="A8CwcBPdFAWz8-e88l2W-19" value="确认物品信息" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="745" y="1570" width="156" height="49" as="geometry" />
