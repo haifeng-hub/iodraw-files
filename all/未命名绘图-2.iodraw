@@ -2673,6 +2673,9 @@
         <mxCell id="9KhGymi9i63sxjAp125N-9" value="学生获取当前位置" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="682" y="840" width="188" height="49" as="geometry" />
         </mxCell>
+        <mxCell id="9KhGymi9i63sxjAp125N-49" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9KhGymi9i63sxjAp125N-10" target="9KhGymi9i63sxjAp125N-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="9KhGymi9i63sxjAp125N-10" value="是否在宿舍范围内?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="684.5" y="926" width="183" height="183" as="geometry" />
         </mxCell>
@@ -2683,7 +2686,7 @@
           <mxGeometry x="698" y="1270" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="9KhGymi9i63sxjAp125N-13" value="上传证明材料" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="757" y="1379" width="156" height="49" as="geometry" />
+          <mxGeometry x="698" y="1370" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="9KhGymi9i63sxjAp125N-14" value="确认签到" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="670" y="1460" width="124" height="49" as="geometry" />
@@ -2744,13 +2747,6 @@
         <mxCell id="9KhGymi9i63sxjAp125N-31" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="9KhGymi9i63sxjAp125N-9" target="9KhGymi9i63sxjAp125N-10">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="9KhGymi9i63sxjAp125N-32" value="否" style="curved=1;startArrow=none;endArrow=block;exitX=0.74;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="9KhGymi9i63sxjAp125N-10" target="9KhGymi9i63sxjAp125N-11">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="835" y="1145" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="9KhGymi9i63sxjAp125N-33" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="9KhGymi9i63sxjAp125N-11" target="9KhGymi9i63sxjAp125N-12">
