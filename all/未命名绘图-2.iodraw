@@ -2063,13 +2063,6 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SMIPeMhjXmC3Eqsy3d5C-24" value="管理员" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.73;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="SMIPeMhjXmC3Eqsy3d5C-2" target="SMIPeMhjXmC3Eqsy3d5C-3">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="971" y="298" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="SMIPeMhjXmC3Eqsy3d5C-25" value="学生" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.73;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="SMIPeMhjXmC3Eqsy3d5C-2" target="SMIPeMhjXmC3Eqsy3d5C-4">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
