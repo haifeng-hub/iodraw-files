@@ -4660,19 +4660,10 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ADRzzB6JItKm83zHMYHP" name="第 36 页">
-    <mxGraphModel dx="1453" dy="768" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1e+25" pageHeight="1e+22" math="0" shadow="0">
+    <mxGraphModel dx="14530" dy="7680" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1e+25" pageHeight="1e+22" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="gU_QRWxInQZ9Uw_zRF6k-198" value="一个宿舍（dorm）可容纳多个学生（user），即 1个宿舍 → n个用户。" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
-          <mxGeometry x="500" y="350" width="480" height="78" as="geometry" />
-        </mxCell>
-        <mxCell id="gU_QRWxInQZ9Uw_zRF6k-199" value="用户表的宿舍ID字段为外键（Foreign Key, FK），指向宿舍表的主键（PK）。" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="gU_QRWxInQZ9Uw_zRF6k-198">
-          <mxGeometry y="26" width="480" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="gU_QRWxInQZ9Uw_zRF6k-200" value="通过外键关联实现数据一致性（例如删除宿舍时，需级联处理用户表中的关联记录）。" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="gU_QRWxInQZ9Uw_zRF6k-198">
-          <mxGeometry y="52" width="480" height="26" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
