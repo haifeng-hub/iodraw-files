@@ -4350,11 +4350,6 @@
         <mxCell id="OQJQ3TFo7hP5b4XqAZz0-38" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.9;exitY=0.2;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="OQJQ3TFo7hP5b4XqAZz0-16" target="OQJQ3TFo7hP5b4XqAZz0-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="OQJQ3TFo7hP5b4XqAZz0-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.855;exitY=0.855;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="OQJQ3TFo7hP5b4XqAZz0-16">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="370" y="1580" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="OQJQ3TFo7hP5b4XqAZz0-16" value="学生用户" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="240" y="1490" width="100" height="100" as="geometry" />
         </mxCell>
@@ -4417,6 +4412,9 @@
               <mxPoint x="944" y="1965" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="OQJQ3TFo7hP5b4XqAZz0-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0.943;entryY=0.8;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="OQJQ3TFo7hP5b4XqAZz0-14" target="OQJQ3TFo7hP5b4XqAZz0-16">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
