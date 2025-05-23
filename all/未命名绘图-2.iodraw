@@ -4407,73 +4407,73 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="n4cvmEyoYjHpIw_x5Qgy-1" value="外部实体：学生用户" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="568" y="1840" width="204" height="49" as="geometry" />
+          <mxGeometry x="988" y="1750" width="204" height="49" as="geometry" />
         </mxCell>
         <mxCell id="n4cvmEyoYjHpIw_x5Qgy-2" value="处理过程：宿舍管理微信小程序" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="544" y="1961" width="252" height="66" as="geometry" />
+          <mxGeometry x="964" y="1871" width="252" height="66" as="geometry" />
         </mxCell>
         <mxCell id="n4cvmEyoYjHpIw_x5Qgy-3" value="外部实体：宿舍管理员" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="240" y="2115" width="220" height="49" as="geometry" />
+          <mxGeometry x="660" y="2025" width="220" height="49" as="geometry" />
         </mxCell>
         <mxCell id="n4cvmEyoYjHpIw_x5Qgy-4" value="外部实体：学校管理部门" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="552" y="2115" width="236" height="49" as="geometry" />
+          <mxGeometry x="972" y="2025" width="236" height="49" as="geometry" />
         </mxCell>
         <mxCell id="n4cvmEyoYjHpIw_x5Qgy-5" value="数据存储：系统数据库" style="shape=cylinder3;boundedLbl=1;backgroundOutline=1;size=10;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="841" y="2100" width="175" height="77" as="geometry" />
+          <mxGeometry x="1261" y="2010" width="175" height="77" as="geometry" />
         </mxCell>
         <mxCell id="n4cvmEyoYjHpIw_x5Qgy-6" value="个人信息、事务申请" style="curved=1;startArrow=none;endArrow=block;exitX=0.33;exitY=0.99;entryX=0.34;entryY=0.01;rounded=0;" edge="1" parent="1" source="n4cvmEyoYjHpIw_x5Qgy-1" target="n4cvmEyoYjHpIw_x5Qgy-2">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="586" y="1925" />
+              <mxPoint x="1006" y="1835" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="n4cvmEyoYjHpIw_x5Qgy-7" value="通知、审批结果" style="curved=1;startArrow=none;endArrow=block;exitX=0.62;exitY=-0.01;entryX=0.05;entryY=1.01;rounded=0;" edge="1" parent="1" source="n4cvmEyoYjHpIw_x5Qgy-3" target="n4cvmEyoYjHpIw_x5Qgy-2">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="434" y="2064" />
+              <mxPoint x="854" y="1974" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="n4cvmEyoYjHpIw_x5Qgy-8" value="政策数据、监督信息" style="curved=1;startArrow=none;endArrow=block;exitX=0.62;exitY=-0.01;entryX=0.66;entryY=1.01;rounded=0;" edge="1" parent="1" source="n4cvmEyoYjHpIw_x5Qgy-4" target="n4cvmEyoYjHpIw_x5Qgy-2">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="754" y="2064" />
+              <mxPoint x="1174" y="1974" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="n4cvmEyoYjHpIw_x5Qgy-9" value="反馈结果、通知信息" style="curved=1;startArrow=none;endArrow=block;exitX=0.66;exitY=0.01;entryX=0.67;entryY=0.99;rounded=0;" edge="1" parent="1" source="n4cvmEyoYjHpIw_x5Qgy-2" target="n4cvmEyoYjHpIw_x5Qgy-1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="754" y="1925" />
+              <mxPoint x="1174" y="1835" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="n4cvmEyoYjHpIw_x5Qgy-10" value="事务处理结果、信息反馈" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.84;entryX=0.38;entryY=-0.01;rounded=0;" edge="1" parent="1" source="n4cvmEyoYjHpIw_x5Qgy-2" target="n4cvmEyoYjHpIw_x5Qgy-3">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="266" y="2064" />
+              <mxPoint x="686" y="1974" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="n4cvmEyoYjHpIw_x5Qgy-11" value="管理报表、系统日志" style="curved=1;startArrow=none;endArrow=block;exitX=0.34;exitY=1.01;entryX=0.38;entryY=-0.01;rounded=0;" edge="1" parent="1" source="n4cvmEyoYjHpIw_x5Qgy-2" target="n4cvmEyoYjHpIw_x5Qgy-4">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="586" y="2064" />
+              <mxPoint x="1006" y="1974" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="n4cvmEyoYjHpIw_x5Qgy-12" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.84;exitY=1.01;entryX=0.26;entryY=0;rounded=0;" edge="1" parent="1" source="n4cvmEyoYjHpIw_x5Qgy-2" target="n4cvmEyoYjHpIw_x5Qgy-5">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="848" y="2064" />
+              <mxPoint x="1268" y="1974" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="n4cvmEyoYjHpIw_x5Qgy-13" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.53;exitY=0;entryX=1;entryY=1;rounded=0;" edge="1" parent="1" source="n4cvmEyoYjHpIw_x5Qgy-5" target="n4cvmEyoYjHpIw_x5Qgy-2">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="939" y="2064" />
+              <mxPoint x="1359" y="1974" />
             </Array>
           </mxGeometry>
         </mxCell>
