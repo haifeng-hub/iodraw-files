@@ -2621,14 +2621,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="AqpJqt0BLSdEAmBp15Ga-51" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.51;exitY=0.99;entryX=0.1;entryY=-0.01;rounded=0;" edge="1" parent="1" source="AqpJqt0BLSdEAmBp15Ga-19" target="AqpJqt0BLSdEAmBp15Ga-25">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="729" y="1886" />
-              <mxPoint x="729" y="1996" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
