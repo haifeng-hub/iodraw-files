@@ -2192,7 +2192,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="t07lTaSVrCnKSb8hCKkw" name="第 21 页">
-    <mxGraphModel dx="1453" dy="768" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1e+25" pageHeight="1e+22" math="0" shadow="0">
+    <mxGraphModel dx="2642" dy="1396" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1e+25" pageHeight="1e+22" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2372,12 +2372,8 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XUwIG_liIp07Ohd70iV--49" value="换宿" style="curved=1;startArrow=none;endArrow=block;exitX=0.99;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="XUwIG_liIp07Ohd70iV--20" target="XUwIG_liIp07Ohd70iV--21">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1067" y="1622" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="XUwIG_liIp07Ohd70iV--49" value="换宿" style="startArrow=none;endArrow=block;exitX=0.99;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="XUwIG_liIp07Ohd70iV--20" target="XUwIG_liIp07Ohd70iV--21">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XUwIG_liIp07Ohd70iV--50" value="退宿" style="startArrow=none;endArrow=block;exitX=0;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="XUwIG_liIp07Ohd70iV--20" target="XUwIG_liIp07Ohd70iV--22">
           <mxGeometry relative="1" as="geometry" />
