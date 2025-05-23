@@ -1689,7 +1689,7 @@
           <mxGeometry x="821.5" y="520" width="151" height="151" as="geometry" />
         </mxCell>
         <mxCell id="fWXMqm6UiISyIzV3_qHW-6" value="提交注册申请" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="922" y="746" width="156" height="49" as="geometry" />
+          <mxGeometry x="821.5" y="746" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="fWXMqm6UiISyIzV3_qHW-7" value="系统验证学号真实性" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="898" y="845" width="204" height="49" as="geometry" />
@@ -1712,6 +1712,9 @@
         </mxCell>
         <mxCell id="fWXMqm6UiISyIzV3_qHW-8" value="验证通过?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="940" y="943" width="119" height="119" as="geometry" />
+        </mxCell>
+        <mxCell id="fWXMqm6UiISyIzV3_qHW-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="fWXMqm6UiISyIzV3_qHW-9" target="fWXMqm6UiISyIzV3_qHW-4">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fWXMqm6UiISyIzV3_qHW-9" value="提示错误信息" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="690" y="978" width="156" height="49" as="geometry" />
