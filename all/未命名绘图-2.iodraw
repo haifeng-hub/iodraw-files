@@ -2461,16 +2461,19 @@
           <mxGeometry x="826" y="1342" width="172" height="49" as="geometry" />
         </mxCell>
         <mxCell id="AqpJqt0BLSdEAmBp15Ga-15" value="系统验证信息合法性" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="330" y="1441" width="204" height="49" as="geometry" />
+          <mxGeometry x="419" y="1450" width="204" height="49" as="geometry" />
         </mxCell>
         <mxCell id="AqpJqt0BLSdEAmBp15Ga-16" value="发送至管理员审核" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="818" y="1441" width="188" height="49" as="geometry" />
         </mxCell>
+        <mxCell id="AqpJqt0BLSdEAmBp15Ga-58" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AqpJqt0BLSdEAmBp15Ga-17" target="AqpJqt0BLSdEAmBp15Ga-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="AqpJqt0BLSdEAmBp15Ga-17" value="验证通过?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="373" y="1539" width="119" height="119" as="geometry" />
+          <mxGeometry x="461.5" y="1550" width="119" height="119" as="geometry" />
         </mxCell>
         <mxCell id="AqpJqt0BLSdEAmBp15Ga-18" value="提示错误并返回" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="425" y="1766" width="172" height="49" as="geometry" />
+          <mxGeometry x="435" y="1766" width="172" height="49" as="geometry" />
         </mxCell>
         <mxCell id="AqpJqt0BLSdEAmBp15Ga-19" value="更新个人信息" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="647" y="1766" width="156" height="49" as="geometry" />
