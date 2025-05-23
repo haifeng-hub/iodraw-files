@@ -2072,6 +2072,9 @@
         <mxCell id="SMIPeMhjXmC3Eqsy3d5C-18" value="查看通知详情" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="550" y="1570" width="156" height="49" as="geometry" />
         </mxCell>
+        <mxCell id="SMIPeMhjXmC3Eqsy3d5C-59" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SMIPeMhjXmC3Eqsy3d5C-19" target="SMIPeMhjXmC3Eqsy3d5C-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="SMIPeMhjXmC3Eqsy3d5C-19" value="查看宿舍卫生得分" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="877" y="1570" width="188" height="49" as="geometry" />
         </mxCell>
@@ -2079,7 +2082,7 @@
           <mxGeometry x="1190" y="1558" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="SMIPeMhjXmC3Eqsy3d5C-21" value="标记已读" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="941" y="1670" width="124" height="49" as="geometry" />
+          <mxGeometry x="910.5" y="1700" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="SMIPeMhjXmC3Eqsy3d5C-22" value="公告流程结束" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="925" y="1790" width="156" height="49" as="geometry" />
@@ -2175,13 +2178,6 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="574" y="1632" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="SMIPeMhjXmC3Eqsy3d5C-46" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.6;entryY=-0.01;rounded=0;" edge="1" parent="1" source="SMIPeMhjXmC3Eqsy3d5C-19" target="SMIPeMhjXmC3Eqsy3d5C-21">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="796" y="1632" />
             </Array>
           </mxGeometry>
         </mxCell>
