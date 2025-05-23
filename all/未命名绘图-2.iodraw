@@ -3489,10 +3489,8 @@
         <mxCell id="BBbAyPDsoxGdBZsf5Lqo-10" value="退出页面" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1003" y="2536" width="124" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="BBbAyPDsoxGdBZsf5Lqo-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="BBbAyPDsoxGdBZsf5Lqo-11">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="560" y="1230" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="BBbAyPDsoxGdBZsf5Lqo-56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BBbAyPDsoxGdBZsf5Lqo-11" target="BBbAyPDsoxGdBZsf5Lqo-12">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BBbAyPDsoxGdBZsf5Lqo-11" value="选择捐赠物品类型&#xa;书籍/衣物/文具等" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="469" y="1100" width="189" height="66" as="geometry" />
