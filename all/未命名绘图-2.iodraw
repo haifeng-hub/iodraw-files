@@ -2721,7 +2721,7 @@
           <mxGeometry x="706" y="1870" width="151" height="151" as="geometry" />
         </mxCell>
         <mxCell id="9KhGymi9i63sxjAp125N-19" value="签到流程结束" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="701" y="2310" width="156" height="49" as="geometry" />
+          <mxGeometry x="698" y="2320" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="9KhGymi9i63sxjAp125N-20" value="联系未签到学生" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="693" y="2090" width="172" height="49" as="geometry" />
@@ -2797,14 +2797,6 @@
         <mxCell id="9KhGymi9i63sxjAp125N-40" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="9KhGymi9i63sxjAp125N-17" target="9KhGymi9i63sxjAp125N-18">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="9KhGymi9i63sxjAp125N-41" value="否" style="curved=1;startArrow=none;endArrow=block;exitX=0.23;exitY=1;entryX=0.31;entryY=0;rounded=0;" edge="1" parent="1" source="9KhGymi9i63sxjAp125N-18" target="9KhGymi9i63sxjAp125N-19">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="713" y="2077" />
-              <mxPoint x="713" y="2308" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="9KhGymi9i63sxjAp125N-43" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="9KhGymi9i63sxjAp125N-20" target="9KhGymi9i63sxjAp125N-21">
