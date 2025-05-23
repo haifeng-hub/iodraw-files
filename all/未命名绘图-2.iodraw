@@ -2677,16 +2677,16 @@
           <mxGeometry x="684.5" y="926" width="183" height="183" as="geometry" />
         </mxCell>
         <mxCell id="9KhGymi9i63sxjAp125N-11" value="提示位置异常" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="757" y="1182" width="156" height="49" as="geometry" />
+          <mxGeometry x="698" y="1170" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="9KhGymi9i63sxjAp125N-12" value="选择异常原因" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="757" y="1280" width="156" height="49" as="geometry" />
+          <mxGeometry x="698" y="1270" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="9KhGymi9i63sxjAp125N-13" value="上传证明材料" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="757" y="1379" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="9KhGymi9i63sxjAp125N-14" value="确认签到" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="711" y="1478" width="124" height="49" as="geometry" />
+          <mxGeometry x="670" y="1460" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="9KhGymi9i63sxjAp125N-15" value="系统记录签到信息&#xa;时间/位置/状态" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="679" y="1576" width="188" height="66" as="geometry" />
