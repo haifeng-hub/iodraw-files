@@ -2649,6 +2649,9 @@
         <mxCell id="9KhGymi9i63sxjAp125N-3" value="宿管创建查寝任务" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="679.5" y="280" width="188" height="49" as="geometry" />
         </mxCell>
+        <mxCell id="9KhGymi9i63sxjAp125N-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="9KhGymi9i63sxjAp125N-4" target="9KhGymi9i63sxjAp125N-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="9KhGymi9i63sxjAp125N-4" value="学生进入签到页面" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="430" y="720" width="188" height="49" as="geometry" />
         </mxCell>
