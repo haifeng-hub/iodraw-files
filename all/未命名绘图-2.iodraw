@@ -2247,11 +2247,14 @@
         <mxCell id="XUwIG_liIp07Ohd70iV--15" value="学生收到拒绝通知" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="529" y="1337" width="188" height="49" as="geometry" />
         </mxCell>
+        <mxCell id="XUwIG_liIp07Ohd70iV--59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="XUwIG_liIp07Ohd70iV--16" target="XUwIG_liIp07Ohd70iV--4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="XUwIG_liIp07Ohd70iV--16" value="是否重新申请?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="547.5" y="1451" width="151" height="151" as="geometry" />
         </mxCell>
         <mxCell id="XUwIG_liIp07Ohd70iV--17" value="流程终止" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="483" y="1659" width="124" height="49" as="geometry" />
+          <mxGeometry x="558.5" y="1680" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="XUwIG_liIp07Ohd70iV--18" value="生成批准通知" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="874" y="1238" width="156" height="49" as="geometry" />
