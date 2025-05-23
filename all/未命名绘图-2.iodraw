@@ -2704,12 +2704,8 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9KhGymi9i63sxjAp125N-23" value="宿管发起查寝" style="curved=1;startArrow=none;endArrow=block;exitX=0.99;exitY=0.88;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="9KhGymi9i63sxjAp125N-2" target="9KhGymi9i63sxjAp125N-3">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="892" y="258" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="9KhGymi9i63sxjAp125N-23" value="宿管发起查寝" style="startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0.5;entryY=0;rounded=0;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="9KhGymi9i63sxjAp125N-2" target="9KhGymi9i63sxjAp125N-3">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9KhGymi9i63sxjAp125N-25" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="9KhGymi9i63sxjAp125N-3" target="9KhGymi9i63sxjAp125N-5">
           <mxGeometry relative="1" as="geometry">
@@ -3417,7 +3413,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="GB-obEltX3L0Fa0QK9hE" name="第 28 页">
-    <mxGraphModel dx="5812" dy="3072" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1e+25" pageHeight="1e+22" math="0" shadow="0">
+    <mxGraphModel dx="2422" dy="1280" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1e+25" pageHeight="1e+22" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
