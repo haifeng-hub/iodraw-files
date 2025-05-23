@@ -2661,11 +2661,14 @@
         <mxCell id="9KhGymi9i63sxjAp125N-7" value="发布查寝通知" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="698" y="620" width="156" height="49" as="geometry" />
         </mxCell>
+        <mxCell id="9KhGymi9i63sxjAp125N-47" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9KhGymi9i63sxjAp125N-8" target="9KhGymi9i63sxjAp125N-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="9KhGymi9i63sxjAp125N-8" value="学生收到查寝通知" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="682" y="720" width="188" height="49" as="geometry" />
         </mxCell>
         <mxCell id="9KhGymi9i63sxjAp125N-9" value="学生获取当前位置" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="679" y="828" width="188" height="49" as="geometry" />
+          <mxGeometry x="682" y="840" width="188" height="49" as="geometry" />
         </mxCell>
         <mxCell id="9KhGymi9i63sxjAp125N-10" value="是否在宿舍范围内?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="682" y="926" width="183" height="183" as="geometry" />
@@ -2739,13 +2742,6 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="654" y="803" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="9KhGymi9i63sxjAp125N-30" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.81;entryY=-0.01;rounded=0;" edge="1" parent="1" source="9KhGymi9i63sxjAp125N-8" target="9KhGymi9i63sxjAp125N-9">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="892" y="803" />
             </Array>
           </mxGeometry>
         </mxCell>
