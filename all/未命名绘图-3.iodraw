@@ -4462,8 +4462,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="rzOGMzhO-MBNYYsN62GP-42" value="" style="shape=mxgraph.bpmn.swimlane;html=1;startSize=20;horizontal=1;swimlaneLine=1;collapsible=0;fontStyle=0;strokeWidth=2;swimlaneFillColor=#ffffff;isCollection=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="300" y="660" width="220" height="100" as="geometry" />
+        <mxCell id="rzOGMzhO-MBNYYsN62GP-43" value="Vertical Container" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="244" y="860" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="rzOGMzhO-MBNYYsN62GP-44" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="295" y="958" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
