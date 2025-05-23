@@ -1692,7 +1692,7 @@
           <mxGeometry x="821.5" y="746" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="fWXMqm6UiISyIzV3_qHW-7" value="系统验证学号真实性" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="898" y="845" width="204" height="49" as="geometry" />
+          <mxGeometry x="797.5" y="860" width="204" height="49" as="geometry" />
         </mxCell>
         <mxCell id="fWXMqm6UiISyIzV3_qHW-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fWXMqm6UiISyIzV3_qHW-8" target="fWXMqm6UiISyIzV3_qHW-9">
           <mxGeometry relative="1" as="geometry" />
@@ -1717,7 +1717,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fWXMqm6UiISyIzV3_qHW-9" value="提示错误信息" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="690" y="978" width="156" height="49" as="geometry" />
+          <mxGeometry x="610" y="978" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="fWXMqm6UiISyIzV3_qHW-10" value="创建用户账号" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="921.5" y="1135" width="156" height="49" as="geometry" />
