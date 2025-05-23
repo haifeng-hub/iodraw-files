@@ -4477,6 +4477,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="n4cvmEyoYjHpIw_x5Qgy-14" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1650" y="1670" width="100" height="100" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
