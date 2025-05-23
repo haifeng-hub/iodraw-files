@@ -4480,6 +4480,12 @@
         <mxCell id="n4cvmEyoYjHpIw_x5Qgy-14" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="1650" y="1670" width="100" height="100" as="geometry" />
         </mxCell>
+        <mxCell id="n4cvmEyoYjHpIw_x5Qgy-15" value="Entity" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1610" y="1860" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="n4cvmEyoYjHpIw_x5Qgy-16" value="+Attribute1&#xa;+Attribute2&#xa;+Attribute3" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;" vertex="1" parent="n4cvmEyoYjHpIw_x5Qgy-15">
+          <mxGeometry y="50" width="160" height="70" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
