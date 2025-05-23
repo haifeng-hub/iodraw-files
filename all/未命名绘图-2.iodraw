@@ -4341,9 +4341,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="OQJQ3TFo7hP5b4XqAZz0-11" value="dfgnhjm&amp;nbsp;" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.flowchart.on-page_reference;" vertex="1" parent="1">
-          <mxGeometry x="400" y="1360" width="60" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="OQJQ3TFo7hP5b4XqAZz0-12" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.flowchart.on-page_reference;" vertex="1" parent="1">
           <mxGeometry x="360" y="1580" width="60" height="60" as="geometry" />
         </mxCell>
@@ -4355,6 +4352,9 @@
         </mxCell>
         <mxCell id="OQJQ3TFo7hP5b4XqAZz0-15" value="+Attribute1&#xa;+Attribute2&#xa;+Attribute3" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;" vertex="1" parent="OQJQ3TFo7hP5b4XqAZz0-14">
           <mxGeometry y="50" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="OQJQ3TFo7hP5b4XqAZz0-16" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="210" y="1250" width="100" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
