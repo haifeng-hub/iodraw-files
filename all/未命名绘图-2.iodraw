@@ -2230,7 +2230,7 @@
           <mxGeometry x="537" y="751" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="XUwIG_liIp07Ohd70iV--11" value="系统通知宿管和辅导员" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="723" y="849" width="220" height="49" as="geometry" />
+          <mxGeometry x="693" y="860" width="220" height="49" as="geometry" />
         </mxCell>
         <mxCell id="XUwIG_liIp07Ohd70iV--12" value="管理员审核申请" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="747" y="948" width="172" height="49" as="geometry" />
@@ -2290,12 +2290,8 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XUwIG_liIp07Ohd70iV--31" value="换宿申请" style="curved=1;startArrow=none;endArrow=block;exitX=0.794;exitY=0.697;entryX=0.5;entryY=0.01;rounded=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="XUwIG_liIp07Ohd70iV--4" target="XUwIG_liIp07Ohd70iV--5">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="936" y="517" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="XUwIG_liIp07Ohd70iV--31" value="换宿申请" style="startArrow=none;endArrow=block;exitX=0.794;exitY=0.697;entryX=0.5;entryY=0.01;rounded=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="XUwIG_liIp07Ohd70iV--4" target="XUwIG_liIp07Ohd70iV--5">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XUwIG_liIp07Ohd70iV--32" value="退宿申请" style="startArrow=none;endArrow=block;exitX=0;exitY=0.75;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="XUwIG_liIp07Ohd70iV--4" target="XUwIG_liIp07Ohd70iV--6">
           <mxGeometry relative="1" as="geometry" />
