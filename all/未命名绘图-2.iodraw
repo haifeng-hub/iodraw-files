@@ -4164,10 +4164,10 @@
           <mxGeometry x="513" y="1900" width="188" height="49" as="geometry" />
         </mxCell>
         <mxCell id="gfqTVl7uuF2fBOdj4nMB-20" value="学生查看处理结果" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="578" y="2017" width="188" height="49" as="geometry" />
+          <mxGeometry x="513" y="2000" width="188" height="49" as="geometry" />
         </mxCell>
         <mxCell id="gfqTVl7uuF2fBOdj4nMB-21" value="是否满意?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="612" y="2116" width="119" height="119" as="geometry" />
+          <mxGeometry x="547" y="2116" width="119" height="119" as="geometry" />
         </mxCell>
         <mxCell id="gfqTVl7uuF2fBOdj4nMB-22" value="提交复议申请" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="471" y="2307" width="156" height="49" as="geometry" />
