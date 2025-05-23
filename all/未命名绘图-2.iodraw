@@ -1868,10 +1868,10 @@
           <mxGeometry x="721" y="2000" width="196" height="49" as="geometry" />
         </mxCell>
         <mxCell id="A8CwcBPdFAWz8-e88l2W-23" value="关闭寻物/招领信息" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="897" y="2020" width="196" height="49" as="geometry" />
+          <mxGeometry x="721" y="2090" width="196" height="49" as="geometry" />
         </mxCell>
         <mxCell id="A8CwcBPdFAWz8-e88l2W-24" value="寻物招领流程结束" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="901" y="2119" width="188" height="49" as="geometry" />
+          <mxGeometry x="727.5" y="2200" width="188" height="49" as="geometry" />
         </mxCell>
         <mxCell id="A8CwcBPdFAWz8-e88l2W-25" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="A8CwcBPdFAWz8-e88l2W-1" target="A8CwcBPdFAWz8-e88l2W-2">
           <mxGeometry relative="1" as="geometry">
@@ -1965,13 +1965,6 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="806" y="1787" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="A8CwcBPdFAWz8-e88l2W-47" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.81;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="A8CwcBPdFAWz8-e88l2W-20" target="A8CwcBPdFAWz8-e88l2W-21">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="995" y="1787" />
             </Array>
           </mxGeometry>
         </mxCell>
