@@ -1861,6 +1861,11 @@
         <mxCell id="A8CwcBPdFAWz8-e88l2W-58" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="A8CwcBPdFAWz8-e88l2W-20" target="A8CwcBPdFAWz8-e88l2W-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="A8CwcBPdFAWz8-e88l2W-59" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="A8CwcBPdFAWz8-e88l2W-58">
+          <mxGeometry x="0.0931" y="6" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="A8CwcBPdFAWz8-e88l2W-20" value="是否为所寻物品?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="739.5" y="1640" width="167" height="167" as="geometry" />
         </mxCell>
