@@ -3318,7 +3318,7 @@
           <mxGeometry x="722" y="1063" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="oDPSKtY6pFUW3TeCEHOw-11" value="收到可用通知" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="759.5" y="1161" width="156" height="49" as="geometry" />
+          <mxGeometry x="722" y="1161" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="oDPSKtY6pFUW3TeCEHOw-12" value="选择洗衣模式" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1003" y="773" width="156" height="49" as="geometry" />
@@ -3400,7 +3400,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="oDPSKtY6pFUW3TeCEHOw-32" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.68;exitY=0.01;entryX=1;entryY=0.5;rounded=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="oDPSKtY6pFUW3TeCEHOw-11" target="oDPSKtY6pFUW3TeCEHOw-3">
+        <mxCell id="oDPSKtY6pFUW3TeCEHOw-32" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=1;entryY=0.5;rounded=0;entryDx=0;entryDy=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="oDPSKtY6pFUW3TeCEHOw-11" target="oDPSKtY6pFUW3TeCEHOw-3">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="929" y="1136" />
