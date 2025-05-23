@@ -1691,6 +1691,9 @@
             <mxPoint x="1" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="fWXMqm6UiISyIzV3_qHW-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fWXMqm6UiISyIzV3_qHW-8" target="fWXMqm6UiISyIzV3_qHW-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="fWXMqm6UiISyIzV3_qHW-8" value="验证通过?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="940" y="943" width="119" height="119" as="geometry" />
         </mxCell>
@@ -1698,7 +1701,7 @@
           <mxGeometry x="690" y="978" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="fWXMqm6UiISyIzV3_qHW-10" value="创建用户账号" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="956" y="1135" width="156" height="49" as="geometry" />
+          <mxGeometry x="921.5" y="1135" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="fWXMqm6UiISyIzV3_qHW-11" value="注册成功并跳转至首页" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="924" y="1233" width="220" height="49" as="geometry" />
