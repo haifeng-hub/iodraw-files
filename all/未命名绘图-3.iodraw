@@ -4462,20 +4462,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="rzOGMzhO-MBNYYsN62GP-32" value="" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="560" width="170" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="rzOGMzhO-MBNYYsN62GP-33" value="" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="230" y="570" width="170" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="rzOGMzhO-MBNYYsN62GP-34" value="" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="580" width="170" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="rzOGMzhO-MBNYYsN62GP-35" value="" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="250" y="590" width="170" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="rzOGMzhO-MBNYYsN62GP-36" value="" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="600" width="170" height="120" as="geometry" />
+        <mxCell id="rzOGMzhO-MBNYYsN62GP-37" value="" style="swimlane;html=1;startSize=20;fontStyle=0;collapsible=0;horizontal=1;swimlaneLine=1;strokeWidth=2;swimlaneFillColor=#ffffff;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="280" y="510" width="220" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
