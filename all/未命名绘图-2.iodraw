@@ -3617,10 +3617,10 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BBbAyPDsoxGdBZsf5Lqo-53" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="BBbAyPDsoxGdBZsf5Lqo-25" target="BBbAyPDsoxGdBZsf5Lqo-26">
+        <mxCell id="BBbAyPDsoxGdBZsf5Lqo-53" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="BBbAyPDsoxGdBZsf5Lqo-25" target="BBbAyPDsoxGdBZsf5Lqo-26">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BBbAyPDsoxGdBZsf5Lqo-54" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;rounded=0;" edge="1" parent="1" source="BBbAyPDsoxGdBZsf5Lqo-10">
+        <mxCell id="BBbAyPDsoxGdBZsf5Lqo-54" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="BBbAyPDsoxGdBZsf5Lqo-10">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="960" y="2634" as="targetPoint" />
           </mxGeometry>
