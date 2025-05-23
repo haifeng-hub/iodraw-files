@@ -4176,7 +4176,7 @@
           <mxGeometry x="463" y="2406" width="172" height="49" as="geometry" />
         </mxCell>
         <mxCell id="gfqTVl7uuF2fBOdj4nMB-24" value="系统升级处理级别" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="390" y="2505" width="188" height="49" as="geometry" />
+          <mxGeometry x="455" y="2520" width="188" height="49" as="geometry" />
         </mxCell>
         <mxCell id="gfqTVl7uuF2fBOdj4nMB-25" value="评价处理质量" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="713" y="2307" width="156" height="49" as="geometry" />
@@ -4307,7 +4307,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="gfqTVl7uuF2fBOdj4nMB-53" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.34;exitY=0;entryX=0.06;entryY=1;rounded=0;" edge="1" parent="1" source="gfqTVl7uuF2fBOdj4nMB-24" target="gfqTVl7uuF2fBOdj4nMB-12">
+        <mxCell id="gfqTVl7uuF2fBOdj4nMB-53" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.34;exitY=0;entryX=0;entryY=0.5;rounded=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="gfqTVl7uuF2fBOdj4nMB-24" target="gfqTVl7uuF2fBOdj4nMB-12">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="424" y="2480" />
