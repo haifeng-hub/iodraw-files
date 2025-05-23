@@ -4136,14 +4136,17 @@
         <mxCell id="gfqTVl7uuF2fBOdj4nMB-11" value="系统记录并分发至相关部门" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="481" y="1129" width="252" height="49" as="geometry" />
         </mxCell>
+        <mxCell id="gfqTVl7uuF2fBOdj4nMB-60" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gfqTVl7uuF2fBOdj4nMB-12" target="gfqTVl7uuF2fBOdj4nMB-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="gfqTVl7uuF2fBOdj4nMB-12" value="管理员查看反馈内容" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="505" y="1228" width="204" height="49" as="geometry" />
         </mxCell>
         <mxCell id="gfqTVl7uuF2fBOdj4nMB-13" value="评估反馈优先级" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="517" y="1327" width="172" height="49" as="geometry" />
+          <mxGeometry x="521" y="1327" width="172" height="49" as="geometry" />
         </mxCell>
         <mxCell id="gfqTVl7uuF2fBOdj4nMB-14" value="分配处理人员" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="594" y="1425" width="156" height="49" as="geometry" />
+          <mxGeometry x="529" y="1425" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="gfqTVl7uuF2fBOdj4nMB-15" value="处理反馈问题" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="594" y="1524" width="156" height="49" as="geometry" />
@@ -4243,13 +4246,6 @@
         <mxCell id="gfqTVl7uuF2fBOdj4nMB-40" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="gfqTVl7uuF2fBOdj4nMB-11" target="gfqTVl7uuF2fBOdj4nMB-12">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="gfqTVl7uuF2fBOdj4nMB-41" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.66;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="gfqTVl7uuF2fBOdj4nMB-12" target="gfqTVl7uuF2fBOdj4nMB-13">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="672" y="1302" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="gfqTVl7uuF2fBOdj4nMB-42" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="gfqTVl7uuF2fBOdj4nMB-13" target="gfqTVl7uuF2fBOdj4nMB-14">
