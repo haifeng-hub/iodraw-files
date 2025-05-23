@@ -4351,7 +4351,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OQJQ3TFo7hP5b4XqAZz0-16" value="学生用户" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="1640" y="1660" width="100" height="100" as="geometry" />
+          <mxGeometry x="1630" y="1640" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="OQJQ3TFo7hP5b4XqAZz0-17" value="学校管理部门" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="1770" y="1987" width="100" height="100" as="geometry" />
