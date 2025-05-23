@@ -2162,13 +2162,6 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SMIPeMhjXmC3Eqsy3d5C-42" value="通知公告" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.67;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="SMIPeMhjXmC3Eqsy3d5C-17" target="SMIPeMhjXmC3Eqsy3d5C-18">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="574" y="1522" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="SMIPeMhjXmC3Eqsy3d5C-43" value="卫生打分" style="curved=1;startArrow=none;endArrow=block;exitX=0.11;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="SMIPeMhjXmC3Eqsy3d5C-17" target="SMIPeMhjXmC3Eqsy3d5C-19">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
