@@ -2458,7 +2458,7 @@
           <mxGeometry x="441.5" y="1350" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="AqpJqt0BLSdEAmBp15Ga-14" value="生成修改申请单" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="826" y="1342" width="172" height="49" as="geometry" />
+          <mxGeometry x="714" y="1342" width="172" height="49" as="geometry" />
         </mxCell>
         <mxCell id="AqpJqt0BLSdEAmBp15Ga-15" value="系统验证信息合法性" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="419" y="1450" width="204" height="49" as="geometry" />
@@ -2640,9 +2640,6 @@
               <mxPoint x="1088" y="2094" />
             </Array>
           </mxGeometry>
-        </mxCell>
-        <mxCell id="AqpJqt0BLSdEAmBp15Ga-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.567;entryY=0.009;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="AqpJqt0BLSdEAmBp15Ga-10" target="AqpJqt0BLSdEAmBp15Ga-12">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
