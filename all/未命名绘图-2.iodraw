@@ -4342,7 +4342,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="OQJQ3TFo7hP5b4XqAZz0-14" value="p1" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="470" y="1480" width="160" height="120" as="geometry" />
+          <mxGeometry x="480" y="1490" width="160" height="120" as="geometry" />
         </mxCell>
         <mxCell id="OQJQ3TFo7hP5b4XqAZz0-15" value="宿舍管理系统" style="align=center;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;" vertex="1" parent="OQJQ3TFo7hP5b4XqAZz0-14">
           <mxGeometry y="50" width="160" height="70" as="geometry" />
@@ -4412,6 +4412,9 @@
               <mxPoint x="944" y="1965" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="OQJQ3TFo7hP5b4XqAZz0-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.855;entryY=0.855;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="OQJQ3TFo7hP5b4XqAZz0-14" target="OQJQ3TFo7hP5b4XqAZz0-16">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
