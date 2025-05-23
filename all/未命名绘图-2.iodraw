@@ -1792,7 +1792,7 @@
           <mxGeometry x="475" y="553" width="253" height="66" as="geometry" />
         </mxCell>
         <mxCell id="A8CwcBPdFAWz8-e88l2W-6" value="填写拾获物品信息&#xa;物品名称/拾获地点/时间等" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="853" y="553" width="253" height="66" as="geometry" />
+          <mxGeometry x="868.5" y="553" width="253" height="66" as="geometry" />
         </mxCell>
         <mxCell id="A8CwcBPdFAWz8-e88l2W-7" value="上传物品照片" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="598" y="670" width="156" height="49" as="geometry" />
@@ -1866,7 +1866,7 @@
         <mxCell id="A8CwcBPdFAWz8-e88l2W-28" value="寻物启事" style="curved=1;startArrow=none;endArrow=block;exitX=0.22;exitY=1;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="A8CwcBPdFAWz8-e88l2W-4" target="A8CwcBPdFAWz8-e88l2W-5">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="676" y="517" />
+              <mxPoint x="676" y="490" />
             </Array>
           </mxGeometry>
         </mxCell>
