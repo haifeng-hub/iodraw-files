@@ -2650,7 +2650,7 @@
           <mxGeometry x="679.5" y="280" width="188" height="49" as="geometry" />
         </mxCell>
         <mxCell id="9KhGymi9i63sxjAp125N-4" value="学生进入签到页面" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="494" y="729" width="188" height="49" as="geometry" />
+          <mxGeometry x="430" y="720" width="188" height="49" as="geometry" />
         </mxCell>
         <mxCell id="9KhGymi9i63sxjAp125N-5" value="设置查寝时间段" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="687.5" y="380" width="172" height="49" as="geometry" />
@@ -2662,7 +2662,7 @@
           <mxGeometry x="698" y="620" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="9KhGymi9i63sxjAp125N-8" value="学生收到查寝通知" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="748" y="729" width="188" height="49" as="geometry" />
+          <mxGeometry x="682" y="720" width="188" height="49" as="geometry" />
         </mxCell>
         <mxCell id="9KhGymi9i63sxjAp125N-9" value="学生获取当前位置" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="679" y="828" width="188" height="49" as="geometry" />
