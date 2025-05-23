@@ -2488,7 +2488,7 @@
           <mxGeometry x="714" y="1560" width="172" height="49" as="geometry" />
         </mxCell>
         <mxCell id="AqpJqt0BLSdEAmBp15Ga-21" value="是否批准?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="840" y="1720" width="119" height="119" as="geometry" />
+          <mxGeometry x="850" y="1731" width="119" height="119" as="geometry" />
         </mxCell>
         <mxCell id="AqpJqt0BLSdEAmBp15Ga-22" value="通知学生申请被拒" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="471" y="1922" width="188" height="49" as="geometry" />
@@ -2500,7 +2500,7 @@
           <mxGeometry x="814" y="1922" width="204" height="49" as="geometry" />
         </mxCell>
         <mxCell id="AqpJqt0BLSdEAmBp15Ga-25" value="生成信息更新记录" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="788" y="2021" width="188" height="49" as="geometry" />
+          <mxGeometry x="803" y="2021" width="188" height="49" as="geometry" />
         </mxCell>
         <mxCell id="AqpJqt0BLSdEAmBp15Ga-26" value="信息维护流程结束" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="891" y="2119" width="188" height="49" as="geometry" />
