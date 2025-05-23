@@ -3514,7 +3514,7 @@
           <mxGeometry x="505" y="1851" width="119" height="119" as="geometry" />
         </mxCell>
         <mxCell id="BBbAyPDsoxGdBZsf5Lqo-19" value="提示不符合捐赠要求" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="527" y="2042" width="204" height="49" as="geometry" />
+          <mxGeometry x="486" y="2030" width="204" height="49" as="geometry" />
         </mxCell>
         <mxCell id="BBbAyPDsoxGdBZsf5Lqo-20" value="生成捐赠记录" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="781" y="2042" width="156" height="49" as="geometry" />
@@ -3573,7 +3573,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BBbAyPDsoxGdBZsf5Lqo-35" value="否" style="curved=1;startArrow=none;endArrow=block;exitX=0.58;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="BBbAyPDsoxGdBZsf5Lqo-9" target="BBbAyPDsoxGdBZsf5Lqo-10">
+        <mxCell id="BBbAyPDsoxGdBZsf5Lqo-35" value="否" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="BBbAyPDsoxGdBZsf5Lqo-9" target="BBbAyPDsoxGdBZsf5Lqo-10">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1065" y="985" />
