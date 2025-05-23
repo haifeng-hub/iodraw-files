@@ -4342,7 +4342,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="OQJQ3TFo7hP5b4XqAZz0-14" value="p1" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="812" y="1530" width="160" height="120" as="geometry" />
+          <mxGeometry x="1610" y="1826" width="160" height="120" as="geometry" />
         </mxCell>
         <mxCell id="OQJQ3TFo7hP5b4XqAZz0-15" value="宿舍管理系统" style="align=center;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;" vertex="1" parent="OQJQ3TFo7hP5b4XqAZz0-14">
           <mxGeometry y="50" width="160" height="70" as="geometry" />
@@ -4354,10 +4354,7 @@
           <mxGeometry x="1450" y="1520" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="OQJQ3TFo7hP5b4XqAZz0-18" value="宿舍管理员" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="490" y="1720" width="100" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="OQJQ3TFo7hP5b4XqAZz0-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.303;entryY=0.057;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="OQJQ3TFo7hP5b4XqAZz0-15" target="OQJQ3TFo7hP5b4XqAZz0-18">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="1600" y="2020" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="n4cvmEyoYjHpIw_x5Qgy-1" value="外部实体：学生用户" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="988" y="1750" width="204" height="49" as="geometry" />
@@ -4429,12 +4426,6 @@
               <mxPoint x="1359" y="1974" />
             </Array>
           </mxGeometry>
-        </mxCell>
-        <mxCell id="n4cvmEyoYjHpIw_x5Qgy-15" value="Entity" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1620" y="1850" width="160" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="n4cvmEyoYjHpIw_x5Qgy-16" value="+Attribute1&#xa;+Attribute2&#xa;+Attribute3" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;" vertex="1" parent="n4cvmEyoYjHpIw_x5Qgy-15">
-          <mxGeometry y="50" width="160" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
