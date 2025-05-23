@@ -1836,19 +1836,19 @@
           <mxGeometry x="720" y="1080" width="188" height="49" as="geometry" />
         </mxCell>
         <mxCell id="A8CwcBPdFAWz8-e88l2W-16" value="是否找到匹配?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="615" y="1163" width="151" height="151" as="geometry" />
+          <mxGeometry x="750" y="1190" width="151" height="151" as="geometry" />
         </mxCell>
         <mxCell id="A8CwcBPdFAWz8-e88l2W-17" value="继续展示" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="723" y="1823" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="A8CwcBPdFAWz8-e88l2W-18" value="通过小程序联系对方" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="704" y="1386" width="204" height="49" as="geometry" />
+          <mxGeometry x="713" y="1420" width="204" height="49" as="geometry" />
         </mxCell>
         <mxCell id="A8CwcBPdFAWz8-e88l2W-19" value="确认物品信息" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="728" y="1485" width="156" height="49" as="geometry" />
+          <mxGeometry x="734" y="1530" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="A8CwcBPdFAWz8-e88l2W-20" value="是否为所寻物品?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="723" y="1584" width="167" height="167" as="geometry" />
+          <mxGeometry x="723" y="1630" width="167" height="167" as="geometry" />
         </mxCell>
         <mxCell id="A8CwcBPdFAWz8-e88l2W-21" value="约定归还/领取方式" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="897" y="1823" width="196" height="49" as="geometry" />
