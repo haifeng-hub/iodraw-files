@@ -2500,7 +2500,7 @@
           <mxGeometry x="814" y="1922" width="204" height="49" as="geometry" />
         </mxCell>
         <mxCell id="AqpJqt0BLSdEAmBp15Ga-25" value="生成信息更新记录" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="803" y="2021" width="188" height="49" as="geometry" />
+          <mxGeometry x="814" y="2021" width="188" height="49" as="geometry" />
         </mxCell>
         <mxCell id="AqpJqt0BLSdEAmBp15Ga-26" value="信息维护流程结束" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="891" y="2119" width="188" height="49" as="geometry" />
@@ -2616,12 +2616,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="AqpJqt0BLSdEAmBp15Ga-52" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.59;entryY=-0.01;rounded=0;" edge="1" parent="1" source="AqpJqt0BLSdEAmBp15Ga-24" target="AqpJqt0BLSdEAmBp15Ga-25">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="916" y="1996" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="AqpJqt0BLSdEAmBp15Ga-52" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.59;entryY=-0.01;rounded=0;" edge="1" parent="1" source="AqpJqt0BLSdEAmBp15Ga-24" target="AqpJqt0BLSdEAmBp15Ga-25">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="AqpJqt0BLSdEAmBp15Ga-53" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0;entryY=0.28;rounded=0;" edge="1" parent="1" source="AqpJqt0BLSdEAmBp15Ga-23" target="AqpJqt0BLSdEAmBp15Ga-26">
           <mxGeometry relative="1" as="geometry">
