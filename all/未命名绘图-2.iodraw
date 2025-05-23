@@ -3475,7 +3475,7 @@
           <mxGeometry x="956" y="511" width="188" height="49" as="geometry" />
         </mxCell>
         <mxCell id="BBbAyPDsoxGdBZsf5Lqo-6" value="点击物品捐赠" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="551" y="1021" width="156" height="49" as="geometry" />
+          <mxGeometry x="485.5" y="980" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="BBbAyPDsoxGdBZsf5Lqo-7" value="查看项目详情" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="972" y="610" width="156" height="49" as="geometry" />
@@ -3625,14 +3625,6 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="564" y="2006" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="BBbAyPDsoxGdBZsf5Lqo-46" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.69;exitY=0.01;entryX=0.8;entryY=1;rounded=0;" edge="1" parent="1" source="BBbAyPDsoxGdBZsf5Lqo-19" target="BBbAyPDsoxGdBZsf5Lqo-11">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="729" y="2006" />
-              <mxPoint x="729" y="1211" />
             </Array>
           </mxGeometry>
         </mxCell>
