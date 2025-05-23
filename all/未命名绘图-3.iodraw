@@ -4463,7 +4463,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="rzOGMzhO-MBNYYsN62GP-43" value="Vertical Container" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="244" y="860" width="200" height="200" as="geometry" />
+          <mxGeometry x="244" y="860" width="231" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="rzOGMzhO-MBNYYsN62GP-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rzOGMzhO-MBNYYsN62GP-44">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="425" y="973" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="rzOGMzhO-MBNYYsN62GP-44" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="295" y="958" width="50" height="30" as="geometry" />
