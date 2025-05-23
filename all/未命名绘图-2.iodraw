@@ -1862,10 +1862,10 @@
           <mxGeometry x="739.5" y="1640" width="167" height="167" as="geometry" />
         </mxCell>
         <mxCell id="A8CwcBPdFAWz8-e88l2W-21" value="约定归还/领取方式" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="897" y="1823" width="196" height="49" as="geometry" />
+          <mxGeometry x="719.5" y="1890" width="196" height="49" as="geometry" />
         </mxCell>
         <mxCell id="A8CwcBPdFAWz8-e88l2W-22" value="物品成功归还/领取" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="897" y="1922" width="196" height="49" as="geometry" />
+          <mxGeometry x="721" y="2000" width="196" height="49" as="geometry" />
         </mxCell>
         <mxCell id="A8CwcBPdFAWz8-e88l2W-23" value="关闭寻物/招领信息" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="897" y="2020" width="196" height="49" as="geometry" />
