@@ -4394,6 +4394,9 @@
         <mxCell id="X5H-qhBnfoOMXWt3Y7PM-1" value="" style="shape=datastore;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1120" y="2250" width="60" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="X5H-qhBnfoOMXWt3Y7PM-2" value="&lt;span style=&quot;color: rgb(6, 7, 31); font-family: PingFang-SC-Regular; font-size: 15px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(253, 253, 254); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;rectangle with a vertical division&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="880" y="2560" width="260" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
