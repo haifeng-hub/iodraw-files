@@ -2046,10 +2046,10 @@
           <mxGeometry x="893" y="1143" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="SMIPeMhjXmC3Eqsy3d5C-16" value="浏览公告列表" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="849" y="1250" width="156" height="49" as="geometry" />
+          <mxGeometry x="889" y="1260" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="SMIPeMhjXmC3Eqsy3d5C-17" value="筛选公告类型" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="809" y="1341" width="145" height="145" as="geometry" />
+          <mxGeometry x="860" y="1350" width="145" height="145" as="geometry" />
         </mxCell>
         <mxCell id="SMIPeMhjXmC3Eqsy3d5C-18" value="查看通知详情" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="496" y="1558" width="156" height="49" as="geometry" />
@@ -2159,13 +2159,6 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="574" y="1217" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="SMIPeMhjXmC3Eqsy3d5C-40" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.78;entryY=0;rounded=0;" edge="1" parent="1" source="SMIPeMhjXmC3Eqsy3d5C-15" target="SMIPeMhjXmC3Eqsy3d5C-16">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="971" y="1217" />
             </Array>
           </mxGeometry>
         </mxCell>
