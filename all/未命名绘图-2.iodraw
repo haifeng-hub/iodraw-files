@@ -3724,7 +3724,7 @@
           <mxGeometry x="707" y="1496" width="151" height="151" as="geometry" />
         </mxCell>
         <mxCell id="lm6ysp6YmJyRSb8oMLCR-17" value="下载规章文件" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="766" y="1719" width="156" height="49" as="geometry" />
+          <mxGeometry x="697" y="1700" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="lm6ysp6YmJyRSb8oMLCR-18" value="标记已读" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="721" y="1818" width="124" height="49" as="geometry" />
