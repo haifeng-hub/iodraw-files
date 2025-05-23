@@ -4391,6 +4391,77 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="rzOGMzhO-MBNYYsN62GP-1" value="用户注册与登录模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="336" y="20" width="204" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="rzOGMzhO-MBNYYsN62GP-2" value="数据存储与管理模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="336" y="141" width="204" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="rzOGMzhO-MBNYYsN62GP-3" value="宿舍事务处理模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="20" y="263" width="188" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="rzOGMzhO-MBNYYsN62GP-4" value="信息发布与反馈模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="336" y="263" width="204" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="rzOGMzhO-MBNYYsN62GP-5" value="电费缴纳与洗衣服务模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="620" y="263" width="236" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="rzOGMzhO-MBNYYsN62GP-6" value="用户认证信息" style="curved=1;startArrow=none;endArrow=block;exitX=0.4;exitY=0.99;entryX=0.4;entryY=0.01;rounded=0;" edge="1" parent="1" source="rzOGMzhO-MBNYYsN62GP-1" target="rzOGMzhO-MBNYYsN62GP-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="386" y="105" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rzOGMzhO-MBNYYsN62GP-7" value="事务申请、处理结果" style="curved=1;startArrow=none;endArrow=block;exitX=0.65;exitY=-0.01;entryX=0;entryY=1;rounded=0;" edge="1" parent="1" source="rzOGMzhO-MBNYYsN62GP-3" target="rzOGMzhO-MBNYYsN62GP-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="186" y="226" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rzOGMzhO-MBNYYsN62GP-8" value="公告内容、反馈信息" style="curved=1;startArrow=none;endArrow=block;exitX=0.67;exitY=-0.01;entryX=0.67;entryY=1;rounded=0;" edge="1" parent="1" source="rzOGMzhO-MBNYYsN62GP-4" target="rzOGMzhO-MBNYYsN62GP-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="522" y="226" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rzOGMzhO-MBNYYsN62GP-9" value="缴费数据、洗衣订单" style="curved=1;startArrow=none;endArrow=block;exitX=0.62;exitY=-0.01;entryX=1;entryY=0.84;rounded=0;" edge="1" parent="1" source="rzOGMzhO-MBNYYsN62GP-5" target="rzOGMzhO-MBNYYsN62GP-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="810" y="226" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rzOGMzhO-MBNYYsN62GP-10" value="认证结果" style="curved=1;startArrow=none;endArrow=block;exitX=0.6;exitY=0.01;entryX=0.6;entryY=0.99;rounded=0;" edge="1" parent="1" source="rzOGMzhO-MBNYYsN62GP-2" target="rzOGMzhO-MBNYYsN62GP-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="490" y="105" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rzOGMzhO-MBNYYsN62GP-11" value="事务处理信息" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.82;entryX=0.35;entryY=-0.01;rounded=0;" edge="1" parent="1" source="rzOGMzhO-MBNYYsN62GP-2" target="rzOGMzhO-MBNYYsN62GP-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="42" y="226" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rzOGMzhO-MBNYYsN62GP-12" value="公告信息、反馈处理" style="curved=1;startArrow=none;endArrow=block;exitX=0.33;exitY=1;entryX=0.33;entryY=-0.01;rounded=0;" edge="1" parent="1" source="rzOGMzhO-MBNYYsN62GP-2" target="rzOGMzhO-MBNYYsN62GP-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="354" y="226" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rzOGMzhO-MBNYYsN62GP-13" value="服务确认信息" style="curved=1;startArrow=none;endArrow=block;exitX=0.95;exitY=1;entryX=0.38;entryY=-0.01;rounded=0;" edge="1" parent="1" source="rzOGMzhO-MBNYYsN62GP-2" target="rzOGMzhO-MBNYYsN62GP-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="666" y="226" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
