@@ -4161,7 +4161,7 @@
           <mxGeometry x="528.5" y="1800" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="gfqTVl7uuF2fBOdj4nMB-19" value="通知学生查看结果" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="578" y="1919" width="188" height="49" as="geometry" />
+          <mxGeometry x="513" y="1900" width="188" height="49" as="geometry" />
         </mxCell>
         <mxCell id="gfqTVl7uuF2fBOdj4nMB-20" value="学生查看处理结果" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="578" y="2017" width="188" height="49" as="geometry" />
