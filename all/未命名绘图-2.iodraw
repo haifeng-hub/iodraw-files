@@ -1671,11 +1671,14 @@
         <mxCell id="fWXMqm6UiISyIzV3_qHW-3" value="点击注册按钮" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="819" y="267" width="156" height="49" as="geometry" />
         </mxCell>
+        <mxCell id="fWXMqm6UiISyIzV3_qHW-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fWXMqm6UiISyIzV3_qHW-4" target="fWXMqm6UiISyIzV3_qHW-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="fWXMqm6UiISyIzV3_qHW-4" value="填写个人信息&#xa;姓名/性别/年龄/学号/手机号" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="810" y="366" width="174" height="54" as="geometry" />
         </mxCell>
         <mxCell id="fWXMqm6UiISyIzV3_qHW-5" value="信息是否完整?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="827" y="500" width="151" height="151" as="geometry" />
+          <mxGeometry x="821.5" y="520" width="151" height="151" as="geometry" />
         </mxCell>
         <mxCell id="fWXMqm6UiISyIzV3_qHW-6" value="提交注册申请" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="922" y="746" width="156" height="49" as="geometry" />
