@@ -4391,9 +4391,6 @@
         <mxCell id="kGayjBSAQ-8TBNBQMH5g-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.44;entryY=-0.008;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="OQJQ3TFo7hP5b4XqAZz0-16" target="OQJQ3TFo7hP5b4XqAZz0-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="kGayjBSAQ-8TBNBQMH5g-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.694;entryY=0.036;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="OQJQ3TFo7hP5b4XqAZz0-16" target="OQJQ3TFo7hP5b4XqAZz0-14">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
