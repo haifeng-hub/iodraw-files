@@ -4443,6 +4443,11 @@
         <mxCell id="OQJQ3TFo7hP5b4XqAZz0-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.145;exitY=0.145;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.99;entryY=0.197;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="OQJQ3TFo7hP5b4XqAZz0-17" target="OQJQ3TFo7hP5b4XqAZz0-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="OQJQ3TFo7hP5b4XqAZz0-52" value="宿舍管理要求或查询请求" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="OQJQ3TFo7hP5b4XqAZz0-49">
+          <mxGeometry x="-0.0907" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
