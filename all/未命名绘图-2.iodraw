@@ -4410,10 +4410,10 @@
           <mxGeometry x="988" y="1750" width="204" height="49" as="geometry" />
         </mxCell>
         <mxCell id="n4cvmEyoYjHpIw_x5Qgy-2" value="处理过程：宿舍管理微信小程序" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="964" y="1871" width="252" height="66" as="geometry" />
+          <mxGeometry x="972" y="1880" width="252" height="66" as="geometry" />
         </mxCell>
         <mxCell id="n4cvmEyoYjHpIw_x5Qgy-3" value="外部实体：宿舍管理员" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="660" y="2025" width="220" height="49" as="geometry" />
+          <mxGeometry x="660" y="2024" width="220" height="49" as="geometry" />
         </mxCell>
         <mxCell id="n4cvmEyoYjHpIw_x5Qgy-4" value="外部实体：学校管理部门" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="972" y="2025" width="236" height="49" as="geometry" />
