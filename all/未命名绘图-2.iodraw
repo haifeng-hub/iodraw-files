@@ -4149,16 +4149,16 @@
           <mxGeometry x="529" y="1425" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="gfqTVl7uuF2fBOdj4nMB-15" value="处理反馈问题" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="594" y="1524" width="156" height="49" as="geometry" />
+          <mxGeometry x="529" y="1520" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="gfqTVl7uuF2fBOdj4nMB-16" value="记录处理过程" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="594" y="1623" width="156" height="49" as="geometry" />
+          <mxGeometry x="528.5" y="1610" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="gfqTVl7uuF2fBOdj4nMB-17" value="更新处理状态" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="594" y="1721" width="156" height="49" as="geometry" />
+          <mxGeometry x="528.5" y="1700" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="gfqTVl7uuF2fBOdj4nMB-18" value="反馈处理结果" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="594" y="1820" width="156" height="49" as="geometry" />
+          <mxGeometry x="528.5" y="1800" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="gfqTVl7uuF2fBOdj4nMB-19" value="通知学生查看结果" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="578" y="1919" width="188" height="49" as="geometry" />
