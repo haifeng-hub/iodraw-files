@@ -2485,10 +2485,10 @@
           <mxGeometry x="647" y="1766" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="AqpJqt0BLSdEAmBp15Ga-20" value="管理员处理申请" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="826" y="1574" width="172" height="49" as="geometry" />
+          <mxGeometry x="714" y="1560" width="172" height="49" as="geometry" />
         </mxCell>
         <mxCell id="AqpJqt0BLSdEAmBp15Ga-21" value="是否批准?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="853" y="1731" width="119" height="119" as="geometry" />
+          <mxGeometry x="840" y="1720" width="119" height="119" as="geometry" />
         </mxCell>
         <mxCell id="AqpJqt0BLSdEAmBp15Ga-22" value="通知学生申请被拒" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="471" y="1922" width="188" height="49" as="geometry" />
