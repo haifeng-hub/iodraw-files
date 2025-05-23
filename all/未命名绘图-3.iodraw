@@ -4462,11 +4462,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="rzOGMzhO-MBNYYsN62GP-27" value="" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="132" y="530" width="140" height="52" as="geometry" />
-        </mxCell>
-        <mxCell id="rzOGMzhO-MBNYYsN62GP-30" value="+ field: type" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="rzOGMzhO-MBNYYsN62GP-27">
-          <mxGeometry y="26" width="140" height="26" as="geometry" />
+        <mxCell id="rzOGMzhO-MBNYYsN62GP-31" value="Vertical Container" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="310" width="200" height="200" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
