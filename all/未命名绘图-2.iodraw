@@ -2969,17 +2969,20 @@
         <mxCell id="7FZjdMlkxcrqIRNeqpyv-5" value="选择报修类型" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="701" y="550" width="156" height="49" as="geometry" />
         </mxCell>
+        <mxCell id="7FZjdMlkxcrqIRNeqpyv-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7FZjdMlkxcrqIRNeqpyv-6" target="7FZjdMlkxcrqIRNeqpyv-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="7FZjdMlkxcrqIRNeqpyv-6" value="上传故障描述&#xa;可包含文字/图片/语音" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="668" y="649" width="221" height="66" as="geometry" />
         </mxCell>
         <mxCell id="7FZjdMlkxcrqIRNeqpyv-7" value="提交报修申请" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="693" y="765" width="156" height="49" as="geometry" />
+          <mxGeometry x="700.5" y="780" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="7FZjdMlkxcrqIRNeqpyv-8" value="系统记录并通知宿管" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="798" y="863" width="204" height="49" as="geometry" />
+          <mxGeometry x="669" y="840" width="204" height="49" as="geometry" />
         </mxCell>
         <mxCell id="7FZjdMlkxcrqIRNeqpyv-9" value="宿管查看报修信息" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="806" y="962" width="188" height="49" as="geometry" />
+          <mxGeometry x="677" y="940" width="188" height="49" as="geometry" />
         </mxCell>
         <mxCell id="7FZjdMlkxcrqIRNeqpyv-10" value="是否受理?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="935" y="1061" width="119" height="119" as="geometry" />
@@ -3037,13 +3040,6 @@
         <mxCell id="7FZjdMlkxcrqIRNeqpyv-25" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="7FZjdMlkxcrqIRNeqpyv-5" target="7FZjdMlkxcrqIRNeqpyv-6">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="7FZjdMlkxcrqIRNeqpyv-26" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.81;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="7FZjdMlkxcrqIRNeqpyv-6" target="7FZjdMlkxcrqIRNeqpyv-7">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="900" y="740" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="7FZjdMlkxcrqIRNeqpyv-27" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="7FZjdMlkxcrqIRNeqpyv-7" target="7FZjdMlkxcrqIRNeqpyv-8">
