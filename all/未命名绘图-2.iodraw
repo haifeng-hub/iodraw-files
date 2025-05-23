@@ -2413,7 +2413,7 @@
         <mxCell id="AqpJqt0BLSdEAmBp15Ga-6" value="是否需要修改?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="743" y="614" width="151" height="151" as="geometry" />
         </mxCell>
-        <mxCell id="AqpJqt0BLSdEAmBp15Ga-67" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="AqpJqt0BLSdEAmBp15Ga-7" target="AqpJqt0BLSdEAmBp15Ga-26">
+        <mxCell id="AqpJqt0BLSdEAmBp15Ga-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="AqpJqt0BLSdEAmBp15Ga-7" target="AqpJqt0BLSdEAmBp15Ga-26">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="AqpJqt0BLSdEAmBp15Ga-7" value="退出页面" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
@@ -2479,7 +2479,7 @@
         <mxCell id="AqpJqt0BLSdEAmBp15Ga-22" value="通知学生申请被拒" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="471" y="1922" width="188" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="AqpJqt0BLSdEAmBp15Ga-68" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="AqpJqt0BLSdEAmBp15Ga-23" target="AqpJqt0BLSdEAmBp15Ga-26">
+        <mxCell id="AqpJqt0BLSdEAmBp15Ga-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="AqpJqt0BLSdEAmBp15Ga-23" target="AqpJqt0BLSdEAmBp15Ga-26">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="AqpJqt0BLSdEAmBp15Ga-23" value="提供拒绝原因" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
