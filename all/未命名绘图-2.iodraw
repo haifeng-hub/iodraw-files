@@ -4414,6 +4414,84 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="wKQMtivT90JWzkJW3hxu-1" value="学生用户" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="203" y="20" width="124" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="wKQMtivT90JWzkJW3hxu-2" value="宿舍管理员" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="377" y="20" width="140" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="wKQMtivT90JWzkJW3hxu-3" value="学生提交报修申请" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="48" y="141" width="188" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="wKQMtivT90JWzkJW3hxu-4" value="系统保存报修申请" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="104" y="263" width="188" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="wKQMtivT90JWzkJW3hxu-5" value="管理员获取报修单并处理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="20" y="505" width="236" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="wKQMtivT90JWzkJW3hxu-6" value="系统更新报修状态并通知学生" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="170" y="627" width="252" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="wKQMtivT90JWzkJW3hxu-7" value="报修信息库" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="128" y="384" width="140" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="wKQMtivT90JWzkJW3hxu-8" value="报修单信息" style="curved=1;startArrow=none;endArrow=block;exitX=0.1;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="wKQMtivT90JWzkJW3hxu-1" target="wKQMtivT90JWzkJW3hxu-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="142" y="105" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wKQMtivT90JWzkJW3hxu-9" value="报修单信息" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.38;entryY=-0.01;rounded=0;" edge="1" parent="1" source="wKQMtivT90JWzkJW3hxu-3" target="wKQMtivT90JWzkJW3hxu-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="142" y="226" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wKQMtivT90JWzkJW3hxu-10" value="报修单信息" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="wKQMtivT90JWzkJW3hxu-4" target="wKQMtivT90JWzkJW3hxu-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wKQMtivT90JWzkJW3hxu-11" value="提交确认反馈" style="curved=1;startArrow=none;endArrow=block;exitX=0.76;exitY=-0.01;entryX=0.68;entryY=0.99;rounded=0;" edge="1" parent="1" source="wKQMtivT90JWzkJW3hxu-4" target="wKQMtivT90JWzkJW3hxu-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="321" y="226" />
+              <mxPoint x="321" y="105" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wKQMtivT90JWzkJW3hxu-12" value="报修单详情" style="curved=1;startArrow=none;endArrow=block;exitX=0.33;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="wKQMtivT90JWzkJW3hxu-7" target="wKQMtivT90JWzkJW3hxu-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="138" y="469" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wKQMtivT90JWzkJW3hxu-13" value="处理结果" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.2;entryY=-0.01;rounded=0;" edge="1" parent="1" source="wKQMtivT90JWzkJW3hxu-5" target="wKQMtivT90JWzkJW3hxu-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="138" y="590" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wKQMtivT90JWzkJW3hxu-14" value="处理结果" style="curved=1;startArrow=none;endArrow=block;exitX=0.56;exitY=-0.01;entryX=0.88;entryY=0.99;rounded=0;" edge="1" parent="1" source="wKQMtivT90JWzkJW3hxu-6" target="wKQMtivT90JWzkJW3hxu-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="329" y="590" />
+              <mxPoint x="329" y="469" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wKQMtivT90JWzkJW3hxu-15" value="处理结果通知" style="curved=1;startArrow=none;endArrow=block;exitX=0.73;exitY=-0.01;entryX=1;entryY=0.99;rounded=0;" edge="1" parent="1" source="wKQMtivT90JWzkJW3hxu-6" target="wKQMtivT90JWzkJW3hxu-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="421" y="590" />
+              <mxPoint x="421" y="105" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
