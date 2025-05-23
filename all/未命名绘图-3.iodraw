@@ -4664,15 +4664,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="gU_QRWxInQZ9Uw_zRF6k-195" value="关系描述：" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
-          <mxGeometry x="460" y="350" width="560" height="78" as="geometry" />
-        </mxCell>
-        <mxCell id="gU_QRWxInQZ9Uw_zRF6k-196" value="宿舍表的宿舍类型字段引用数据字典表（data_dictionary）的预定义值。" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="gU_QRWxInQZ9Uw_zRF6k-195">
-          <mxGeometry y="26" width="560" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="gU_QRWxInQZ9Uw_zRF6k-197" value="数据字典表通过字典类型（如“宿舍类型”）和字典值（如“男生宿舍”）维护统一枚举值，避免硬编码。" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="gU_QRWxInQZ9Uw_zRF6k-195">
-          <mxGeometry y="52" width="560" height="26" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
