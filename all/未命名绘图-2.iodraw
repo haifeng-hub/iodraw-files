@@ -4388,7 +4388,7 @@
         <mxCell id="n4cvmEyoYjHpIw_x5Qgy-18" value="系统数据库" style="shape=datastore;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1920" y="1946" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="kGayjBSAQ-8TBNBQMH5g-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.44;entryY=-0.008;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="OQJQ3TFo7hP5b4XqAZz0-16" target="OQJQ3TFo7hP5b4XqAZz0-14">
+        <mxCell id="kGayjBSAQ-8TBNBQMH5g-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.145;exitY=0.855;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.19;entryY=0.003;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="OQJQ3TFo7hP5b4XqAZz0-16" target="OQJQ3TFo7hP5b4XqAZz0-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
