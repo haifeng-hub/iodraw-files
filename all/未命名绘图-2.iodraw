@@ -3245,6 +3245,9 @@
         </mxCell>
         <mxCell id="5CuBmWcRu3kKWvenCGQV-34" value="否" style="startArrow=none;endArrow=block;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" target="5CuBmWcRu3kKWvenCGQV-15">
           <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="680" y="1570" />
+            </Array>
             <mxPoint x="740" y="1571" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
@@ -3263,7 +3266,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="5CuBmWcRu3kKWvenCGQV-37" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.93;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="5CuBmWcRu3kKWvenCGQV-14" target="5CuBmWcRu3kKWvenCGQV-17">
+        <mxCell id="5CuBmWcRu3kKWvenCGQV-37" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0.5;entryY=0;rounded=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="5CuBmWcRu3kKWvenCGQV-14" target="5CuBmWcRu3kKWvenCGQV-17">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="913" y="1666" />
