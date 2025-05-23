@@ -2695,13 +2695,13 @@
           <mxGeometry x="717" y="1460" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="9KhGymi9i63sxjAp125N-15" value="系统记录签到信息&#xa;时间/位置/状态" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="679" y="1576" width="188" height="66" as="geometry" />
+          <mxGeometry x="687.5" y="1560" width="188" height="66" as="geometry" />
         </mxCell>
         <mxCell id="9KhGymi9i63sxjAp125N-16" value="更新签到统计数据" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="679" y="1693" width="188" height="49" as="geometry" />
+          <mxGeometry x="687.5" y="1680" width="188" height="49" as="geometry" />
         </mxCell>
         <mxCell id="9KhGymi9i63sxjAp125N-17" value="宿管查看签到结果" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="679" y="1791" width="188" height="49" as="geometry" />
+          <mxGeometry x="687.5" y="1780" width="188" height="49" as="geometry" />
         </mxCell>
         <mxCell id="9KhGymi9i63sxjAp125N-18" value="是否需要核查?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="698" y="1890" width="151" height="151" as="geometry" />
