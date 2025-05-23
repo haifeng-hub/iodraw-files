@@ -4362,7 +4362,7 @@
           <mxGeometry x="810" y="1490" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="OQJQ3TFo7hP5b4XqAZz0-18" value="宿舍管理员" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="498" y="1710" width="100" height="100" as="geometry" />
+          <mxGeometry x="490" y="1720" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="OQJQ3TFo7hP5b4XqAZz0-20" value="宿舍管理员" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="598" y="2010" width="140" height="49" as="geometry" />
@@ -4410,6 +4410,9 @@
           <mxGeometry x="-0.1451" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="OQJQ3TFo7hP5b4XqAZz0-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.303;entryY=0.057;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="OQJQ3TFo7hP5b4XqAZz0-15" target="OQJQ3TFo7hP5b4XqAZz0-18">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
