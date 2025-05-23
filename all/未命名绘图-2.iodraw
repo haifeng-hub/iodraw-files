@@ -1993,10 +1993,18 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="SMIPeMhjXmC3Eqsy3d5C-1" value="开始" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="875.5" y="40" width="92" height="49" as="geometry" />
+          <mxGeometry x="921" y="40" width="92" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="SMIPeMhjXmC3Eqsy3d5C-50" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SMIPeMhjXmC3Eqsy3d5C-2" target="SMIPeMhjXmC3Eqsy3d5C-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SMIPeMhjXmC3Eqsy3d5C-51" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="SMIPeMhjXmC3Eqsy3d5C-50">
+          <mxGeometry x="-0.3949" relative="1" as="geometry">
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="SMIPeMhjXmC3Eqsy3d5C-2" value="用户角色" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="875.5" y="140" width="113" height="113" as="geometry" />
+          <mxGeometry x="910.5" y="150" width="113" height="113" as="geometry" />
         </mxCell>
         <mxCell id="SMIPeMhjXmC3Eqsy3d5C-3" value="进入公告管理页面" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="877" y="334" width="188" height="49" as="geometry" />
