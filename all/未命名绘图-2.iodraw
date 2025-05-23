@@ -3455,7 +3455,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="GB-obEltX3L0Fa0QK9hE" name="第 28 页">
-    <mxGraphModel dx="2642" dy="1396" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1e+25" pageHeight="1e+22" math="0" shadow="0">
+    <mxGraphModel dx="4843" dy="2560" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1e+25" pageHeight="1e+22" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3490,6 +3490,9 @@
           <mxGeometry x="1003" y="2536" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="BBbAyPDsoxGdBZsf5Lqo-56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BBbAyPDsoxGdBZsf5Lqo-11" target="BBbAyPDsoxGdBZsf5Lqo-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BBbAyPDsoxGdBZsf5Lqo-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="BBbAyPDsoxGdBZsf5Lqo-11" target="BBbAyPDsoxGdBZsf5Lqo-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BBbAyPDsoxGdBZsf5Lqo-11" value="选择捐赠物品类型&#xa;书籍/衣物/文具等" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
