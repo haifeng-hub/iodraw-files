@@ -1772,7 +1772,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="5z1EY1TPJeCRo1q1v4hB" name="第 19 页">
-    <mxGraphModel dx="7265" dy="3840" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1e+25" pageHeight="1e+22" math="0" shadow="0">
+    <mxGraphModel dx="2906" dy="1536" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1e+25" pageHeight="1e+22" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1794,7 +1794,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="A8CwcBPdFAWz8-e88l2W-4" value="选择功能类型" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="665" y="336" width="145" height="145" as="geometry" />
+          <mxGeometry x="687" y="336" width="145" height="145" as="geometry" />
         </mxCell>
         <mxCell id="A8CwcBPdFAWz8-e88l2W-5" value="填写丢失物品信息&#xa;物品名称/丢失地点/时间等" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="475" y="553" width="253" height="66" as="geometry" />
