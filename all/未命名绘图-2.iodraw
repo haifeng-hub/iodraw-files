@@ -2504,6 +2504,9 @@
         <mxCell id="AqpJqt0BLSdEAmBp15Ga-22" value="通知学生申请被拒" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="471" y="1922" width="188" height="49" as="geometry" />
         </mxCell>
+        <mxCell id="AqpJqt0BLSdEAmBp15Ga-68" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="AqpJqt0BLSdEAmBp15Ga-23" target="AqpJqt0BLSdEAmBp15Ga-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="AqpJqt0BLSdEAmBp15Ga-23" value="提供拒绝原因" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="487" y="2021" width="156" height="49" as="geometry" />
         </mxCell>
@@ -2623,13 +2626,6 @@
             <Array as="points">
               <mxPoint x="729" y="1886" />
               <mxPoint x="729" y="1996" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="AqpJqt0BLSdEAmBp15Ga-53" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0;entryY=0.28;rounded=0;" edge="1" parent="1" source="AqpJqt0BLSdEAmBp15Ga-23" target="AqpJqt0BLSdEAmBp15Ga-26">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="565" y="2094" />
             </Array>
           </mxGeometry>
         </mxCell>
