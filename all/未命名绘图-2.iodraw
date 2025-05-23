@@ -2973,7 +2973,7 @@
           <mxGeometry x="668" y="649" width="221" height="66" as="geometry" />
         </mxCell>
         <mxCell id="7FZjdMlkxcrqIRNeqpyv-7" value="提交报修申请" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="822" y="765" width="156" height="49" as="geometry" />
+          <mxGeometry x="693" y="765" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="7FZjdMlkxcrqIRNeqpyv-8" value="系统记录并通知宿管" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="798" y="863" width="204" height="49" as="geometry" />
