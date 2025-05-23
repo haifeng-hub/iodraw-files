@@ -2857,7 +2857,7 @@
           <mxGeometry x="550" y="1442" width="188" height="49" as="geometry" />
         </mxCell>
         <mxCell id="MNGdiOIPaT0lDah_iIlD-14" value="更新电费余额" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="788" y="1442" width="156" height="49" as="geometry" />
+          <mxGeometry x="817" y="1442" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="MNGdiOIPaT0lDah_iIlD-15" value="生成缴费记录" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="788" y="1541" width="156" height="49" as="geometry" />
@@ -2933,12 +2933,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="MNGdiOIPaT0lDah_iIlD-32" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0.5;entryY=0;rounded=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="MNGdiOIPaT0lDah_iIlD-12" target="MNGdiOIPaT0lDah_iIlD-14">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="866" y="1406" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="MNGdiOIPaT0lDah_iIlD-32" value="是" style="startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0.5;entryY=0;rounded=0;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="MNGdiOIPaT0lDah_iIlD-12" target="MNGdiOIPaT0lDah_iIlD-14">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="MNGdiOIPaT0lDah_iIlD-33" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="MNGdiOIPaT0lDah_iIlD-14" target="MNGdiOIPaT0lDah_iIlD-15">
           <mxGeometry relative="1" as="geometry">
