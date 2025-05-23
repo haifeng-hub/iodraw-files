@@ -3360,7 +3360,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="oDPSKtY6pFUW3TeCEHOw-24" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.32;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="oDPSKtY6pFUW3TeCEHOw-3" target="oDPSKtY6pFUW3TeCEHOw-4">
+        <mxCell id="oDPSKtY6pFUW3TeCEHOw-24" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="oDPSKtY6pFUW3TeCEHOw-3" target="oDPSKtY6pFUW3TeCEHOw-4">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="713" y="311" />
