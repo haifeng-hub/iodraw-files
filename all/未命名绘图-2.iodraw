@@ -2544,13 +2544,6 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="AqpJqt0BLSdEAmBp15Ga-37" value="固定信息" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.6;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="AqpJqt0BLSdEAmBp15Ga-10" target="AqpJqt0BLSdEAmBp15Ga-12">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="912" y="1189" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="AqpJqt0BLSdEAmBp15Ga-38" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="AqpJqt0BLSdEAmBp15Ga-11" target="AqpJqt0BLSdEAmBp15Ga-13">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
