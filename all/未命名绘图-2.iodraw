@@ -3876,6 +3876,281 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="LrYBB--3jJPQOlnaLndi-1" value="开始" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="315" y="20" width="92" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="LrYBB--3jJPQOlnaLndi-2" value="用户角色" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="304" y="119" width="113" height="113" as="geometry" />
+        </mxCell>
+        <mxCell id="LrYBB--3jJPQOlnaLndi-3" value="进入安全知识管理页面" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="124" y="304" width="220" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="LrYBB--3jJPQOlnaLndi-4" value="进入安全知识学习页面" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="435" y="1023" width="220" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="LrYBB--3jJPQOlnaLndi-5" value="内容类型" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="177" y="403" width="113" height="113" as="geometry" />
+        </mxCell>
+        <mxCell id="LrYBB--3jJPQOlnaLndi-6" value="上传安全教育材料" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="20" y="588" width="188" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="LrYBB--3jJPQOlnaLndi-7" value="编写应急处理流程" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="259" y="588" width="188" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="LrYBB--3jJPQOlnaLndi-8" value="分类整理&#xa;消防/用电/防盗等" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="20" y="709" width="189" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="LrYBB--3jJPQOlnaLndi-9" value="按紧急程度分类&#xa;火灾/地震/伤病等" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="259" y="709" width="189" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="LrYBB--3jJPQOlnaLndi-10" value="添加图文说明" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="36" y="826" width="156" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="LrYBB--3jJPQOlnaLndi-11" value="设计应急响应步骤" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="259" y="826" width="188" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="LrYBB--3jJPQOlnaLndi-12" value="发布安全知识" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="36" y="924" width="156" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="LrYBB--3jJPQOlnaLndi-13" value="发布应急处理指南" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="259" y="924" width="188" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="LrYBB--3jJPQOlnaLndi-14" value="系统推送学习提醒" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="140" y="1023" width="188" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="LrYBB--3jJPQOlnaLndi-15" value="功能选择" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="304" y="1122" width="113" height="113" as="geometry" />
+        </mxCell>
+        <mxCell id="LrYBB--3jJPQOlnaLndi-16" value="浏览安全知识目录" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="37" y="1527" width="188" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="LrYBB--3jJPQOlnaLndi-17" value="查看应急处理指南" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="386" y="1307" width="188" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="LrYBB--3jJPQOlnaLndi-18" value="选择学习主题" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="53" y="1693" width="156" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="LrYBB--3jJPQOlnaLndi-19" value="搜索或浏览应急类型" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="378" y="1428" width="204" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="LrYBB--3jJPQOlnaLndi-20" value="阅读安全知识内容" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="37" y="1881" width="188" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="LrYBB--3jJPQOlnaLndi-21" value="查看应急处理步骤" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="386" y="1527" width="188" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="LrYBB--3jJPQOlnaLndi-22" value="完成小测验" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="61" y="2002" width="140" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="LrYBB--3jJPQOlnaLndi-23" value="是否遇到紧急情况?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="388" y="1626" width="183" height="183" as="geometry" />
+        </mxCell>
+        <mxCell id="LrYBB--3jJPQOlnaLndi-24" value="记录学习进度" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="53" y="2101" width="156" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="LrYBB--3jJPQOlnaLndi-25" value="模拟练习应急流程" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="267" y="2101" width="188" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="LrYBB--3jJPQOlnaLndi-26" value="一键呼叫紧急联系人" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="497" y="1881" width="204" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="LrYBB--3jJPQOlnaLndi-27" value="安全学习流程结束" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="267" y="2200" width="188" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="LrYBB--3jJPQOlnaLndi-28" value="系统通知宿管及相关人员" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="481" y="2002" width="236" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="LrYBB--3jJPQOlnaLndi-29" value="记录紧急事件处理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="505" y="2101" width="188" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="LrYBB--3jJPQOlnaLndi-30" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="LrYBB--3jJPQOlnaLndi-1" target="LrYBB--3jJPQOlnaLndi-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LrYBB--3jJPQOlnaLndi-31" value="管理员" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.86;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="LrYBB--3jJPQOlnaLndi-2" target="LrYBB--3jJPQOlnaLndi-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="234" y="268" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LrYBB--3jJPQOlnaLndi-32" value="学生" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.75;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="LrYBB--3jJPQOlnaLndi-2" target="LrYBB--3jJPQOlnaLndi-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="545" y="268" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LrYBB--3jJPQOlnaLndi-33" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="LrYBB--3jJPQOlnaLndi-3" target="LrYBB--3jJPQOlnaLndi-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LrYBB--3jJPQOlnaLndi-34" value="安全知识" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.88;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="LrYBB--3jJPQOlnaLndi-5" target="LrYBB--3jJPQOlnaLndi-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="114" y="552" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LrYBB--3jJPQOlnaLndi-35" value="应急处理" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.88;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="LrYBB--3jJPQOlnaLndi-5" target="LrYBB--3jJPQOlnaLndi-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="353" y="552" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LrYBB--3jJPQOlnaLndi-36" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="LrYBB--3jJPQOlnaLndi-6" target="LrYBB--3jJPQOlnaLndi-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LrYBB--3jJPQOlnaLndi-37" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="LrYBB--3jJPQOlnaLndi-7" target="LrYBB--3jJPQOlnaLndi-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LrYBB--3jJPQOlnaLndi-38" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="LrYBB--3jJPQOlnaLndi-8" target="LrYBB--3jJPQOlnaLndi-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LrYBB--3jJPQOlnaLndi-39" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="LrYBB--3jJPQOlnaLndi-9" target="LrYBB--3jJPQOlnaLndi-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LrYBB--3jJPQOlnaLndi-40" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="LrYBB--3jJPQOlnaLndi-10" target="LrYBB--3jJPQOlnaLndi-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LrYBB--3jJPQOlnaLndi-41" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="LrYBB--3jJPQOlnaLndi-11" target="LrYBB--3jJPQOlnaLndi-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LrYBB--3jJPQOlnaLndi-42" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.19;entryY=0;rounded=0;" edge="1" parent="1" source="LrYBB--3jJPQOlnaLndi-12" target="LrYBB--3jJPQOlnaLndi-14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="114" y="998" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LrYBB--3jJPQOlnaLndi-43" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.81;entryY=0;rounded=0;" edge="1" parent="1" source="LrYBB--3jJPQOlnaLndi-13" target="LrYBB--3jJPQOlnaLndi-14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="353" y="998" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LrYBB--3jJPQOlnaLndi-44" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=1;entryY=0.27;rounded=0;" edge="1" parent="1" source="LrYBB--3jJPQOlnaLndi-4" target="LrYBB--3jJPQOlnaLndi-15">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="545" y="1097" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LrYBB--3jJPQOlnaLndi-45" value="安全知识学习" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.7;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="LrYBB--3jJPQOlnaLndi-15" target="LrYBB--3jJPQOlnaLndi-16">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="131" y="1271" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LrYBB--3jJPQOlnaLndi-46" value="应急指南查询" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.88;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="LrYBB--3jJPQOlnaLndi-15" target="LrYBB--3jJPQOlnaLndi-17">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="480" y="1271" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LrYBB--3jJPQOlnaLndi-47" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="LrYBB--3jJPQOlnaLndi-16" target="LrYBB--3jJPQOlnaLndi-18">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LrYBB--3jJPQOlnaLndi-48" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="LrYBB--3jJPQOlnaLndi-17" target="LrYBB--3jJPQOlnaLndi-19">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LrYBB--3jJPQOlnaLndi-49" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="LrYBB--3jJPQOlnaLndi-18" target="LrYBB--3jJPQOlnaLndi-20">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LrYBB--3jJPQOlnaLndi-50" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="LrYBB--3jJPQOlnaLndi-19" target="LrYBB--3jJPQOlnaLndi-21">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LrYBB--3jJPQOlnaLndi-51" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="LrYBB--3jJPQOlnaLndi-20" target="LrYBB--3jJPQOlnaLndi-22">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LrYBB--3jJPQOlnaLndi-52" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="LrYBB--3jJPQOlnaLndi-21" target="LrYBB--3jJPQOlnaLndi-23">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LrYBB--3jJPQOlnaLndi-53" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="LrYBB--3jJPQOlnaLndi-22" target="LrYBB--3jJPQOlnaLndi-24">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LrYBB--3jJPQOlnaLndi-54" value="否" style="curved=1;startArrow=none;endArrow=block;exitX=0.04;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="LrYBB--3jJPQOlnaLndi-23" target="LrYBB--3jJPQOlnaLndi-25">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="361" y="1845" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LrYBB--3jJPQOlnaLndi-55" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=0.97;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="LrYBB--3jJPQOlnaLndi-23" target="LrYBB--3jJPQOlnaLndi-26">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="599" y="1845" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LrYBB--3jJPQOlnaLndi-56" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="LrYBB--3jJPQOlnaLndi-25" target="LrYBB--3jJPQOlnaLndi-27">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LrYBB--3jJPQOlnaLndi-57" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="LrYBB--3jJPQOlnaLndi-26" target="LrYBB--3jJPQOlnaLndi-28">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LrYBB--3jJPQOlnaLndi-58" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0;entryY=0.08;rounded=0;" edge="1" parent="1" source="LrYBB--3jJPQOlnaLndi-24" target="LrYBB--3jJPQOlnaLndi-27">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="131" y="2175" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LrYBB--3jJPQOlnaLndi-59" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="LrYBB--3jJPQOlnaLndi-28" target="LrYBB--3jJPQOlnaLndi-29">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LrYBB--3jJPQOlnaLndi-60" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=1;entryY=0.09;rounded=0;" edge="1" parent="1" source="LrYBB--3jJPQOlnaLndi-29" target="LrYBB--3jJPQOlnaLndi-27">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="599" y="2175" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LrYBB--3jJPQOlnaLndi-61" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0;entryY=0.18;rounded=0;" edge="1" parent="1" source="LrYBB--3jJPQOlnaLndi-14" target="LrYBB--3jJPQOlnaLndi-15">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="234" y="1097" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
