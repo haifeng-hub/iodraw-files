@@ -3495,7 +3495,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="BBbAyPDsoxGdBZsf5Lqo-11" value="选择捐赠物品类型&#xa;书籍/衣物/文具等" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="534" y="1120" width="189" height="66" as="geometry" />
+          <mxGeometry x="469" y="1100" width="189" height="66" as="geometry" />
         </mxCell>
         <mxCell id="BBbAyPDsoxGdBZsf5Lqo-12" value="填写物品描述" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="486" y="1236" width="156" height="49" as="geometry" />
@@ -3591,13 +3591,6 @@
         <mxCell id="BBbAyPDsoxGdBZsf5Lqo-37" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="BBbAyPDsoxGdBZsf5Lqo-6" target="BBbAyPDsoxGdBZsf5Lqo-11">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="BBbAyPDsoxGdBZsf5Lqo-38" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.31;exitY=1;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="BBbAyPDsoxGdBZsf5Lqo-11" target="BBbAyPDsoxGdBZsf5Lqo-12">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="564" y="1211" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="BBbAyPDsoxGdBZsf5Lqo-39" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="BBbAyPDsoxGdBZsf5Lqo-12" target="BBbAyPDsoxGdBZsf5Lqo-13">
