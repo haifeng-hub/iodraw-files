@@ -2452,7 +2452,7 @@
           <mxGeometry x="399" y="1240" width="244" height="66" as="geometry" />
         </mxCell>
         <mxCell id="AqpJqt0BLSdEAmBp15Ga-12" value="提示无法自行修改&#xa;需联系管理员" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="818" y="1226" width="188" height="66" as="geometry" />
+          <mxGeometry x="706" y="1240" width="188" height="66" as="geometry" />
         </mxCell>
         <mxCell id="AqpJqt0BLSdEAmBp15Ga-13" value="提交修改申请" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="441.5" y="1350" width="156" height="49" as="geometry" />
