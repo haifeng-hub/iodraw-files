@@ -2427,6 +2427,9 @@
         <mxCell id="AqpJqt0BLSdEAmBp15Ga-5" value="查看当前宿舍信息&#xa;校区/宿舍楼号/楼层/宿舍号/床位号" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="696" y="480" width="245" height="84" as="geometry" />
         </mxCell>
+        <mxCell id="AqpJqt0BLSdEAmBp15Ga-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="AqpJqt0BLSdEAmBp15Ga-6" target="AqpJqt0BLSdEAmBp15Ga-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="AqpJqt0BLSdEAmBp15Ga-6" value="是否需要修改?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="743" y="614" width="151" height="151" as="geometry" />
         </mxCell>
@@ -2519,13 +2522,6 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1088" y="801" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="AqpJqt0BLSdEAmBp15Ga-33" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.68;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="AqpJqt0BLSdEAmBp15Ga-6" target="AqpJqt0BLSdEAmBp15Ga-8">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="511" y="801" />
             </Array>
           </mxGeometry>
         </mxCell>
