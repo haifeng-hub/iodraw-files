@@ -4670,14 +4670,14 @@
         <mxCell id="gU_QRWxInQZ9Uw_zRF6k-2" value="用户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="850" y="250" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="gU_QRWxInQZ9Uw_zRF6k-3" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="gU_QRWxInQZ9Uw_zRF6k-3" value="密码" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="400" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="gU_QRWxInQZ9Uw_zRF6k-4" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="150" y="310" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="gU_QRWxInQZ9Uw_zRF6k-5" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="140" y="330" width="120" height="80" as="geometry" />
+          <mxGeometry x="400" y="530" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="gU_QRWxInQZ9Uw_zRF6k-6" value="学号" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="220" width="120" height="80" as="geometry" />
