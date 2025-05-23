@@ -1788,7 +1788,7 @@
         <mxCell id="A8CwcBPdFAWz8-e88l2W-51" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="A8CwcBPdFAWz8-e88l2W-4" target="A8CwcBPdFAWz8-e88l2W-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="A8CwcBPdFAWz8-e88l2W-52" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="A8CwcBPdFAWz8-e88l2W-51">
+        <mxCell id="A8CwcBPdFAWz8-e88l2W-52" value="失物招领" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="A8CwcBPdFAWz8-e88l2W-51">
           <mxGeometry x="-0.1359" y="7" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -1803,19 +1803,19 @@
           <mxGeometry x="868.5" y="553" width="253" height="66" as="geometry" />
         </mxCell>
         <mxCell id="A8CwcBPdFAWz8-e88l2W-7" value="上传物品照片" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="598" y="670" width="156" height="49" as="geometry" />
+          <mxGeometry x="523.5" y="680" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="A8CwcBPdFAWz8-e88l2W-8" value="上传物品照片" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="901" y="670" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="A8CwcBPdFAWz8-e88l2W-9" value="填写联系方式" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="598" y="768" width="156" height="49" as="geometry" />
+          <mxGeometry x="523.5" y="768" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="A8CwcBPdFAWz8-e88l2W-10" value="填写联系方式" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="901" y="768" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="A8CwcBPdFAWz8-e88l2W-11" value="提交寻物启事" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="598" y="867" width="156" height="49" as="geometry" />
+          <mxGeometry x="523.5" y="867" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="A8CwcBPdFAWz8-e88l2W-12" value="提交失物招领" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="901" y="867" width="156" height="49" as="geometry" />
