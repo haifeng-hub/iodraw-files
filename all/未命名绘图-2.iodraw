@@ -4116,12 +4116,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="LrYBB--3jJPQOlnaLndi-61" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0;entryY=0.18;rounded=0;" edge="1" parent="1" source="LrYBB--3jJPQOlnaLndi-14" target="LrYBB--3jJPQOlnaLndi-15">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="704" y="1097" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="LrYBB--3jJPQOlnaLndi-61" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0;entryY=0.5;rounded=0;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="LrYBB--3jJPQOlnaLndi-14" target="LrYBB--3jJPQOlnaLndi-15">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
