@@ -1850,7 +1850,7 @@
           <mxGeometry x="739.5" y="1190" width="151" height="151" as="geometry" />
         </mxCell>
         <mxCell id="A8CwcBPdFAWz8-e88l2W-17" value="继续展示" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="420" y="1770" width="124" height="49" as="geometry" />
+          <mxGeometry x="480" y="1600" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="A8CwcBPdFAWz8-e88l2W-18" value="通过小程序联系对方" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="715.5" y="1400" width="204" height="49" as="geometry" />
