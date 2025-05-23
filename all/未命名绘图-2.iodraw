@@ -3055,7 +3055,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7FZjdMlkxcrqIRNeqpyv-29" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.75;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="7FZjdMlkxcrqIRNeqpyv-9" target="7FZjdMlkxcrqIRNeqpyv-10">
+        <mxCell id="7FZjdMlkxcrqIRNeqpyv-29" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0.5;entryY=0;rounded=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="7FZjdMlkxcrqIRNeqpyv-9" target="7FZjdMlkxcrqIRNeqpyv-10">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="995" y="1036" />
