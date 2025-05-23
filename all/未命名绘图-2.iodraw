@@ -3559,7 +3559,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="BBbAyPDsoxGdBZsf5Lqo-31" value="捐赠物品" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.7;entryX=0.46;entryY=0.01;rounded=0;" edge="1" parent="1" source="BBbAyPDsoxGdBZsf5Lqo-4" target="BBbAyPDsoxGdBZsf5Lqo-6">
+        <mxCell id="BBbAyPDsoxGdBZsf5Lqo-31" value="捐赠物品" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.5;entryX=0.46;entryY=0.01;rounded=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="BBbAyPDsoxGdBZsf5Lqo-4" target="BBbAyPDsoxGdBZsf5Lqo-6">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="614" y="475" />
