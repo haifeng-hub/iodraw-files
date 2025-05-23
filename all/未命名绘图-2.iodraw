@@ -1785,8 +1785,13 @@
         <mxCell id="A8CwcBPdFAWz8-e88l2W-3" value="进入寻物招领页面" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="644" y="237" width="188" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="A8CwcBPdFAWz8-e88l2W-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="A8CwcBPdFAWz8-e88l2W-4" target="A8CwcBPdFAWz8-e88l2W-6">
+        <mxCell id="A8CwcBPdFAWz8-e88l2W-51" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="A8CwcBPdFAWz8-e88l2W-4" target="A8CwcBPdFAWz8-e88l2W-6">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="A8CwcBPdFAWz8-e88l2W-52" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="A8CwcBPdFAWz8-e88l2W-51">
+          <mxGeometry x="-0.1359" y="7" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="A8CwcBPdFAWz8-e88l2W-4" value="选择功能类型" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="665" y="336" width="145" height="145" as="geometry" />
