@@ -3294,7 +3294,7 @@
           <mxGeometry x="700" y="139" width="172" height="49" as="geometry" />
         </mxCell>
         <mxCell id="oDPSKtY6pFUW3TeCEHOw-3" value="进入洗衣房功能页面" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="684" y="237" width="204" height="49" as="geometry" />
+          <mxGeometry x="611.5" y="237" width="204" height="49" as="geometry" />
         </mxCell>
         <mxCell id="oDPSKtY6pFUW3TeCEHOw-4" value="扫描洗衣机设备二维码" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="603" y="336" width="220" height="49" as="geometry" />
