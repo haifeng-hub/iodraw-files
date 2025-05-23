@@ -1858,11 +1858,14 @@
         <mxCell id="A8CwcBPdFAWz8-e88l2W-19" value="确认物品信息" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="739.5" y="1510" width="156" height="49" as="geometry" />
         </mxCell>
+        <mxCell id="A8CwcBPdFAWz8-e88l2W-58" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="A8CwcBPdFAWz8-e88l2W-20" target="A8CwcBPdFAWz8-e88l2W-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="A8CwcBPdFAWz8-e88l2W-20" value="是否为所寻物品?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="739.5" y="1640" width="167" height="167" as="geometry" />
         </mxCell>
         <mxCell id="A8CwcBPdFAWz8-e88l2W-21" value="约定归还/领取方式" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="719.5" y="1890" width="196" height="49" as="geometry" />
+          <mxGeometry x="727.5" y="1890" width="196" height="49" as="geometry" />
         </mxCell>
         <mxCell id="A8CwcBPdFAWz8-e88l2W-22" value="物品成功归还/领取" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="721" y="2000" width="196" height="49" as="geometry" />
