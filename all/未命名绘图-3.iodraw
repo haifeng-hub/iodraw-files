@@ -4432,10 +4432,13 @@
         <mxCell id="X5H-qhBnfoOMXWt3Y7PM-28" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.855;exitY=0.145;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.71;entryY=1.052;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="OQJQ3TFo7hP5b4XqAZz0-17" target="OQJQ3TFo7hP5b4XqAZz0-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="X5H-qhBnfoOMXWt3Y7PM-30" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="X5H-qhBnfoOMXWt3Y7PM-28">
+        <mxCell id="X5H-qhBnfoOMXWt3Y7PM-30" value="政策数据、监督信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="X5H-qhBnfoOMXWt3Y7PM-28">
           <mxGeometry x="-0.4066" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="X5H-qhBnfoOMXWt3Y7PM-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=0.89;entryY=0.23;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="OQJQ3TFo7hP5b4XqAZz0-14" target="OQJQ3TFo7hP5b4XqAZz0-18">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
