@@ -2472,6 +2472,9 @@
         <mxCell id="AqpJqt0BLSdEAmBp15Ga-17" value="验证通过?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="461.5" y="1550" width="119" height="119" as="geometry" />
         </mxCell>
+        <mxCell id="AqpJqt0BLSdEAmBp15Ga-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="AqpJqt0BLSdEAmBp15Ga-18" target="AqpJqt0BLSdEAmBp15Ga-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="AqpJqt0BLSdEAmBp15Ga-18" value="提示错误并返回" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="435" y="1766" width="172" height="49" as="geometry" />
         </mxCell>
