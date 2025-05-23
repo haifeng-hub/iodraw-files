@@ -1723,10 +1723,10 @@
           <mxGeometry x="821.5" y="1170" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="fWXMqm6UiISyIzV3_qHW-11" value="注册成功并跳转至首页" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="890" y="1233" width="220" height="49" as="geometry" />
+          <mxGeometry x="820" y="1283" width="189.5" height="37" as="geometry" />
         </mxCell>
         <mxCell id="fWXMqm6UiISyIzV3_qHW-12" value="结束" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="954" y="1332" width="92" height="49" as="geometry" />
+          <mxGeometry x="853.5" y="1370" width="92" height="49" as="geometry" />
         </mxCell>
         <mxCell id="fWXMqm6UiISyIzV3_qHW-13" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.49;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="fWXMqm6UiISyIzV3_qHW-1" target="fWXMqm6UiISyIzV3_qHW-2">
           <mxGeometry relative="1" as="geometry">
