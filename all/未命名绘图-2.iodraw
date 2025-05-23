@@ -3580,12 +3580,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="BBbAyPDsoxGdBZsf5Lqo-36" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.5;entryX=1;entryY=0.03;rounded=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="BBbAyPDsoxGdBZsf5Lqo-9" target="BBbAyPDsoxGdBZsf5Lqo-6">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="832" y="985" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="BBbAyPDsoxGdBZsf5Lqo-36" value="是" style="startArrow=none;endArrow=block;exitX=0;exitY=0.5;entryX=1;entryY=0.5;rounded=0;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;entryDx=0;entryDy=0;" edge="1" parent="1" source="BBbAyPDsoxGdBZsf5Lqo-9" target="BBbAyPDsoxGdBZsf5Lqo-6">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BBbAyPDsoxGdBZsf5Lqo-37" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="BBbAyPDsoxGdBZsf5Lqo-6" target="BBbAyPDsoxGdBZsf5Lqo-11">
           <mxGeometry relative="1" as="geometry">
