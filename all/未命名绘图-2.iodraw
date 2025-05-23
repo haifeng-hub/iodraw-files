@@ -1672,7 +1672,7 @@
           <mxGeometry x="819" y="267" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="fWXMqm6UiISyIzV3_qHW-4" value="填写个人信息&#xa;姓名/性别/年龄/学号/手机号" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="770" y="366" width="254" height="84" as="geometry" />
+          <mxGeometry x="800" y="366" width="204" height="64" as="geometry" />
         </mxCell>
         <mxCell id="fWXMqm6UiISyIzV3_qHW-5" value="信息是否完整?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="924" y="523" width="151" height="151" as="geometry" />
@@ -1712,7 +1712,7 @@
           <mxGeometry x="890" y="1233" width="220" height="49" as="geometry" />
         </mxCell>
         <mxCell id="fWXMqm6UiISyIzV3_qHW-12" value="结束" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="988" y="1332" width="92" height="49" as="geometry" />
+          <mxGeometry x="954" y="1332" width="92" height="49" as="geometry" />
         </mxCell>
         <mxCell id="fWXMqm6UiISyIzV3_qHW-13" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.49;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="fWXMqm6UiISyIzV3_qHW-1" target="fWXMqm6UiISyIzV3_qHW-2">
           <mxGeometry relative="1" as="geometry">
