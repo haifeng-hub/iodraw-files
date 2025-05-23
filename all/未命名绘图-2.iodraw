@@ -2443,7 +2443,7 @@
           <mxGeometry x="409" y="936" width="204" height="49" as="geometry" />
         </mxCell>
         <mxCell id="AqpJqt0BLSdEAmBp15Ga-10" value="信息类型?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="373" y="1034" width="119" height="119" as="geometry" />
+          <mxGeometry x="450" y="1050" width="119" height="119" as="geometry" />
         </mxCell>
         <mxCell id="AqpJqt0BLSdEAmBp15Ga-11" value="修改手机号/密码等可变信息" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="310" y="1226" width="244" height="66" as="geometry" />
