@@ -2254,7 +2254,7 @@
           <mxGeometry x="547.5" y="1451" width="151" height="151" as="geometry" />
         </mxCell>
         <mxCell id="XUwIG_liIp07Ohd70iV--17" value="流程终止" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="558.5" y="1680" width="124" height="49" as="geometry" />
+          <mxGeometry x="561" y="1680" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="XUwIG_liIp07Ohd70iV--18" value="生成批准通知" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="874" y="1238" width="156" height="49" as="geometry" />
@@ -2379,12 +2379,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="XUwIG_liIp07Ohd70iV--50" value="退宿" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="XUwIG_liIp07Ohd70iV--20" target="XUwIG_liIp07Ohd70iV--22">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="837" y="1622" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="XUwIG_liIp07Ohd70iV--50" value="退宿" style="startArrow=none;endArrow=block;exitX=0;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="XUwIG_liIp07Ohd70iV--20" target="XUwIG_liIp07Ohd70iV--22">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XUwIG_liIp07Ohd70iV--51" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="XUwIG_liIp07Ohd70iV--21" target="XUwIG_liIp07Ohd70iV--23">
           <mxGeometry relative="1" as="geometry">
