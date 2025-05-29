@@ -1887,6 +1887,78 @@
       <root>
         <mxCell id="Gq6TEWO07YLVckFnm5Co-0" />
         <mxCell id="Gq6TEWO07YLVckFnm5Co-1" parent="Gq6TEWO07YLVckFnm5Co-0" />
+        <mxCell id="BxDmCh38KzQlI9b4LfmP-0" value="开始" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="Gq6TEWO07YLVckFnm5Co-1">
+          <mxGeometry x="185" y="610" width="55" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="BxDmCh38KzQlI9b4LfmP-1" value="查看/发起捐赠项目" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="Gq6TEWO07YLVckFnm5Co-1">
+          <mxGeometry x="115" y="694" width="196" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="BxDmCh38KzQlI9b4LfmP-2" value="捐赠类型" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="Gq6TEWO07YLVckFnm5Co-1">
+          <mxGeometry x="157" y="792" width="113" height="113" as="geometry" />
+        </mxCell>
+        <mxCell id="BxDmCh38KzQlI9b4LfmP-3" value="填写物品信息" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="Gq6TEWO07YLVckFnm5Co-1">
+          <mxGeometry x="20" y="978" width="156" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="BxDmCh38KzQlI9b4LfmP-4" value="填写服务时间与技能" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="Gq6TEWO07YLVckFnm5Co-1">
+          <mxGeometry x="226" y="978" width="204" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="BxDmCh38KzQlI9b4LfmP-5" value="捐赠数据库" style="shape=cylinder3;boundedLbl=1;backgroundOutline=1;size=10;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="Gq6TEWO07YLVckFnm5Co-1">
+          <mxGeometry x="166" y="1076" width="95" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="BxDmCh38KzQlI9b4LfmP-6" value="管理员审核与对接" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="Gq6TEWO07YLVckFnm5Co-1">
+          <mxGeometry x="119" y="1192" width="188" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="BxDmCh38KzQlI9b4LfmP-7" value="结束" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="Gq6TEWO07YLVckFnm5Co-1">
+          <mxGeometry x="185" y="1291" width="55" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="BxDmCh38KzQlI9b4LfmP-8" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.51;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="Gq6TEWO07YLVckFnm5Co-1" source="BxDmCh38KzQlI9b4LfmP-0" target="BxDmCh38KzQlI9b4LfmP-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BxDmCh38KzQlI9b4LfmP-9" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="Gq6TEWO07YLVckFnm5Co-1" source="BxDmCh38KzQlI9b4LfmP-1" target="BxDmCh38KzQlI9b4LfmP-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BxDmCh38KzQlI9b4LfmP-10" value="物品捐赠" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.9;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="Gq6TEWO07YLVckFnm5Co-1" source="BxDmCh38KzQlI9b4LfmP-2" target="BxDmCh38KzQlI9b4LfmP-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="98" y="941" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BxDmCh38KzQlI9b4LfmP-11" value="志愿服务" style="curved=1;startArrow=none;endArrow=block;exitX=0.99;exitY=0.9;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="Gq6TEWO07YLVckFnm5Co-1" source="BxDmCh38KzQlI9b4LfmP-2" target="BxDmCh38KzQlI9b4LfmP-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="328" y="941" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BxDmCh38KzQlI9b4LfmP-12" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=-0.01;entryY=0.14;rounded=0;" edge="1" parent="Gq6TEWO07YLVckFnm5Co-1" source="BxDmCh38KzQlI9b4LfmP-3" target="BxDmCh38KzQlI9b4LfmP-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="98" y="1051" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BxDmCh38KzQlI9b4LfmP-13" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.99;entryY=0.14;rounded=0;" edge="1" parent="Gq6TEWO07YLVckFnm5Co-1" source="BxDmCh38KzQlI9b4LfmP-4" target="BxDmCh38KzQlI9b4LfmP-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="328" y="1051" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BxDmCh38KzQlI9b4LfmP-14" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.49;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="Gq6TEWO07YLVckFnm5Co-1" source="BxDmCh38KzQlI9b4LfmP-5" target="BxDmCh38KzQlI9b4LfmP-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BxDmCh38KzQlI9b4LfmP-15" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.51;entryY=0;rounded=0;" edge="1" parent="Gq6TEWO07YLVckFnm5Co-1" source="BxDmCh38KzQlI9b4LfmP-6" target="BxDmCh38KzQlI9b4LfmP-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
