@@ -1503,12 +1503,6 @@
         <mxCell id="AqpJqt0BLSdEAmBp15Ga-19" value="更新个人信息" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="647" y="1766" width="156" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="AqpJqt0BLSdEAmBp15Ga-66" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="AqpJqt0BLSdEAmBp15Ga-24" target="AqpJqt0BLSdEAmBp15Ga-25" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="AqpJqt0BLSdEAmBp15Ga-24" value="管理员更新学生信息" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="814" y="1922" width="204" height="49" as="geometry" />
-        </mxCell>
         <mxCell id="AqpJqt0BLSdEAmBp15Ga-65" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="AqpJqt0BLSdEAmBp15Ga-25" target="AqpJqt0BLSdEAmBp15Ga-26" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -1537,14 +1531,6 @@
         </mxCell>
         <mxCell id="AqpJqt0BLSdEAmBp15Ga-45" value="是" style="startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0.5;entryY=-0.01;rounded=0;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" parent="1" source="AqpJqt0BLSdEAmBp15Ga-17" target="AqpJqt0BLSdEAmBp15Ga-19" edge="1">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="AqpJqt0BLSdEAmBp15Ga-50" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=0.52;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" parent="1" target="AqpJqt0BLSdEAmBp15Ga-24" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="916" y="1886" />
-            </Array>
-            <mxPoint x="911.8333333333335" y="1847.666666666666" as="sourcePoint" />
-          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
