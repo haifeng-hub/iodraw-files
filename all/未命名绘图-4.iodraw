@@ -1756,11 +1756,16 @@
         <mxCell id="5CuBmWcRu3kKWvenCGQV-9" value="上传相关文件" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="712" y="580" width="180" height="66" as="geometry" />
         </mxCell>
+        <mxCell id="pqTqLr2cPLwIAOXEppUr-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="5CuBmWcRu3kKWvenCGQV-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="790" y="850" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="5CuBmWcRu3kKWvenCGQV-10" value="授权位置信息" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="721" y="710" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="5CuBmWcRu3kKWvenCGQV-11" value="提交申请" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="737" y="820" width="124" height="49" as="geometry" />
+          <mxGeometry x="737" y="980" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="5CuBmWcRu3kKWvenCGQV-12" value="系统记录并通知宿管/辅导员" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="679" y="1296" width="244" height="66" as="geometry" />
