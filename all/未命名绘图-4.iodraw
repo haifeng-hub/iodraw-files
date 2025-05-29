@@ -1253,10 +1253,10 @@
           <mxGeometry x="857" y="760" width="188" height="49" as="geometry" />
         </mxCell>
         <mxCell id="SMIPeMhjXmC3Eqsy3d5C-20" value="查看报销流程" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="1190" y="1558" width="156" height="49" as="geometry" />
+          <mxGeometry x="1119" y="770" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="SMIPeMhjXmC3Eqsy3d5C-21" value="标记已读" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="910.5" y="1700" width="124" height="49" as="geometry" />
+          <mxGeometry x="910.5" y="930" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="SMIPeMhjXmC3Eqsy3d5C-22" value="公告流程结束" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="894.5" y="1790" width="156" height="49" as="geometry" />
