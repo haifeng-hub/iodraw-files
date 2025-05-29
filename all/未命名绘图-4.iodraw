@@ -1865,9 +1865,6 @@
         <mxCell id="oDPSKtY6pFUW3TeCEHOw-19" value="洗衣完成通知" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="1003" y="964.5" width="156" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="oDPSKtY6pFUW3TeCEHOw-20" value="学生取衣" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="1019" y="1063.5" width="124" height="49" as="geometry" />
-        </mxCell>
         <mxCell id="oDPSKtY6pFUW3TeCEHOw-21" value="洗衣流程结束" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="1003" y="1161.5" width="156" height="49" as="geometry" />
         </mxCell>
@@ -1903,14 +1900,10 @@
             <mxPoint x="1081" y="960" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="oDPSKtY6pFUW3TeCEHOw-41" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" parent="1" source="oDPSKtY6pFUW3TeCEHOw-19" target="oDPSKtY6pFUW3TeCEHOw-20" edge="1">
+        <mxCell id="oDPSKtY6pFUW3TeCEHOw-41" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" parent="1" source="oDPSKtY6pFUW3TeCEHOw-19" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="oDPSKtY6pFUW3TeCEHOw-42" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" parent="1" source="oDPSKtY6pFUW3TeCEHOw-20" target="oDPSKtY6pFUW3TeCEHOw-21" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
+            <mxPoint x="1081" y="1063.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="bbcFSXgQNRLwSZN7-MGZ-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="oDPSKtY6pFUW3TeCEHOw-19" target="oDPSKtY6pFUW3TeCEHOw-19">
