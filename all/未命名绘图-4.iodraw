@@ -1644,23 +1644,19 @@
         <mxCell id="MNGdiOIPaT0lDah_iIlD-6" value="选择充值金额" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="631" y="549" width="156" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="EGINsDD_xNja1KfzDTO2-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MNGdiOIPaT0lDah_iIlD-7" target="MNGdiOIPaT0lDah_iIlD-12">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="EGINsDD_xNja1KfzDTO2-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MNGdiOIPaT0lDah_iIlD-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="711" y="830" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="MNGdiOIPaT0lDah_iIlD-7" value="选择支付方式&#xa;微信支付/支付宝支付" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="605" y="710" width="212" height="66" as="geometry" />
-        </mxCell>
-        <mxCell id="MNGdiOIPaT0lDah_iIlD-12" value="支付成功?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="651.5" y="830" width="119" height="119" as="geometry" />
-        </mxCell>
-        <mxCell id="MNGdiOIPaT0lDah_iIlD-13" value="显示支付失败原因" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="490" y="1400" width="188" height="49" as="geometry" />
         </mxCell>
         <mxCell id="MNGdiOIPaT0lDah_iIlD-14" value="更新电费余额" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="801" y="1040" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="MNGdiOIPaT0lDah_iIlD-17" value="结束" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="849" y="1738" width="92" height="49" as="geometry" />
+          <mxGeometry x="750" y="1710" width="92" height="49" as="geometry" />
         </mxCell>
         <mxCell id="MNGdiOIPaT0lDah_iIlD-20" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" parent="1" target="MNGdiOIPaT0lDah_iIlD-4" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -1678,14 +1674,10 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MNGdiOIPaT0lDah_iIlD-30" value="否" style="startArrow=none;endArrow=block;exitX=0;exitY=0.5;entryX=0.64;entryY=0;rounded=0;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" parent="1" source="MNGdiOIPaT0lDah_iIlD-12" target="MNGdiOIPaT0lDah_iIlD-13" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="MNGdiOIPaT0lDah_iIlD-31" value="" style="startArrow=none;endArrow=block;exitX=0;exitY=0.5;entryX=0;entryY=0.5;rounded=0;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;exitDx=0;exitDy=0;" parent="1" source="MNGdiOIPaT0lDah_iIlD-13" target="MNGdiOIPaT0lDah_iIlD-6" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="MNGdiOIPaT0lDah_iIlD-32" value="是" style="startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0.5;entryY=0;rounded=0;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" parent="1" source="MNGdiOIPaT0lDah_iIlD-12" target="MNGdiOIPaT0lDah_iIlD-14" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="MNGdiOIPaT0lDah_iIlD-32" value="是" style="startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0.5;entryY=0;rounded=0;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" parent="1" target="MNGdiOIPaT0lDah_iIlD-14" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="770.5" y="889.5" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="MNGdiOIPaT0lDah_iIlD-33" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" parent="1" source="MNGdiOIPaT0lDah_iIlD-14" edge="1">
           <mxGeometry relative="1" as="geometry">
