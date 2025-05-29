@@ -1317,17 +1317,13 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="1UiLE1kAanPLCpesoY2B-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XUwIG_liIp07Ohd70iV--1" target="XUwIG_liIp07Ohd70iV--3">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="XUwIG_liIp07Ohd70iV--1" value="开始" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="709" y="120" width="92" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="XUwIG_liIp07Ohd70iV--57" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="XUwIG_liIp07Ohd70iV--3" target="XUwIG_liIp07Ohd70iV--4" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="XUwIG_liIp07Ohd70iV--3" value="进入宿舍管理页面" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="661" y="240" width="188" height="49" as="geometry" />
+        <mxCell id="XUwIG_liIp07Ohd70iV--57" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" target="XUwIG_liIp07Ohd70iV--4" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="755" y="289" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="XUwIG_liIp07Ohd70iV--4" value="选择业务类型" style="rhombus;strokeWidth=2;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="682.5" y="340" width="145" height="145" as="geometry" />
@@ -1374,13 +1370,13 @@
         <mxCell id="XUwIG_liIp07Ohd70iV--32" value="退宿申请" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0.01;rounded=0;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" parent="1" source="XUwIG_liIp07Ohd70iV--4" target="XUwIG_liIp07Ohd70iV--6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="XUwIG_liIp07Ohd70iV--33" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" parent="1" source="XUwIG_liIp07Ohd70iV--5" edge="1">
+        <mxCell id="XUwIG_liIp07Ohd70iV--33" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;entryDx=0;entryDy=0;" parent="1" source="XUwIG_liIp07Ohd70iV--5" target="XUwIG_liIp07Ohd70iV--11" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
             <mxPoint x="935.9999999999995" y="652" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XUwIG_liIp07Ohd70iV--34" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" parent="1" source="XUwIG_liIp07Ohd70iV--6" edge="1">
+        <mxCell id="XUwIG_liIp07Ohd70iV--34" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;entryDx=0;entryDy=0;" parent="1" source="XUwIG_liIp07Ohd70iV--6" target="XUwIG_liIp07Ohd70iV--11" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
             <mxPoint x="615" y="652" as="targetPoint" />
