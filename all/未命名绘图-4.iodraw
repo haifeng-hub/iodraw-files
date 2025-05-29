@@ -4467,6 +4467,102 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="8gVvurHVk84-Hpp6y5jp-1" value="开始" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="145" y="110" width="55" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="8gVvurHVk84-Hpp6y5jp-2" value="查看空闲洗衣机" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="87" y="194" width="172" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="8gVvurHVk84-Hpp6y5jp-3" value="扫码绑定设备" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="95" y="292" width="156" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="8gVvurHVk84-Hpp6y5jp-4" value="选择洗衣模式" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="95" y="391" width="156" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="8gVvurHVk84-Hpp6y5jp-5" value="选择支付方式" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="101" y="490" width="145" height="145" as="geometry" />
+        </mxCell>
+        <mxCell id="8gVvurHVk84-Hpp6y5jp-6" value="微信支付" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="20" y="707" width="124" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="8gVvurHVk84-Hpp6y5jp-7" value="支付宝支付" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="194" y="707" width="140" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="8gVvurHVk84-Hpp6y5jp-8" value="支付成功" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="111" y="806" width="124" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="8gVvurHVk84-Hpp6y5jp-9" value="设备启动洗衣" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="95" y="904" width="156" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="8gVvurHVk84-Hpp6y5jp-10" value="发送完成通知" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="95" y="1003" width="156" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="8gVvurHVk84-Hpp6y5jp-11" value="结束" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="145" y="1102" width="55" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="8gVvurHVk84-Hpp6y5jp-12" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.51;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="8gVvurHVk84-Hpp6y5jp-1" target="8gVvurHVk84-Hpp6y5jp-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8gVvurHVk84-Hpp6y5jp-13" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="8gVvurHVk84-Hpp6y5jp-2" target="8gVvurHVk84-Hpp6y5jp-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8gVvurHVk84-Hpp6y5jp-14" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="8gVvurHVk84-Hpp6y5jp-3" target="8gVvurHVk84-Hpp6y5jp-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8gVvurHVk84-Hpp6y5jp-15" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="8gVvurHVk84-Hpp6y5jp-4" target="8gVvurHVk84-Hpp6y5jp-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8gVvurHVk84-Hpp6y5jp-16" value="微信" style="curved=1;startArrow=none;endArrow=block;exitX=0.08;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="8gVvurHVk84-Hpp6y5jp-5" target="8gVvurHVk84-Hpp6y5jp-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="82" y="671" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8gVvurHVk84-Hpp6y5jp-17" value="支付宝" style="curved=1;startArrow=none;endArrow=block;exitX=0.91;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="8gVvurHVk84-Hpp6y5jp-5" target="8gVvurHVk84-Hpp6y5jp-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="264" y="671" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8gVvurHVk84-Hpp6y5jp-18" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.14;entryY=-0.01;rounded=0;" edge="1" parent="1" source="8gVvurHVk84-Hpp6y5jp-6" target="8gVvurHVk84-Hpp6y5jp-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="82" y="781" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8gVvurHVk84-Hpp6y5jp-19" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.86;entryY=-0.01;rounded=0;" edge="1" parent="1" source="8gVvurHVk84-Hpp6y5jp-7" target="8gVvurHVk84-Hpp6y5jp-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="264" y="781" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8gVvurHVk84-Hpp6y5jp-20" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="8gVvurHVk84-Hpp6y5jp-8" target="8gVvurHVk84-Hpp6y5jp-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8gVvurHVk84-Hpp6y5jp-21" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="8gVvurHVk84-Hpp6y5jp-9" target="8gVvurHVk84-Hpp6y5jp-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8gVvurHVk84-Hpp6y5jp-22" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.51;entryY=-0.01;rounded=0;" edge="1" parent="1" source="8gVvurHVk84-Hpp6y5jp-10" target="8gVvurHVk84-Hpp6y5jp-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
