@@ -1709,13 +1709,10 @@
           <mxGeometry x="693" y="800" width="188" height="49" as="geometry" />
         </mxCell>
         <mxCell id="7FZjdMlkxcrqIRNeqpyv-13" value="安排维修人员" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="700" y="880" width="156" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="7FZjdMlkxcrqIRNeqpyv-15" value="维修完成后更新状态" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="700" y="1110" width="204" height="49" as="geometry" />
+          <mxGeometry x="709" y="900" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="7FZjdMlkxcrqIRNeqpyv-16" value="学生确认维修结果" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="755" y="1329" width="188" height="49" as="geometry" />
+          <mxGeometry x="701" y="1050" width="188" height="49" as="geometry" />
         </mxCell>
         <mxCell id="7FZjdMlkxcrqIRNeqpyv-20" value="报修流程结束" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="787" y="1580" width="156" height="49" as="geometry" />
