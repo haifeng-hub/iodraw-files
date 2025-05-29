@@ -380,12 +380,6 @@
             <mxPoint x="304.54545454545405" y="416.02068302068255" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="j0rJzowzzbi5A3T-aMSf-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="304.5" y="501.9999999999998" as="sourcePoint" />
-            <mxPoint x="304.54545454545405" y="553.0000000000002" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="j0rJzowzzbi5A3T-aMSf-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="305" y="68" as="sourcePoint" />
