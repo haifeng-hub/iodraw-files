@@ -1130,7 +1130,7 @@
           <mxGeometry x="480" y="420" width="253" height="66" as="geometry" />
         </mxCell>
         <mxCell id="A8CwcBPdFAWz8-e88l2W-6" value="填写拾获物品信息&#xa;物品名称/拾获地点/时间等" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="868.5" y="553" width="253" height="66" as="geometry" />
+          <mxGeometry x="863" y="420" width="253" height="66" as="geometry" />
         </mxCell>
         <mxCell id="A8CwcBPdFAWz8-e88l2W-54" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="A8CwcBPdFAWz8-e88l2W-13" target="A8CwcBPdFAWz8-e88l2W-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -1142,7 +1142,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="A8CwcBPdFAWz8-e88l2W-14" value="系统展示招领信息" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="895.5" y="670" width="188" height="49" as="geometry" />
+          <mxGeometry x="890.5" y="580" width="188" height="49" as="geometry" />
         </mxCell>
         <mxCell id="A8CwcBPdFAWz8-e88l2W-55" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="A8CwcBPdFAWz8-e88l2W-15" target="A8CwcBPdFAWz8-e88l2W-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
