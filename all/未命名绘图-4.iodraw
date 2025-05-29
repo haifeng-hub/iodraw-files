@@ -1691,14 +1691,13 @@
         <mxCell id="7FZjdMlkxcrqIRNeqpyv-4" value="填写报修信息&#xa;校区/宿舍楼号/楼层/宿舍号/房间号" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="656" y="416" width="245" height="84" as="geometry" />
         </mxCell>
-        <mxCell id="7FZjdMlkxcrqIRNeqpyv-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="7FZjdMlkxcrqIRNeqpyv-6" target="7FZjdMlkxcrqIRNeqpyv-7" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="7FZjdMlkxcrqIRNeqpyv-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="7FZjdMlkxcrqIRNeqpyv-6" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="778.5" y="680" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="7FZjdMlkxcrqIRNeqpyv-6" value="上传故障描述&#xa;可包含文字/图片/语音" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="672" y="550" width="221" height="66" as="geometry" />
-        </mxCell>
-        <mxCell id="7FZjdMlkxcrqIRNeqpyv-7" value="提交报修申请" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="700.5" y="680" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="7FZjdMlkxcrqIRNeqpyv-8" value="系统记录并通知宿管" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="677" y="860" width="204" height="49" as="geometry" />
@@ -1763,11 +1762,6 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
             <mxPoint x="779" y="550" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="7FZjdMlkxcrqIRNeqpyv-27" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" parent="1" source="7FZjdMlkxcrqIRNeqpyv-7" target="7FZjdMlkxcrqIRNeqpyv-8" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="7FZjdMlkxcrqIRNeqpyv-28" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" parent="1" source="7FZjdMlkxcrqIRNeqpyv-8" target="7FZjdMlkxcrqIRNeqpyv-9" edge="1">
