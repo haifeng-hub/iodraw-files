@@ -1198,13 +1198,13 @@
           <mxGeometry x="721" y="1640" width="196" height="49" as="geometry" />
         </mxCell>
         <mxCell id="A8CwcBPdFAWz8-e88l2W-22" value="物品成功归还/领取" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="728" y="2000" width="196" height="49" as="geometry" />
+          <mxGeometry x="728" y="1790" width="196" height="49" as="geometry" />
         </mxCell>
         <mxCell id="A8CwcBPdFAWz8-e88l2W-23" value="关闭寻物/招领信息" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="728" y="2090" width="196" height="49" as="geometry" />
+          <mxGeometry x="731.5" y="1900" width="196" height="49" as="geometry" />
         </mxCell>
         <mxCell id="A8CwcBPdFAWz8-e88l2W-24" value="寻物招领流程结束" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="735.5" y="2200" width="188" height="49" as="geometry" />
+          <mxGeometry x="739.5" y="2010" width="188" height="49" as="geometry" />
         </mxCell>
         <mxCell id="A8CwcBPdFAWz8-e88l2W-25" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" parent="1" source="A8CwcBPdFAWz8-e88l2W-1" edge="1">
           <mxGeometry relative="1" as="geometry">
