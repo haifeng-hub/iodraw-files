@@ -1362,17 +1362,11 @@
         <mxCell id="XUwIG_liIp07Ohd70iV--20" value="业务类型?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="892.5" y="1340" width="119" height="119" as="geometry" />
         </mxCell>
-        <mxCell id="XUwIG_liIp07Ohd70iV--21" value="安排宿舍调整" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="989" y="1550" width="156" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="XUwIG_liIp07Ohd70iV--22" value="安排退宿验收" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="759" y="1540" width="156" height="49" as="geometry" />
-        </mxCell>
         <mxCell id="XUwIG_liIp07Ohd70iV--23" value="学生确认搬迁完成" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="973" y="1757" width="188" height="49" as="geometry" />
+          <mxGeometry x="973" y="1540" width="188" height="49" as="geometry" />
         </mxCell>
         <mxCell id="XUwIG_liIp07Ohd70iV--24" value="宿管验收并确认" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="751" y="1757" width="172" height="49" as="geometry" />
+          <mxGeometry x="751" y="1540" width="172" height="49" as="geometry" />
         </mxCell>
         <mxCell id="XUwIG_liIp07Ohd70iV--25" value="更新学生宿舍信息" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="973" y="1856" width="188" height="49" as="geometry" />
@@ -1431,20 +1425,14 @@
             <mxPoint x="952" y="1337" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XUwIG_liIp07Ohd70iV--49" value="换宿" style="startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0.5;entryY=-0.01;rounded=0;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" parent="1" source="XUwIG_liIp07Ohd70iV--20" target="XUwIG_liIp07Ohd70iV--21" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="XUwIG_liIp07Ohd70iV--50" value="退宿" style="startArrow=none;endArrow=block;exitX=0;exitY=0.5;entryX=0.5;entryY=-0.01;rounded=0;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" parent="1" source="XUwIG_liIp07Ohd70iV--20" target="XUwIG_liIp07Ohd70iV--22" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="XUwIG_liIp07Ohd70iV--51" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" parent="1" source="XUwIG_liIp07Ohd70iV--21" target="XUwIG_liIp07Ohd70iV--23" edge="1">
+        <mxCell id="XUwIG_liIp07Ohd70iV--49" value="换宿" style="startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0.5;entryY=-0.01;rounded=0;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" parent="1" source="XUwIG_liIp07Ohd70iV--20" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
+            <mxPoint x="1067" y="1550" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XUwIG_liIp07Ohd70iV--52" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" parent="1" source="XUwIG_liIp07Ohd70iV--22" target="XUwIG_liIp07Ohd70iV--24" edge="1">
+        <mxCell id="XUwIG_liIp07Ohd70iV--50" value="退宿" style="startArrow=none;endArrow=block;exitX=0;exitY=0.5;entryX=0.5;entryY=-0.01;rounded=0;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" parent="1" source="XUwIG_liIp07Ohd70iV--20" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
+            <mxPoint x="836.9999999999995" y="1540" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="XUwIG_liIp07Ohd70iV--53" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" parent="1" source="XUwIG_liIp07Ohd70iV--23" target="XUwIG_liIp07Ohd70iV--25" edge="1">
