@@ -4,10 +4,11 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="j0rJzowzzbi5A3T-aMSf-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" target="j0rJzowzzbi5A3T-aMSf-23" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="304" y="147" as="sourcePoint" />
-          </mxGeometry>
+        <mxCell id="j0rJzowzzbi5A3T-aMSf-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="j0rJzowzzbi5A3T-aMSf-2" target="j0rJzowzzbi5A3T-aMSf-23" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="j0rJzowzzbi5A3T-aMSf-2" value="进入小程序界面" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="236.5" y="111" width="135" height="36" as="geometry" />
         </mxCell>
         <mxCell id="j0rJzowzzbi5A3T-aMSf-27" value="N" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="j0rJzowzzbi5A3T-aMSf-4" target="j0rJzowzzbi5A3T-aMSf-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -49,7 +50,7 @@
         <mxCell id="j0rJzowzzbi5A3T-aMSf-9" value="结束" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="259.5" y="689" width="92" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="j0rJzowzzbi5A3T-aMSf-20" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="j0rJzowzzbi5A3T-aMSf-20" value="开始" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;" parent="1" vertex="1">
           <mxGeometry x="243.5" y="28" width="120" height="39" as="geometry" />
         </mxCell>
         <mxCell id="j0rJzowzzbi5A3T-aMSf-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="j0rJzowzzbi5A3T-aMSf-23" target="j0rJzowzzbi5A3T-aMSf-4" edge="1">
