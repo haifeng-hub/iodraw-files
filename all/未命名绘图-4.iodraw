@@ -1559,21 +1559,11 @@
         <mxCell id="9KhGymi9i63sxjAp125N-9" value="学生获取当前位置" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="679" y="500" width="188" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="9KhGymi9i63sxjAp125N-49" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="9KhGymi9i63sxjAp125N-10" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="776.1490872210952" y="1170" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="x5FK2jDWVstx2ZQnBV-R-3" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="9KhGymi9i63sxjAp125N-49">
-          <mxGeometry x="-0.0648" y="3" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="9KhGymi9i63sxjAp125N-10" value="是否在宿舍范围内?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="687.5" y="610" width="183" height="183" as="geometry" />
         </mxCell>
         <mxCell id="9KhGymi9i63sxjAp125N-14" value="确认签到" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="719.5" y="1260" width="124" height="49" as="geometry" />
+          <mxGeometry x="711" y="1180" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="9KhGymi9i63sxjAp125N-15" value="系统记录签到信息&#xa;时间/位置/状态" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="687.5" y="1560" width="188" height="66" as="geometry" />
