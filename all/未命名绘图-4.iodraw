@@ -1859,9 +1859,6 @@
         <mxCell id="oDPSKtY6pFUW3TeCEHOw-13" value="显示费用信息" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="1003" y="770" width="156" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="oDPSKtY6pFUW3TeCEHOw-14" value="选择支付方式" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="1003" y="860" width="156" height="49" as="geometry" />
-        </mxCell>
         <mxCell id="oDPSKtY6pFUW3TeCEHOw-15" value="完成支付" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="1019" y="1161" width="124" height="49" as="geometry" />
         </mxCell>
@@ -1914,14 +1911,16 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="oDPSKtY6pFUW3TeCEHOw-35" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;" parent="1" source="oDPSKtY6pFUW3TeCEHOw-13" target="oDPSKtY6pFUW3TeCEHOw-14" edge="1">
+        <mxCell id="oDPSKtY6pFUW3TeCEHOw-35" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;" parent="1" source="oDPSKtY6pFUW3TeCEHOw-13" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
+            <mxPoint x="1081" y="860" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="oDPSKtY6pFUW3TeCEHOw-36" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" parent="1" source="oDPSKtY6pFUW3TeCEHOw-14" target="oDPSKtY6pFUW3TeCEHOw-15" edge="1">
+        <mxCell id="oDPSKtY6pFUW3TeCEHOw-36" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" parent="1" target="oDPSKtY6pFUW3TeCEHOw-15" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
+            <mxPoint x="1081" y="909" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="oDPSKtY6pFUW3TeCEHOw-37" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" parent="1" source="oDPSKtY6pFUW3TeCEHOw-15" target="oDPSKtY6pFUW3TeCEHOw-16" edge="1">
