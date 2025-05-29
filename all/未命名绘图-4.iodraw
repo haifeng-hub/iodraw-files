@@ -1258,7 +1258,7 @@
           <mxGeometry x="1119" y="770" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="SMIPeMhjXmC3Eqsy3d5C-22" value="公告流程结束" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="899" y="950" width="156" height="49" as="geometry" />
+          <mxGeometry x="893.5" y="950" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="SMIPeMhjXmC3Eqsy3d5C-26" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" parent="1" source="SMIPeMhjXmC3Eqsy3d5C-3" target="SMIPeMhjXmC3Eqsy3d5C-5" edge="1">
           <mxGeometry relative="1" as="geometry">
