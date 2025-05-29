@@ -333,14 +333,11 @@
         <mxCell id="j0rJzowzzbi5A3T-aMSf-5" value="提示信息输入不能为空" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="38" y="273" width="78" height="124" as="geometry" />
         </mxCell>
-        <mxCell id="j0rJzowzzbi5A3T-aMSf-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="j0rJzowzzbi5A3T-aMSf-6" target="j0rJzowzzbi5A3T-aMSf-7" edge="1">
+        <mxCell id="Uep2XcFfZ9tibKRVG54R-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="j0rJzowzzbi5A3T-aMSf-6" target="j0rJzowzzbi5A3T-aMSf-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="j0rJzowzzbi5A3T-aMSf-6" value="密码是否匹配数据库" style="rhombus;strokeWidth=2;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="209" y="415" width="189" height="86" as="geometry" />
-        </mxCell>
-        <mxCell id="Uep2XcFfZ9tibKRVG54R-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="j0rJzowzzbi5A3T-aMSf-7" target="j0rJzowzzbi5A3T-aMSf-6">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="j0rJzowzzbi5A3T-aMSf-7" value="用户名和密码输入正确, 进入小程序" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="201" y="552" width="205" height="54" as="geometry" />
