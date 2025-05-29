@@ -4424,6 +4424,41 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="5psAo8Pn9_kxhNbBvnfw-1" value="开始" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="94" y="20" width="55" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="5psAo8Pn9_kxhNbBvnfw-2" value="管理员编辑公告" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="36" y="104" width="172" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="5psAo8Pn9_kxhNbBvnfw-3" value="公告数据库" style="shape=cylinder3;boundedLbl=1;backgroundOutline=1;size=10;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="75" y="202" width="95" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="5psAo8Pn9_kxhNbBvnfw-4" value="学生接收并查看公告" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="20" y="318" width="204" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="5psAo8Pn9_kxhNbBvnfw-5" value="结束" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="94" y="417" width="55" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="5psAo8Pn9_kxhNbBvnfw-6" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.51;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="5psAo8Pn9_kxhNbBvnfw-1" target="5psAo8Pn9_kxhNbBvnfw-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5psAo8Pn9_kxhNbBvnfw-7" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.49;entryY=0.01;rounded=0;" edge="1" parent="1" source="5psAo8Pn9_kxhNbBvnfw-2" target="5psAo8Pn9_kxhNbBvnfw-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5psAo8Pn9_kxhNbBvnfw-8" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.49;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="5psAo8Pn9_kxhNbBvnfw-3" target="5psAo8Pn9_kxhNbBvnfw-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5psAo8Pn9_kxhNbBvnfw-9" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.51;entryY=0;rounded=0;" edge="1" parent="1" source="5psAo8Pn9_kxhNbBvnfw-4" target="5psAo8Pn9_kxhNbBvnfw-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
