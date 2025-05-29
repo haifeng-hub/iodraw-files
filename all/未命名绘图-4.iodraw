@@ -1040,7 +1040,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="fWXMqm6UiISyIzV3_qHW-5" value="信息是否完整?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="821.5" y="520" width="151" height="151" as="geometry" />
+          <mxGeometry x="821.5" y="520" width="148.5" height="90" as="geometry" />
         </mxCell>
         <mxCell id="fWXMqm6UiISyIzV3_qHW-6" value="提交注册申请" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="821.5" y="746" width="156" height="49" as="geometry" />
