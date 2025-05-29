@@ -1576,14 +1576,11 @@
         <mxCell id="9KhGymi9i63sxjAp125N-15" value="系统记录签到信息&#xa;时间/位置/状态" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="687.5" y="990" width="188" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="9KhGymi9i63sxjAp125N-16" value="更新签到统计数据" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="666" y="1160" width="188" height="49" as="geometry" />
-        </mxCell>
         <mxCell id="x5FK2jDWVstx2ZQnBV-R-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9KhGymi9i63sxjAp125N-17" target="9KhGymi9i63sxjAp125N-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9KhGymi9i63sxjAp125N-17" value="宿管查看签到结果" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="653" y="1310" width="188" height="49" as="geometry" />
+          <mxGeometry x="687.5" y="1200" width="188" height="49" as="geometry" />
         </mxCell>
         <mxCell id="9KhGymi9i63sxjAp125N-19" value="签到流程结束" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="663" y="1780" width="156" height="49" as="geometry" />
@@ -1614,14 +1611,16 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9KhGymi9i63sxjAp125N-38" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=-0.01;rounded=0;" parent="1" source="9KhGymi9i63sxjAp125N-15" target="9KhGymi9i63sxjAp125N-16" edge="1">
+        <mxCell id="9KhGymi9i63sxjAp125N-38" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=-0.01;rounded=0;" parent="1" source="9KhGymi9i63sxjAp125N-15" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
+            <mxPoint x="781.5" y="1100" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9KhGymi9i63sxjAp125N-39" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.98;entryX=0.5;entryY=0;rounded=0;" parent="1" source="9KhGymi9i63sxjAp125N-16" target="9KhGymi9i63sxjAp125N-17" edge="1">
+        <mxCell id="9KhGymi9i63sxjAp125N-39" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.98;entryX=0.5;entryY=0;rounded=0;" parent="1" target="9KhGymi9i63sxjAp125N-17" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
+            <mxPoint x="781.5" y="1149" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
       </root>
