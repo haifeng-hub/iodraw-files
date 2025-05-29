@@ -4431,7 +4431,7 @@
         <mxCell id="qSTkrACg1MVO5J_tLnO2-26" value="用户" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="976" y="130" width="92" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="qSTkrACg1MVO5J_tLnO2-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qSTkrACg1MVO5J_tLnO2-27" target="qSTkrACg1MVO5J_tLnO2-29">
+        <mxCell id="qSTkrACg1MVO5J_tLnO2-38" value="Y" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qSTkrACg1MVO5J_tLnO2-27" target="qSTkrACg1MVO5J_tLnO2-29">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qSTkrACg1MVO5J_tLnO2-27" value="注册 / 登录" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
@@ -4458,13 +4458,6 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="902" y="396" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="qSTkrACg1MVO5J_tLnO2-34" value="非首次" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.92;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="qSTkrACg1MVO5J_tLnO2-27" target="qSTkrACg1MVO5J_tLnO2-29">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1143" y="396" />
             </Array>
           </mxGeometry>
         </mxCell>
