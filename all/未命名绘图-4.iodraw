@@ -1564,8 +1564,8 @@
             <mxPoint x="776.1490872210952" y="1170" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="x5FK2jDWVstx2ZQnBV-R-2" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="9KhGymi9i63sxjAp125N-49">
-          <mxGeometry x="-0.2183" y="-4" relative="1" as="geometry">
+        <mxCell id="x5FK2jDWVstx2ZQnBV-R-3" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="9KhGymi9i63sxjAp125N-49">
+          <mxGeometry x="-0.0648" y="3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
