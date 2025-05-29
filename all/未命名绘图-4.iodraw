@@ -1557,7 +1557,7 @@
           <mxGeometry x="679.5" y="290" width="188" height="49" as="geometry" />
         </mxCell>
         <mxCell id="9KhGymi9i63sxjAp125N-9" value="学生获取当前位置" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="682" y="840" width="188" height="49" as="geometry" />
+          <mxGeometry x="679" y="500" width="188" height="49" as="geometry" />
         </mxCell>
         <mxCell id="9KhGymi9i63sxjAp125N-49" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="9KhGymi9i63sxjAp125N-10" target="9KhGymi9i63sxjAp125N-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -1566,7 +1566,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9KhGymi9i63sxjAp125N-10" value="是否在宿舍范围内?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="684.5" y="926" width="183" height="183" as="geometry" />
+          <mxGeometry x="690" y="650" width="183" height="183" as="geometry" />
         </mxCell>
         <mxCell id="9KhGymi9i63sxjAp125N-11" value="提示位置异常" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="698" y="1170" width="156" height="49" as="geometry" />
