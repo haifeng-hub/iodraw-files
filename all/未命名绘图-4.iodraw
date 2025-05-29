@@ -1251,7 +1251,7 @@
         <mxCell id="SMIPeMhjXmC3Eqsy3d5C-7" value="选择宿舍" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="889" y="650" width="156" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="SMIPeMhjXmC3Eqsy3d5C-8" value="上传报销政策文件" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="SMIPeMhjXmC3Eqsy3d5C-8" value="报销政策文件" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="1103" y="650" width="188" height="49" as="geometry" />
         </mxCell>
         <mxCell id="SMIPeMhjXmC3Eqsy3d5C-9" value="输入卫生评分与评语" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
