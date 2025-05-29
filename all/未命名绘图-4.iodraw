@@ -1034,7 +1034,7 @@
         <mxCell id="-htlS2OBMX7D2KaFP1ZX-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="fWXMqm6UiISyIzV3_qHW-5" target="fWXMqm6UiISyIzV3_qHW-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-htlS2OBMX7D2KaFP1ZX-7" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="-htlS2OBMX7D2KaFP1ZX-6">
+        <mxCell id="-htlS2OBMX7D2KaFP1ZX-7" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="-htlS2OBMX7D2KaFP1ZX-6">
           <mxGeometry x="0.1369" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -1044,9 +1044,6 @@
         </mxCell>
         <mxCell id="fWXMqm6UiISyIzV3_qHW-6" value="提交注册申请" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="821.5" y="746" width="156" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="fWXMqm6UiISyIzV3_qHW-7" value="系统验证学号真实性" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="797.5" y="860" width="204" height="49" as="geometry" />
         </mxCell>
         <mxCell id="fWXMqm6UiISyIzV3_qHW-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="fWXMqm6UiISyIzV3_qHW-8" target="fWXMqm6UiISyIzV3_qHW-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -1084,14 +1081,16 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fWXMqm6UiISyIzV3_qHW-19" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" parent="1" source="fWXMqm6UiISyIzV3_qHW-6" target="fWXMqm6UiISyIzV3_qHW-7" edge="1">
+        <mxCell id="fWXMqm6UiISyIzV3_qHW-19" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" parent="1" source="fWXMqm6UiISyIzV3_qHW-6" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
+            <mxPoint x="899.5" y="859.9999999999998" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fWXMqm6UiISyIzV3_qHW-20" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.98;entryX=0.5;entryY=0;rounded=0;" parent="1" source="fWXMqm6UiISyIzV3_qHW-7" target="fWXMqm6UiISyIzV3_qHW-8" edge="1">
+        <mxCell id="fWXMqm6UiISyIzV3_qHW-20" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.98;entryX=0.5;entryY=0;rounded=0;" parent="1" target="fWXMqm6UiISyIzV3_qHW-8" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
+            <mxPoint x="899.5" y="909" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fWXMqm6UiISyIzV3_qHW-24" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.98;entryX=0.5;entryY=0;rounded=0;" parent="1" source="fWXMqm6UiISyIzV3_qHW-10" target="fWXMqm6UiISyIzV3_qHW-11" edge="1">
