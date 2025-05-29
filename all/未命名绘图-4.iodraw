@@ -1089,12 +1089,6 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fWXMqm6UiISyIzV3_qHW-25" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" parent="1" source="fWXMqm6UiISyIzV3_qHW-11" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-            <mxPoint x="899.5" y="1370" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="-htlS2OBMX7D2KaFP1ZX-4" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="837" y="260" width="120" height="60" as="geometry" />
         </mxCell>
@@ -4257,7 +4251,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="6Us9xlWJlAfmUynBQQGY" name="第 37 页">
+  <diagram id="6Us9xlWJlAfmUynBQQGY" name=" 电费缴纳流程">
     <mxGraphModel dx="1453" dy="768" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1e+25" pageHeight="1e+22" math="0" shadow="0">
       <root>
         <mxCell id="0" />
