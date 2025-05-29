@@ -1132,17 +1132,11 @@
         <mxCell id="A8CwcBPdFAWz8-e88l2W-8" value="上传物品照片" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="917" y="660" width="156" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="A8CwcBPdFAWz8-e88l2W-10" value="填写联系方式" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="917" y="768" width="156" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="A8CwcBPdFAWz8-e88l2W-12" value="提交失物招领" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="917" y="867" width="156" height="49" as="geometry" />
-        </mxCell>
         <mxCell id="A8CwcBPdFAWz8-e88l2W-54" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="A8CwcBPdFAWz8-e88l2W-13" target="A8CwcBPdFAWz8-e88l2W-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="A8CwcBPdFAWz8-e88l2W-13" value="系统展示寻物信息" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="507.5" y="966" width="188" height="49" as="geometry" />
+          <mxGeometry x="480" y="760" width="188" height="49" as="geometry" />
         </mxCell>
         <mxCell id="A8CwcBPdFAWz8-e88l2W-53" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="A8CwcBPdFAWz8-e88l2W-14" target="A8CwcBPdFAWz8-e88l2W-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -1229,50 +1223,28 @@
         <mxCell id="A8CwcBPdFAWz8-e88l2W-28" value="寻物启事" style="startArrow=none;endArrow=block;exitX=0;exitY=0.5;entryX=0.5;entryY=0.01;rounded=0;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" parent="1" source="A8CwcBPdFAWz8-e88l2W-4" target="A8CwcBPdFAWz8-e88l2W-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="A8CwcBPdFAWz8-e88l2W-30" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=-0.01;rounded=0;" parent="1" source="A8CwcBPdFAWz8-e88l2W-5" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-            <mxPoint x="601.5" y="680" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="A8CwcBPdFAWz8-e88l2W-31" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=-0.01;rounded=0;" parent="1" source="A8CwcBPdFAWz8-e88l2W-6" target="A8CwcBPdFAWz8-e88l2W-8" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="A8CwcBPdFAWz8-e88l2W-32" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" parent="1" edge="1">
+        <mxCell id="A8CwcBPdFAWz8-e88l2W-33" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" parent="1" source="A8CwcBPdFAWz8-e88l2W-8" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-            <mxPoint x="601.5" y="729" as="sourcePoint" />
-            <mxPoint x="601.5" y="768" as="targetPoint" />
+            <mxPoint x="995" y="768" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="A8CwcBPdFAWz8-e88l2W-33" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" parent="1" source="A8CwcBPdFAWz8-e88l2W-8" target="A8CwcBPdFAWz8-e88l2W-10" edge="1">
+        <mxCell id="A8CwcBPdFAWz8-e88l2W-35" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
+            <mxPoint x="995" y="817" as="sourcePoint" />
+            <mxPoint x="995" y="867" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="A8CwcBPdFAWz8-e88l2W-34" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" parent="1" edge="1">
+        <mxCell id="A8CwcBPdFAWz8-e88l2W-37" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" parent="1" target="A8CwcBPdFAWz8-e88l2W-14" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-            <mxPoint x="601.5" y="817" as="sourcePoint" />
-            <mxPoint x="601.5" y="867" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="A8CwcBPdFAWz8-e88l2W-35" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" parent="1" source="A8CwcBPdFAWz8-e88l2W-10" target="A8CwcBPdFAWz8-e88l2W-12" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="A8CwcBPdFAWz8-e88l2W-36" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" parent="1" target="A8CwcBPdFAWz8-e88l2W-13" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-            <mxPoint x="601.5" y="916" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="A8CwcBPdFAWz8-e88l2W-37" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" parent="1" source="A8CwcBPdFAWz8-e88l2W-12" target="A8CwcBPdFAWz8-e88l2W-14" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
+            <mxPoint x="995" y="916" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="A8CwcBPdFAWz8-e88l2W-44" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" parent="1" source="A8CwcBPdFAWz8-e88l2W-18" target="A8CwcBPdFAWz8-e88l2W-19" edge="1">
