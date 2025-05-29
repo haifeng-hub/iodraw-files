@@ -1216,7 +1216,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="SMIPeMhjXmC3Eqsy3d5C-1" value="开始" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="909" y="170" width="92" height="49" as="geometry" />
+          <mxGeometry x="925" y="170" width="92" height="49" as="geometry" />
         </mxCell>
         <mxCell id="SMIPeMhjXmC3Eqsy3d5C-50" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" target="SMIPeMhjXmC3Eqsy3d5C-3" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -1265,9 +1265,6 @@
         </mxCell>
         <mxCell id="SMIPeMhjXmC3Eqsy3d5C-12" value="选择接收对象范围" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="877" y="847" width="188" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="SMIPeMhjXmC3Eqsy3d5C-13" value="设置公告有效期" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="885" y="946" width="172" height="49" as="geometry" />
         </mxCell>
         <mxCell id="SMIPeMhjXmC3Eqsy3d5C-14" value="发布公告" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="909" y="1045" width="124" height="49" as="geometry" />
@@ -1357,14 +1354,16 @@
         <mxCell id="SMIPeMhjXmC3Eqsy3d5C-35" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=1;entryY=0.5;rounded=0;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" parent="1" source="SMIPeMhjXmC3Eqsy3d5C-11" target="SMIPeMhjXmC3Eqsy3d5C-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="SMIPeMhjXmC3Eqsy3d5C-36" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" parent="1" source="SMIPeMhjXmC3Eqsy3d5C-12" target="SMIPeMhjXmC3Eqsy3d5C-13" edge="1">
+        <mxCell id="SMIPeMhjXmC3Eqsy3d5C-36" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" parent="1" source="SMIPeMhjXmC3Eqsy3d5C-12" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
+            <mxPoint x="970.9999999999995" y="946" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SMIPeMhjXmC3Eqsy3d5C-37" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" parent="1" source="SMIPeMhjXmC3Eqsy3d5C-13" target="SMIPeMhjXmC3Eqsy3d5C-14" edge="1">
+        <mxCell id="SMIPeMhjXmC3Eqsy3d5C-37" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" parent="1" target="SMIPeMhjXmC3Eqsy3d5C-14" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
+            <mxPoint x="970.9999999999995" y="995" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="SMIPeMhjXmC3Eqsy3d5C-38" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" parent="1" source="SMIPeMhjXmC3Eqsy3d5C-14" target="SMIPeMhjXmC3Eqsy3d5C-15" edge="1">
