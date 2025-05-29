@@ -4438,7 +4438,7 @@
           <mxGeometry x="800" y="432" width="203" height="49" as="geometry" />
         </mxCell>
         <mxCell id="qSTkrACg1MVO5J_tLnO2-29" value="微信授权/手机号" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1053" y="432" width="180" height="49" as="geometry" />
+          <mxGeometry x="950" y="432" width="180" height="49" as="geometry" />
         </mxCell>
         <mxCell id="qSTkrACg1MVO5J_tLnO2-30" value="信息验证" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="960" y="531" width="124" height="49" as="geometry" />
