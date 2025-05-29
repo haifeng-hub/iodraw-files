@@ -1079,9 +1079,6 @@
         <mxCell id="fWXMqm6UiISyIzV3_qHW-11" value="注册成功并跳转至首页" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="804.75" y="1283" width="189.5" height="37" as="geometry" />
         </mxCell>
-        <mxCell id="fWXMqm6UiISyIzV3_qHW-12" value="结束" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="853.5" y="1370" width="92" height="49" as="geometry" />
-        </mxCell>
         <mxCell id="fWXMqm6UiISyIzV3_qHW-18" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" parent="1" source="fWXMqm6UiISyIzV3_qHW-5" target="fWXMqm6UiISyIzV3_qHW-6" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
@@ -1102,12 +1099,13 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fWXMqm6UiISyIzV3_qHW-25" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" parent="1" source="fWXMqm6UiISyIzV3_qHW-11" target="fWXMqm6UiISyIzV3_qHW-12" edge="1">
+        <mxCell id="fWXMqm6UiISyIzV3_qHW-25" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" parent="1" source="fWXMqm6UiISyIzV3_qHW-11" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
+            <mxPoint x="899.5" y="1370" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-htlS2OBMX7D2KaFP1ZX-4" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="-htlS2OBMX7D2KaFP1ZX-4" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="837" y="260" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
