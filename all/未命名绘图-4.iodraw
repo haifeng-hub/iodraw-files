@@ -4434,11 +4434,17 @@
         <mxCell id="qSTkrACg1MVO5J_tLnO2-38" value="N" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qSTkrACg1MVO5J_tLnO2-27" target="qSTkrACg1MVO5J_tLnO2-29">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="qSTkrACg1MVO5J_tLnO2-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="qSTkrACg1MVO5J_tLnO2-27" target="qSTkrACg1MVO5J_tLnO2-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="qSTkrACg1MVO5J_tLnO2-27" value="注册 / 登录" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="957" y="229" width="131" height="131" as="geometry" />
         </mxCell>
         <mxCell id="qSTkrACg1MVO5J_tLnO2-28" value="填写信息 -&gt; 提交" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="660" y="410" width="203" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="qSTkrACg1MVO5J_tLnO2-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qSTkrACg1MVO5J_tLnO2-29" target="qSTkrACg1MVO5J_tLnO2-30">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qSTkrACg1MVO5J_tLnO2-29" value="微信授权/手机号" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="932" y="432" width="180" height="49" as="geometry" />
