@@ -1760,11 +1760,14 @@
         <mxCell id="5CuBmWcRu3kKWvenCGQV-11" value="提交申请" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="737" y="980" width="124" height="49" as="geometry" />
         </mxCell>
+        <mxCell id="pqTqLr2cPLwIAOXEppUr-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5CuBmWcRu3kKWvenCGQV-12" target="5CuBmWcRu3kKWvenCGQV-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="5CuBmWcRu3kKWvenCGQV-12" value="系统记录并通知宿管/辅导员" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="680" y="1140" width="244" height="66" as="geometry" />
         </mxCell>
         <mxCell id="5CuBmWcRu3kKWvenCGQV-14" value="是否批准?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="742" y="1280" width="119" height="119" as="geometry" />
+          <mxGeometry x="742.5" y="1260" width="119" height="119" as="geometry" />
         </mxCell>
         <mxCell id="5CuBmWcRu3kKWvenCGQV-15" value="说明拒绝原因" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="605" y="1702" width="156" height="49" as="geometry" />
@@ -1774,9 +1777,6 @@
         </mxCell>
         <mxCell id="5CuBmWcRu3kKWvenCGQV-17" value="生成返校批准通知" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="830" y="1702" width="188" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="5CuBmWcRu3kKWvenCGQV-18" value="学生收到批准通知" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="830" y="1801" width="188" height="49" as="geometry" />
         </mxCell>
         <mxCell id="5CuBmWcRu3kKWvenCGQV-19" value="按计划返校并签到" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="830" y="1899" width="188" height="49" as="geometry" />
@@ -1805,7 +1805,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5CuBmWcRu3kKWvenCGQV-34" value="否" style="startArrow=none;endArrow=block;entryX=0.5;entryY=0;rounded=0;" parent="1" target="5CuBmWcRu3kKWvenCGQV-15" edge="1">
+        <mxCell id="5CuBmWcRu3kKWvenCGQV-34" value="否" style="startArrow=none;endArrow=block;entryX=0.5;entryY=0;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" target="5CuBmWcRu3kKWvenCGQV-15" edge="1" source="5CuBmWcRu3kKWvenCGQV-14">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="680" y="1570" />
@@ -1830,14 +1830,16 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="5CuBmWcRu3kKWvenCGQV-38" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" parent="1" source="5CuBmWcRu3kKWvenCGQV-17" target="5CuBmWcRu3kKWvenCGQV-18" edge="1">
+        <mxCell id="5CuBmWcRu3kKWvenCGQV-38" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" parent="1" source="5CuBmWcRu3kKWvenCGQV-17" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
+            <mxPoint x="924" y="1801" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5CuBmWcRu3kKWvenCGQV-39" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" parent="1" source="5CuBmWcRu3kKWvenCGQV-18" target="5CuBmWcRu3kKWvenCGQV-19" edge="1">
+        <mxCell id="5CuBmWcRu3kKWvenCGQV-39" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" parent="1" target="5CuBmWcRu3kKWvenCGQV-19" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
+            <mxPoint x="924" y="1850" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="5CuBmWcRu3kKWvenCGQV-40" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" parent="1" source="5CuBmWcRu3kKWvenCGQV-19" target="5CuBmWcRu3kKWvenCGQV-20" edge="1">
