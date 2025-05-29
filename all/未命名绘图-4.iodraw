@@ -1020,6 +1020,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="-htlS2OBMX7D2KaFP1ZX-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fWXMqm6UiISyIzV3_qHW-1" target="fWXMqm6UiISyIzV3_qHW-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="fWXMqm6UiISyIzV3_qHW-1" value="开始" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="851" y="270" width="92" height="49" as="geometry" />
         </mxCell>
@@ -1104,6 +1107,9 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="-htlS2OBMX7D2KaFP1ZX-2" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="20" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
