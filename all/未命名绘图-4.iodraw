@@ -1,4 +1,4 @@
-<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0" version="24.7.17" pages="35">
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0" version="24.7.17" pages="36">
   <diagram id="EjXnBDmYcujXnU03AaHh" name="第 3 页">
     <mxGraphModel dx="1453" dy="768" grid="1" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1e+25" pageHeight="1e+22" math="0" shadow="0">
       <root>
@@ -4340,6 +4340,78 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="EPTbT3oUHvq_k1mhJ1KX-20" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.51;entryY=0.01;rounded=0;" edge="1" parent="1" source="EPTbT3oUHvq_k1mhJ1KX-9" target="EPTbT3oUHvq_k1mhJ1KX-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="SqzyPnKaT6e5fr4ylFgD" name="第 36 页">
+    <mxGraphModel dx="1453" dy="768" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1e+25" pageHeight="1e+22" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="YOp66sExIqcZMB1yJfTQ-1" value="开始" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="177" y="20" width="55" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="YOp66sExIqcZMB1yJfTQ-2" value="签到类型" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="149" y="104" width="113" height="113" as="geometry" />
+        </mxCell>
+        <mxCell id="YOp66sExIqcZMB1yJfTQ-3" value="获取定位信息" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="20" y="289" width="156" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="YOp66sExIqcZMB1yJfTQ-4" value="扫描宿舍二维码" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="226" y="289" width="172" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="YOp66sExIqcZMB1yJfTQ-5" value="生成签到记录" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="127" y="388" width="156" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="YOp66sExIqcZMB1yJfTQ-6" value="签到数据库" style="shape=cylinder3;boundedLbl=1;backgroundOutline=1;size=10;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="158" y="486" width="95" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="YOp66sExIqcZMB1yJfTQ-7" value="结束" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="177" y="602" width="55" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="YOp66sExIqcZMB1yJfTQ-8" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.51;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="YOp66sExIqcZMB1yJfTQ-1" target="YOp66sExIqcZMB1yJfTQ-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YOp66sExIqcZMB1yJfTQ-9" value="日常" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.93;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="YOp66sExIqcZMB1yJfTQ-2" target="YOp66sExIqcZMB1yJfTQ-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="98" y="253" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YOp66sExIqcZMB1yJfTQ-10" value="查寝" style="curved=1;startArrow=none;endArrow=block;exitX=0.99;exitY=0.93;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="YOp66sExIqcZMB1yJfTQ-2" target="YOp66sExIqcZMB1yJfTQ-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="312" y="253" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YOp66sExIqcZMB1yJfTQ-11" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.16;entryY=-0.01;rounded=0;" edge="1" parent="1" source="YOp66sExIqcZMB1yJfTQ-3" target="YOp66sExIqcZMB1yJfTQ-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="98" y="363" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YOp66sExIqcZMB1yJfTQ-12" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.84;entryY=-0.01;rounded=0;" edge="1" parent="1" source="YOp66sExIqcZMB1yJfTQ-4" target="YOp66sExIqcZMB1yJfTQ-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="312" y="363" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YOp66sExIqcZMB1yJfTQ-13" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.49;entryY=0.01;rounded=0;" edge="1" parent="1" source="YOp66sExIqcZMB1yJfTQ-5" target="YOp66sExIqcZMB1yJfTQ-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YOp66sExIqcZMB1yJfTQ-14" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.49;exitY=1.01;entryX=0.51;entryY=0.01;rounded=0;" edge="1" parent="1" source="YOp66sExIqcZMB1yJfTQ-6" target="YOp66sExIqcZMB1yJfTQ-7">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
