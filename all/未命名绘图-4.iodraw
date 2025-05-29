@@ -1778,11 +1778,8 @@
         <mxCell id="5CuBmWcRu3kKWvenCGQV-17" value="生成返校批准通知" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="830" y="1702" width="188" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="5CuBmWcRu3kKWvenCGQV-19" value="按计划返校并签到" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="829" y="1790" width="188" height="49" as="geometry" />
-        </mxCell>
         <mxCell id="5CuBmWcRu3kKWvenCGQV-20" value="返校流程结束" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="845" y="1998" width="156" height="49" as="geometry" />
+          <mxGeometry x="845" y="1900" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="5CuBmWcRu3kKWvenCGQV-23" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" parent="1" target="5CuBmWcRu3kKWvenCGQV-4" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -1830,9 +1827,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="5CuBmWcRu3kKWvenCGQV-40" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" parent="1" source="5CuBmWcRu3kKWvenCGQV-19" target="5CuBmWcRu3kKWvenCGQV-20" edge="1">
+        <mxCell id="5CuBmWcRu3kKWvenCGQV-40" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" parent="1" target="5CuBmWcRu3kKWvenCGQV-20" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
+            <mxPoint x="923" y="1839" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
       </root>
