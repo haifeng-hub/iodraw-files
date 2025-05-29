@@ -1177,7 +1177,7 @@
           <mxGeometry x="713" y="1050" width="196" height="49" as="geometry" />
         </mxCell>
         <mxCell id="A8CwcBPdFAWz8-e88l2W-23" value="关闭寻物/招领信息" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="717" y="1380" width="196" height="49" as="geometry" />
+          <mxGeometry x="702.5" y="1160" width="196" height="49" as="geometry" />
         </mxCell>
         <mxCell id="A8CwcBPdFAWz8-e88l2W-24" value="寻物招领流程结束" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="729" y="1520" width="188" height="49" as="geometry" />
