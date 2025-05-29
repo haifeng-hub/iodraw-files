@@ -1175,9 +1175,6 @@
         <mxCell id="A8CwcBPdFAWz8-e88l2W-18" value="通过小程序联系对方" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="713" y="1220" width="204" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="A8CwcBPdFAWz8-e88l2W-19" value="确认物品信息" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="739.5" y="1510" width="156" height="49" as="geometry" />
-        </mxCell>
         <mxCell id="A8CwcBPdFAWz8-e88l2W-58" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="A8CwcBPdFAWz8-e88l2W-20" target="A8CwcBPdFAWz8-e88l2W-21" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -1229,14 +1226,16 @@
             <mxPoint x="995" y="660" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="A8CwcBPdFAWz8-e88l2W-44" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" parent="1" source="A8CwcBPdFAWz8-e88l2W-18" target="A8CwcBPdFAWz8-e88l2W-19" edge="1">
+        <mxCell id="A8CwcBPdFAWz8-e88l2W-44" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" parent="1" source="A8CwcBPdFAWz8-e88l2W-18" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
+            <mxPoint x="817.5" y="1350" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="A8CwcBPdFAWz8-e88l2W-45" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" parent="1" source="A8CwcBPdFAWz8-e88l2W-19" target="A8CwcBPdFAWz8-e88l2W-20" edge="1">
+        <mxCell id="A8CwcBPdFAWz8-e88l2W-45" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" parent="1" target="A8CwcBPdFAWz8-e88l2W-20" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
+            <mxPoint x="817.5" y="1399" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="A8CwcBPdFAWz8-e88l2W-48" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" parent="1" source="A8CwcBPdFAWz8-e88l2W-21" target="A8CwcBPdFAWz8-e88l2W-22" edge="1">
