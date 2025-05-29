@@ -1854,7 +1854,7 @@
           <mxGeometry x="722" y="1161" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="oDPSKtY6pFUW3TeCEHOw-12" value="选择洗衣模式" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="1003" y="773" width="156" height="49" as="geometry" />
+          <mxGeometry x="1003" y="660" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="oDPSKtY6pFUW3TeCEHOw-13" value="显示费用信息" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="1003" y="906" width="156" height="49" as="geometry" />
