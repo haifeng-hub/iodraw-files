@@ -1576,20 +1576,16 @@
         <mxCell id="9KhGymi9i63sxjAp125N-15" value="系统记录签到信息&#xa;时间/位置/状态" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="687.5" y="990" width="188" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="x5FK2jDWVstx2ZQnBV-R-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9KhGymi9i63sxjAp125N-17" target="9KhGymi9i63sxjAp125N-21">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="x5FK2jDWVstx2ZQnBV-R-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9KhGymi9i63sxjAp125N-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="781.5" y="1210" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="9KhGymi9i63sxjAp125N-17" value="宿管查看签到结果" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="687.5" y="1100" width="188" height="49" as="geometry" />
         </mxCell>
         <mxCell id="9KhGymi9i63sxjAp125N-19" value="签到流程结束" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="663" y="1780" width="156" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="9KhGymi9i63sxjAp125N-56" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="9KhGymi9i63sxjAp125N-21" target="9KhGymi9i63sxjAp125N-19" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="9KhGymi9i63sxjAp125N-21" value="记录核查结果" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="703.5" y="1210" width="156" height="49" as="geometry" />
+          <mxGeometry x="711" y="1210" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="9KhGymi9i63sxjAp125N-22" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" parent="1" source="9KhGymi9i63sxjAp125N-1" target="9KhGymi9i63sxjAp125N-2" edge="1">
           <mxGeometry relative="1" as="geometry">
