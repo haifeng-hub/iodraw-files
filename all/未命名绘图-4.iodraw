@@ -1647,12 +1647,6 @@
         <mxCell id="MNGdiOIPaT0lDah_iIlD-7" value="选择支付方式&#xa;微信支付/支付宝支付" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="605" y="710" width="212" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="MNGdiOIPaT0lDah_iIlD-10" value="完成支付" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="758" y="1053" width="124" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="MNGdiOIPaT0lDah_iIlD-11" value="系统接收支付结果" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="726" y="1152" width="188" height="49" as="geometry" />
-        </mxCell>
         <mxCell id="MNGdiOIPaT0lDah_iIlD-12" value="支付成功?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="760" y="1251" width="119" height="119" as="geometry" />
         </mxCell>
@@ -1687,20 +1681,24 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MNGdiOIPaT0lDah_iIlD-27" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" parent="1" target="MNGdiOIPaT0lDah_iIlD-10" edge="1">
+        <mxCell id="MNGdiOIPaT0lDah_iIlD-27" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
             <mxPoint x="820" y="1004" as="sourcePoint" />
+            <mxPoint x="820" y="1053" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MNGdiOIPaT0lDah_iIlD-28" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" parent="1" source="MNGdiOIPaT0lDah_iIlD-10" target="MNGdiOIPaT0lDah_iIlD-11" edge="1">
+        <mxCell id="MNGdiOIPaT0lDah_iIlD-28" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
+            <mxPoint x="820" y="1102" as="sourcePoint" />
+            <mxPoint x="820" y="1152" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MNGdiOIPaT0lDah_iIlD-29" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" parent="1" source="MNGdiOIPaT0lDah_iIlD-11" target="MNGdiOIPaT0lDah_iIlD-12" edge="1">
+        <mxCell id="MNGdiOIPaT0lDah_iIlD-29" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" parent="1" target="MNGdiOIPaT0lDah_iIlD-12" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
+            <mxPoint x="820" y="1201" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="MNGdiOIPaT0lDah_iIlD-30" value="否" style="startArrow=none;endArrow=block;exitX=0;exitY=0.5;entryX=0.64;entryY=0;rounded=0;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" parent="1" source="MNGdiOIPaT0lDah_iIlD-12" target="MNGdiOIPaT0lDah_iIlD-13" edge="1">
