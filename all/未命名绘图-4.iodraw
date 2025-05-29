@@ -1680,7 +1680,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="pL3IL6jtUvbYfrn_PFEe" name="第 25 页">
+  <diagram id="pL3IL6jtUvbYfrn_PFEe" name="报修">
     <mxGraphModel dx="1453" dy="768" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1e+25" pageHeight="1e+22" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -1707,6 +1707,9 @@
         </mxCell>
         <mxCell id="7FZjdMlkxcrqIRNeqpyv-9" value="宿管查看报修信息" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="705" y="780" width="188" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="yVNzTTiPPED5ic__nYwH-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7FZjdMlkxcrqIRNeqpyv-13" target="7FZjdMlkxcrqIRNeqpyv-20">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="7FZjdMlkxcrqIRNeqpyv-13" value="安排维修人员" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="717" y="870" width="156" height="49" as="geometry" />
