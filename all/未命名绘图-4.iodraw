@@ -1,4 +1,4 @@
-<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0" version="24.7.17" pages="38">
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0" version="24.7.17" pages="39">
   <diagram id="EjXnBDmYcujXnU03AaHh" name="第 3 页">
     <mxGraphModel dx="1453" dy="768" grid="1" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1e+25" pageHeight="1e+22" math="0" shadow="0">
       <root>
@@ -1882,13 +1882,77 @@
       </root>
     </mxGraphModel>
   </diagram>
+  <diagram name="洗衣机 的副本" id="t1m3BlvuMtUERktuW0jh">
+    <mxGraphModel dx="1453" dy="768" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1e+25" pageHeight="1e+22" math="0" shadow="0">
+      <root>
+        <mxCell id="Gq6TEWO07YLVckFnm5Co-0" />
+        <mxCell id="Gq6TEWO07YLVckFnm5Co-1" parent="Gq6TEWO07YLVckFnm5Co-0" />
+        <mxCell id="Gq6TEWO07YLVckFnm5Co-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Gq6TEWO07YLVckFnm5Co-1" source="Gq6TEWO07YLVckFnm5Co-3" target="Gq6TEWO07YLVckFnm5Co-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Gq6TEWO07YLVckFnm5Co-3" value="开始" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="Gq6TEWO07YLVckFnm5Co-1">
+          <mxGeometry x="667" y="310" width="92" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="Gq6TEWO07YLVckFnm5Co-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Gq6TEWO07YLVckFnm5Co-1" source="Gq6TEWO07YLVckFnm5Co-5" target="Gq6TEWO07YLVckFnm5Co-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Gq6TEWO07YLVckFnm5Co-5" value="扫描洗衣机设备二维码获取洗衣机状态信息" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="Gq6TEWO07YLVckFnm5Co-1">
+          <mxGeometry x="603.5" y="430" width="220" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="Gq6TEWO07YLVckFnm5Co-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="Gq6TEWO07YLVckFnm5Co-1" source="Gq6TEWO07YLVckFnm5Co-8" target="Gq6TEWO07YLVckFnm5Co-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Gq6TEWO07YLVckFnm5Co-7" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Gq6TEWO07YLVckFnm5Co-6">
+          <mxGeometry x="-0.5575" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Gq6TEWO07YLVckFnm5Co-8" value="洗衣机是否可用?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="Gq6TEWO07YLVckFnm5Co-1">
+          <mxGeometry x="630" y="533" width="167" height="167" as="geometry" />
+        </mxCell>
+        <mxCell id="Gq6TEWO07YLVckFnm5Co-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Gq6TEWO07YLVckFnm5Co-1" source="Gq6TEWO07YLVckFnm5Co-10" target="Gq6TEWO07YLVckFnm5Co-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Gq6TEWO07YLVckFnm5Co-10" value="选择洗衣模式支付方式" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="Gq6TEWO07YLVckFnm5Co-1">
+          <mxGeometry x="1003" y="660" width="156" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="Gq6TEWO07YLVckFnm5Co-11" value="洗衣机工作" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="Gq6TEWO07YLVckFnm5Co-1">
+          <mxGeometry x="1019" y="800" width="124" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="Gq6TEWO07YLVckFnm5Co-12" value="洗衣完成通知" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="Gq6TEWO07YLVckFnm5Co-1">
+          <mxGeometry x="1003" y="964.5" width="156" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="Gq6TEWO07YLVckFnm5Co-13" value="洗衣流程结束" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="Gq6TEWO07YLVckFnm5Co-1">
+          <mxGeometry x="1003" y="1070" width="156" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="Gq6TEWO07YLVckFnm5Co-14" value="是" style="startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0.5;entryY=-0.01;rounded=0;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="Gq6TEWO07YLVckFnm5Co-1" source="Gq6TEWO07YLVckFnm5Co-8" target="Gq6TEWO07YLVckFnm5Co-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Gq6TEWO07YLVckFnm5Co-15" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="Gq6TEWO07YLVckFnm5Co-1" source="Gq6TEWO07YLVckFnm5Co-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+            <mxPoint x="1081" y="960" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Gq6TEWO07YLVckFnm5Co-16" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="Gq6TEWO07YLVckFnm5Co-1" source="Gq6TEWO07YLVckFnm5Co-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+            <mxPoint x="1081" y="1063.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Gq6TEWO07YLVckFnm5Co-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="Gq6TEWO07YLVckFnm5Co-1" source="Gq6TEWO07YLVckFnm5Co-12" target="Gq6TEWO07YLVckFnm5Co-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
   <diagram id="GB-obEltX3L0Fa0QK9hE" name="第 28 页">
     <mxGraphModel dx="1453" dy="768" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1e+25" pageHeight="1e+22" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="BBbAyPDsoxGdBZsf5Lqo-1" value="开始" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="801" y="30" width="92" height="49" as="geometry" />
+          <mxGeometry x="800.5" y="230" width="92" height="49" as="geometry" />
         </mxCell>
         <mxCell id="BBbAyPDsoxGdBZsf5Lqo-4" value="操作类型" style="rhombus;strokeWidth=2;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="790" y="326" width="113" height="113" as="geometry" />
@@ -1964,19 +2028,6 @@
         </mxCell>
         <mxCell id="BBbAyPDsoxGdBZsf5Lqo-26" value="微公益流程结束" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="876" y="2634" width="172" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="BBbAyPDsoxGdBZsf5Lqo-27" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.49;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" parent="1" source="BBbAyPDsoxGdBZsf5Lqo-1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-            <mxPoint x="847" y="129" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="BBbAyPDsoxGdBZsf5Lqo-28" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" parent="1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-            <mxPoint x="847" y="178" as="sourcePoint" />
-            <mxPoint x="847" y="227" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="BBbAyPDsoxGdBZsf5Lqo-29" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" parent="1" target="BBbAyPDsoxGdBZsf5Lqo-4" edge="1">
           <mxGeometry relative="1" as="geometry">
