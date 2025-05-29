@@ -1712,10 +1712,10 @@
           <mxGeometry x="700" y="1110" width="204" height="49" as="geometry" />
         </mxCell>
         <mxCell id="7FZjdMlkxcrqIRNeqpyv-16" value="学生确认维修结果" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="901" y="1548" width="188" height="49" as="geometry" />
+          <mxGeometry x="755" y="1329" width="188" height="49" as="geometry" />
         </mxCell>
         <mxCell id="7FZjdMlkxcrqIRNeqpyv-20" value="报修流程结束" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="917" y="1920" width="156" height="49" as="geometry" />
+          <mxGeometry x="787" y="1580" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="7FZjdMlkxcrqIRNeqpyv-23" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" parent="1" target="7FZjdMlkxcrqIRNeqpyv-4" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -1734,21 +1734,10 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7FZjdMlkxcrqIRNeqpyv-36" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" parent="1" source="7FZjdMlkxcrqIRNeqpyv-15" target="7FZjdMlkxcrqIRNeqpyv-16" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="7FZjdMlkxcrqIRNeqpyv-37" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" parent="1" source="7FZjdMlkxcrqIRNeqpyv-16" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-            <mxPoint x="994.5" y="1647" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="7FZjdMlkxcrqIRNeqpyv-41" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" parent="1" target="7FZjdMlkxcrqIRNeqpyv-20" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-            <mxPoint x="995" y="1859" as="sourcePoint" />
+            <mxPoint x="848.5" y="1428" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
