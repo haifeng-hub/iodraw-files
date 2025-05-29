@@ -1629,14 +1629,8 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="O8eeypCMqRltIVwcpHqX-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MNGdiOIPaT0lDah_iIlD-1" target="MNGdiOIPaT0lDah_iIlD-3">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="MNGdiOIPaT0lDah_iIlD-1" value="开始" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="663" y="110" width="92" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="MNGdiOIPaT0lDah_iIlD-3" value="进入电费缴纳页面" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="615" y="230" width="188" height="49" as="geometry" />
         </mxCell>
         <mxCell id="MNGdiOIPaT0lDah_iIlD-4" value="输入学生宿舍信息&#xa;校区/宿舍楼号/楼层/宿舍号" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="583" y="316" width="252" height="84" as="geometry" />
@@ -1680,9 +1674,10 @@
         <mxCell id="MNGdiOIPaT0lDah_iIlD-17" value="结束" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="849" y="1738" width="92" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="MNGdiOIPaT0lDah_iIlD-20" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" parent="1" source="MNGdiOIPaT0lDah_iIlD-3" target="MNGdiOIPaT0lDah_iIlD-4" edge="1">
+        <mxCell id="MNGdiOIPaT0lDah_iIlD-20" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" parent="1" target="MNGdiOIPaT0lDah_iIlD-4" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
+            <mxPoint x="709" y="279" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="MNGdiOIPaT0lDah_iIlD-21" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" parent="1" source="MNGdiOIPaT0lDah_iIlD-4" target="MNGdiOIPaT0lDah_iIlD-5" edge="1">
