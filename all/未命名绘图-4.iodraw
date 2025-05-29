@@ -1700,13 +1700,13 @@
           <mxGeometry x="672" y="550" width="221" height="66" as="geometry" />
         </mxCell>
         <mxCell id="7FZjdMlkxcrqIRNeqpyv-8" value="系统记录并通知宿管" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="685" y="690" width="204" height="49" as="geometry" />
+          <mxGeometry x="701" y="680" width="204" height="49" as="geometry" />
         </mxCell>
         <mxCell id="lLqPBNBByEkp3N3die4C-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7FZjdMlkxcrqIRNeqpyv-9" target="7FZjdMlkxcrqIRNeqpyv-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="7FZjdMlkxcrqIRNeqpyv-9" value="宿管查看报修信息" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="693" y="800" width="188" height="49" as="geometry" />
+          <mxGeometry x="705" y="780" width="188" height="49" as="geometry" />
         </mxCell>
         <mxCell id="7FZjdMlkxcrqIRNeqpyv-13" value="安排维修人员" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="709" y="900" width="156" height="49" as="geometry" />
