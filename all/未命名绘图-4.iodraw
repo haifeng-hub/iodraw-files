@@ -1243,11 +1243,6 @@
         <mxCell id="SMIPeMhjXmC3Eqsy3d5C-8" value="报销政策文件" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="1103" y="650" width="188" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="SMIPeMhjXmC3Eqsy3d5C-57" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" target="SMIPeMhjXmC3Eqsy3d5C-19" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="971.8348623853208" y="1504.3348623853212" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="SMIPeMhjXmC3Eqsy3d5C-18" value="查看通知详情" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="640" y="750" width="156" height="49" as="geometry" />
         </mxCell>
@@ -1255,7 +1250,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="SMIPeMhjXmC3Eqsy3d5C-19" value="查看宿舍卫生得分" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="877" y="1570" width="188" height="49" as="geometry" />
+          <mxGeometry x="857" y="760" width="188" height="49" as="geometry" />
         </mxCell>
         <mxCell id="SMIPeMhjXmC3Eqsy3d5C-20" value="查看报销流程" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="1190" y="1558" width="156" height="49" as="geometry" />
