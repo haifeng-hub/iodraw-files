@@ -1245,7 +1245,7 @@
         <mxCell id="SMIPeMhjXmC3Eqsy3d5C-5" value="选择公告类型" style="rhombus;strokeWidth=2;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="899" y="433" width="145" height="145" as="geometry" />
         </mxCell>
-        <mxCell id="SMIPeMhjXmC3Eqsy3d5C-6" value="编写通知标题与内容" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="SMIPeMhjXmC3Eqsy3d5C-6" value="通知标题与内容" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="619" y="650" width="204" height="49" as="geometry" />
         </mxCell>
         <mxCell id="SMIPeMhjXmC3Eqsy3d5C-7" value="选择宿舍范围" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
@@ -1358,12 +1358,6 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
             <mxPoint x="970.9999999999995" y="946" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="SMIPeMhjXmC3Eqsy3d5C-37" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" parent="1" target="SMIPeMhjXmC3Eqsy3d5C-14" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-            <mxPoint x="970.9999999999995" y="995" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="SMIPeMhjXmC3Eqsy3d5C-38" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" parent="1" source="SMIPeMhjXmC3Eqsy3d5C-14" target="SMIPeMhjXmC3Eqsy3d5C-15" edge="1">
