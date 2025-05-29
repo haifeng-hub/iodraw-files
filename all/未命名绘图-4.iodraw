@@ -1562,7 +1562,7 @@
         <mxCell id="x5FK2jDWVstx2ZQnBV-R-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9KhGymi9i63sxjAp125N-10" target="9KhGymi9i63sxjAp125N-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="x5FK2jDWVstx2ZQnBV-R-5" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="x5FK2jDWVstx2ZQnBV-R-4">
+        <mxCell id="x5FK2jDWVstx2ZQnBV-R-5" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="x5FK2jDWVstx2ZQnBV-R-4">
           <mxGeometry x="0.0805" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -1574,10 +1574,10 @@
           <mxGeometry x="717" y="880" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="9KhGymi9i63sxjAp125N-15" value="系统记录签到信息&#xa;时间/位置/状态" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="687.5" y="1560" width="188" height="66" as="geometry" />
+          <mxGeometry x="687.5" y="990" width="188" height="66" as="geometry" />
         </mxCell>
         <mxCell id="9KhGymi9i63sxjAp125N-16" value="更新签到统计数据" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="687.5" y="1680" width="188" height="49" as="geometry" />
+          <mxGeometry x="666" y="1160" width="188" height="49" as="geometry" />
         </mxCell>
         <mxCell id="9KhGymi9i63sxjAp125N-17" value="宿管查看签到结果" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="687.5" y="1780" width="188" height="49" as="geometry" />
