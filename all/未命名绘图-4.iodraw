@@ -1691,9 +1691,6 @@
         <mxCell id="7FZjdMlkxcrqIRNeqpyv-4" value="填写报修信息&#xa;校区/宿舍楼号/楼层/宿舍号/房间号" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="656" y="416" width="245" height="84" as="geometry" />
         </mxCell>
-        <mxCell id="7FZjdMlkxcrqIRNeqpyv-5" value="选择报修类型" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="701" y="550" width="156" height="49" as="geometry" />
-        </mxCell>
         <mxCell id="7FZjdMlkxcrqIRNeqpyv-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="7FZjdMlkxcrqIRNeqpyv-6" target="7FZjdMlkxcrqIRNeqpyv-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -1762,14 +1759,16 @@
             <mxPoint x="779" y="366" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7FZjdMlkxcrqIRNeqpyv-24" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" parent="1" source="7FZjdMlkxcrqIRNeqpyv-4" target="7FZjdMlkxcrqIRNeqpyv-5" edge="1">
+        <mxCell id="7FZjdMlkxcrqIRNeqpyv-24" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" parent="1" source="7FZjdMlkxcrqIRNeqpyv-4" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
+            <mxPoint x="779" y="550" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7FZjdMlkxcrqIRNeqpyv-25" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" parent="1" source="7FZjdMlkxcrqIRNeqpyv-5" target="7FZjdMlkxcrqIRNeqpyv-6" edge="1">
+        <mxCell id="7FZjdMlkxcrqIRNeqpyv-25" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" parent="1" target="7FZjdMlkxcrqIRNeqpyv-6" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
+            <mxPoint x="779" y="599" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="7FZjdMlkxcrqIRNeqpyv-27" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" parent="1" source="7FZjdMlkxcrqIRNeqpyv-7" target="7FZjdMlkxcrqIRNeqpyv-8" edge="1">
