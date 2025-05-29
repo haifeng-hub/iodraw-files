@@ -1341,9 +1341,6 @@
         <mxCell id="XUwIG_liIp07Ohd70iV--7" value="选择目标宿舍" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="858" y="652" width="156" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="XUwIG_liIp07Ohd70iV--8" value="填写退宿时间" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="537" y="652" width="156" height="49" as="geometry" />
-        </mxCell>
         <mxCell id="XUwIG_liIp07Ohd70iV--9" value="提交换宿申请" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="858" y="751" width="156" height="49" as="geometry" />
         </mxCell>
@@ -1418,9 +1415,10 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XUwIG_liIp07Ohd70iV--34" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" parent="1" source="XUwIG_liIp07Ohd70iV--6" target="XUwIG_liIp07Ohd70iV--8" edge="1">
+        <mxCell id="XUwIG_liIp07Ohd70iV--34" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" parent="1" source="XUwIG_liIp07Ohd70iV--6" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
+            <mxPoint x="615" y="652" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="XUwIG_liIp07Ohd70iV--35" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" parent="1" source="XUwIG_liIp07Ohd70iV--7" target="XUwIG_liIp07Ohd70iV--9" edge="1">
@@ -1428,9 +1426,10 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XUwIG_liIp07Ohd70iV--36" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" parent="1" source="XUwIG_liIp07Ohd70iV--8" target="XUwIG_liIp07Ohd70iV--10" edge="1">
+        <mxCell id="XUwIG_liIp07Ohd70iV--36" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" parent="1" target="XUwIG_liIp07Ohd70iV--10" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
+            <mxPoint x="615" y="701" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="XUwIG_liIp07Ohd70iV--37" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" parent="1" source="XUwIG_liIp07Ohd70iV--9" target="XUwIG_liIp07Ohd70iV--11" edge="1">
