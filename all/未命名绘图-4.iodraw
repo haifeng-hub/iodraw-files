@@ -2105,11 +2105,14 @@
       <root>
         <mxCell id="mhNK6VS6sj-SI8lU6rJ0-0" />
         <mxCell id="mhNK6VS6sj-SI8lU6rJ0-1" parent="mhNK6VS6sj-SI8lU6rJ0-0" />
+        <mxCell id="ljyehB0oueZhSU5qbJ3H-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="mhNK6VS6sj-SI8lU6rJ0-1" source="ljyehB0oueZhSU5qbJ3H-1" target="ljyehB0oueZhSU5qbJ3H-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ljyehB0oueZhSU5qbJ3H-1" value="开始" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="mhNK6VS6sj-SI8lU6rJ0-1">
-          <mxGeometry x="166" y="700" width="55" height="34" as="geometry" />
+          <mxGeometry x="165" y="840" width="55" height="34" as="geometry" />
         </mxCell>
         <mxCell id="ljyehB0oueZhSU5qbJ3H-2" value="用户选择反馈类型并填写内容" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="mhNK6VS6sj-SI8lU6rJ0-1">
-          <mxGeometry x="80" y="870" width="252" height="66" as="geometry" />
+          <mxGeometry x="60" y="986" width="252" height="66" as="geometry" />
         </mxCell>
         <mxCell id="ljyehB0oueZhSU5qbJ3H-5" value="管理员查看反馈并分类处理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="mhNK6VS6sj-SI8lU6rJ0-1">
           <mxGeometry x="67" y="1127" width="252" height="49" as="geometry" />
@@ -2125,11 +2128,6 @@
         </mxCell>
         <mxCell id="ljyehB0oueZhSU5qbJ3H-9" value="结束" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="mhNK6VS6sj-SI8lU6rJ0-1">
           <mxGeometry x="165" y="1526" width="55" height="34" as="geometry" />
-        </mxCell>
-        <mxCell id="ljyehB0oueZhSU5qbJ3H-10" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.51;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="mhNK6VS6sj-SI8lU6rJ0-1" source="ljyehB0oueZhSU5qbJ3H-1" target="ljyehB0oueZhSU5qbJ3H-2">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="ljyehB0oueZhSU5qbJ3H-13" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.49;exitY=1;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="mhNK6VS6sj-SI8lU6rJ0-1" target="ljyehB0oueZhSU5qbJ3H-5">
           <mxGeometry relative="1" as="geometry">
