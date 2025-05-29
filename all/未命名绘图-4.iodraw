@@ -1686,13 +1686,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="7FZjdMlkxcrqIRNeqpyv-1" value="开始" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="733" y="120" width="92" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="7FZjdMlkxcrqIRNeqpyv-2" value="学生登录小程序" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="693" y="219" width="172" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="7FZjdMlkxcrqIRNeqpyv-3" value="进入报修功能页面" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="685" y="317" width="188" height="49" as="geometry" />
+          <mxGeometry x="733" y="320" width="92" height="49" as="geometry" />
         </mxCell>
         <mxCell id="7FZjdMlkxcrqIRNeqpyv-4" value="填写报修信息&#xa;校区/宿舍楼号/楼层/宿舍号/房间号" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="656" y="416" width="245" height="84" as="geometry" />
@@ -1762,19 +1756,10 @@
         <mxCell id="7FZjdMlkxcrqIRNeqpyv-20" value="报修流程结束" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="917" y="1920" width="156" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="7FZjdMlkxcrqIRNeqpyv-21" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.49;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" parent="1" source="7FZjdMlkxcrqIRNeqpyv-1" target="7FZjdMlkxcrqIRNeqpyv-2" edge="1">
+        <mxCell id="7FZjdMlkxcrqIRNeqpyv-23" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" parent="1" target="7FZjdMlkxcrqIRNeqpyv-4" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="7FZjdMlkxcrqIRNeqpyv-22" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" parent="1" source="7FZjdMlkxcrqIRNeqpyv-2" target="7FZjdMlkxcrqIRNeqpyv-3" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="7FZjdMlkxcrqIRNeqpyv-23" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" parent="1" source="7FZjdMlkxcrqIRNeqpyv-3" target="7FZjdMlkxcrqIRNeqpyv-4" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
+            <mxPoint x="779" y="366" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="7FZjdMlkxcrqIRNeqpyv-24" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" parent="1" source="7FZjdMlkxcrqIRNeqpyv-4" target="7FZjdMlkxcrqIRNeqpyv-5" edge="1">
