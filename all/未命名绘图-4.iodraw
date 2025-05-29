@@ -1215,19 +1215,20 @@
         <mxCell id="SMIPeMhjXmC3Eqsy3d5C-1" value="开始" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="921" y="40" width="92" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="SMIPeMhjXmC3Eqsy3d5C-50" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="SMIPeMhjXmC3Eqsy3d5C-2" target="SMIPeMhjXmC3Eqsy3d5C-3" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="SMIPeMhjXmC3Eqsy3d5C-50" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" target="SMIPeMhjXmC3Eqsy3d5C-3" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="968.4487179487178" y="261.5512820512822" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="SMIPeMhjXmC3Eqsy3d5C-51" value="管理员" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="SMIPeMhjXmC3Eqsy3d5C-50" vertex="1" connectable="0">
           <mxGeometry x="-0.3949" relative="1" as="geometry">
             <mxPoint y="1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SMIPeMhjXmC3Eqsy3d5C-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="SMIPeMhjXmC3Eqsy3d5C-2" target="SMIPeMhjXmC3Eqsy3d5C-4" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="SMIPeMhjXmC3Eqsy3d5C-2" value="用户角色" style="rhombus;strokeWidth=2;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="910.5" y="150" width="113" height="113" as="geometry" />
+        <mxCell id="SMIPeMhjXmC3Eqsy3d5C-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="SMIPeMhjXmC3Eqsy3d5C-4" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="910.5" y="206.5" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="SMIPeMhjXmC3Eqsy3d5C-3" value="进入公告管理页面" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="877" y="334" width="188" height="49" as="geometry" />
@@ -1307,9 +1308,10 @@
         <mxCell id="SMIPeMhjXmC3Eqsy3d5C-22" value="公告流程结束" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="894.5" y="1790" width="156" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="SMIPeMhjXmC3Eqsy3d5C-23" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.49;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" parent="1" source="SMIPeMhjXmC3Eqsy3d5C-1" target="SMIPeMhjXmC3Eqsy3d5C-2" edge="1">
+        <mxCell id="SMIPeMhjXmC3Eqsy3d5C-23" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.49;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" parent="1" source="SMIPeMhjXmC3Eqsy3d5C-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
+            <mxPoint x="967" y="150" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="SMIPeMhjXmC3Eqsy3d5C-26" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" parent="1" source="SMIPeMhjXmC3Eqsy3d5C-3" target="SMIPeMhjXmC3Eqsy3d5C-5" edge="1">
