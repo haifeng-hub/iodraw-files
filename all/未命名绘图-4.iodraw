@@ -1369,13 +1369,13 @@
           <mxGeometry x="751" y="1540" width="172" height="49" as="geometry" />
         </mxCell>
         <mxCell id="XUwIG_liIp07Ohd70iV--25" value="更新学生宿舍信息" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="973" y="1856" width="188" height="49" as="geometry" />
+          <mxGeometry x="980" y="1680" width="188" height="49" as="geometry" />
         </mxCell>
         <mxCell id="XUwIG_liIp07Ohd70iV--26" value="注销宿舍信息" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="759" y="1856" width="156" height="49" as="geometry" />
+          <mxGeometry x="759" y="1670" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="XUwIG_liIp07Ohd70iV--27" value="宿舍变更流程结束" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="858" y="1955" width="188" height="49" as="geometry" />
+          <mxGeometry x="849" y="1820" width="188" height="49" as="geometry" />
         </mxCell>
         <mxCell id="XUwIG_liIp07Ohd70iV--31" value="换宿申请" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0.01;rounded=0;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" parent="1" source="XUwIG_liIp07Ohd70iV--4" target="XUwIG_liIp07Ohd70iV--5" edge="1">
           <mxGeometry relative="1" as="geometry" />
