@@ -1065,7 +1065,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="fWXMqm6UiISyIzV3_qHW-8" value="验证通过?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="837" y="820" width="119" height="119" as="geometry" />
+          <mxGeometry x="837" y="750" width="119" height="119" as="geometry" />
         </mxCell>
         <mxCell id="fWXMqm6UiISyIzV3_qHW-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="fWXMqm6UiISyIzV3_qHW-9" target="fWXMqm6UiISyIzV3_qHW-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -1074,13 +1074,13 @@
           <mxGeometry x="620" y="855" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="fWXMqm6UiISyIzV3_qHW-10" value="创建用户账号" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="821.5" y="1040" width="156" height="49" as="geometry" />
+          <mxGeometry x="815.25" y="980" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="7WgEFEqbyc4wTCuoBdPn-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fWXMqm6UiISyIzV3_qHW-11" target="-htlS2OBMX7D2KaFP1ZX-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fWXMqm6UiISyIzV3_qHW-11" value="注册成功并跳转至首页" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="804.75" y="1130" width="189.5" height="37" as="geometry" />
+          <mxGeometry x="798.5" y="1090" width="189.5" height="37" as="geometry" />
         </mxCell>
         <mxCell id="fWXMqm6UiISyIzV3_qHW-18" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" parent="1" source="fWXMqm6UiISyIzV3_qHW-5" target="fWXMqm6UiISyIzV3_qHW-6" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -1096,7 +1096,7 @@
           <mxGeometry x="837" y="260" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-htlS2OBMX7D2KaFP1ZX-5" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="839.5" y="1210" width="120" height="60" as="geometry" />
+          <mxGeometry x="833.25" y="1190" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
