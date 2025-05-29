@@ -1255,7 +1255,7 @@
           <mxGeometry x="857" y="760" width="188" height="49" as="geometry" />
         </mxCell>
         <mxCell id="SMIPeMhjXmC3Eqsy3d5C-20" value="查看报销流程" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="1119" y="770" width="156" height="49" as="geometry" />
+          <mxGeometry x="1110" y="750" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="SMIPeMhjXmC3Eqsy3d5C-22" value="公告流程结束" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="893.5" y="950" width="156" height="49" as="geometry" />
@@ -1304,12 +1304,6 @@
         <mxCell id="SMIPeMhjXmC3Eqsy3d5C-47" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=1;entryY=0.5;rounded=0;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" parent="1" source="SMIPeMhjXmC3Eqsy3d5C-20" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1034.5" y="954.5" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="SMIPeMhjXmC3Eqsy3d5C-48" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" parent="1" target="SMIPeMhjXmC3Eqsy3d5C-22" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-            <mxPoint x="972.5" y="979" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="SMIPeMhjXmC3Eqsy3d5C-60" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" parent="1" source="SMIPeMhjXmC3Eqsy3d5C-22" target="SMIPeMhjXmC3Eqsy3d5C-22" edge="1">
