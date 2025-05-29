@@ -1068,7 +1068,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fWXMqm6UiISyIzV3_qHW-9" value="提示错误信息" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="610" y="978" width="156" height="49" as="geometry" />
+          <mxGeometry x="610" y="911" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="fWXMqm6UiISyIzV3_qHW-10" value="创建用户账号" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="821.5" y="1170" width="156" height="49" as="geometry" />
@@ -1085,12 +1085,6 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
             <mxPoint x="899.5" y="859.9999999999998" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="fWXMqm6UiISyIzV3_qHW-20" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.98;entryX=0.5;entryY=0;rounded=0;" parent="1" target="fWXMqm6UiISyIzV3_qHW-8" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-            <mxPoint x="899.5" y="909" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fWXMqm6UiISyIzV3_qHW-24" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.98;entryX=0.5;entryY=0;rounded=0;" parent="1" source="fWXMqm6UiISyIzV3_qHW-10" target="fWXMqm6UiISyIzV3_qHW-11" edge="1">
