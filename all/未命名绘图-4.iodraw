@@ -7,7 +7,7 @@
         <mxCell id="j0rJzowzzbi5A3T-aMSf-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="j0rJzowzzbi5A3T-aMSf-2" target="j0rJzowzzbi5A3T-aMSf-23" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="j0rJzowzzbi5A3T-aMSf-2" value="进入小程序界面" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="j0rJzowzzbi5A3T-aMSf-2" value="进入小程序界面" style="whiteSpace=wrap;strokeWidth=2;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="236.5" y="111" width="135" height="36" as="geometry" />
         </mxCell>
         <mxCell id="j0rJzowzzbi5A3T-aMSf-27" value="N" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="j0rJzowzzbi5A3T-aMSf-4" target="j0rJzowzzbi5A3T-aMSf-6" edge="1">
@@ -79,6 +79,9 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="305.5" y="608" as="sourcePoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="AB9ckTuIJFNsEVyEtDKA-1" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="494" y="317" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
