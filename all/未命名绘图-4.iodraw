@@ -4480,13 +4480,13 @@
           <mxGeometry x="95" y="391" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="8gVvurHVk84-Hpp6y5jp-8" value="支付成功" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="111" y="806" width="124" height="49" as="geometry" />
+          <mxGeometry x="109" y="600" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="8gVvurHVk84-Hpp6y5jp-9" value="设备启动洗衣" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="95" y="904" width="156" height="49" as="geometry" />
+          <mxGeometry x="93" y="690" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="8gVvurHVk84-Hpp6y5jp-10" value="发送完成通知" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="95" y="1003" width="156" height="49" as="geometry" />
+          <mxGeometry x="93" y="790" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="8gVvurHVk84-Hpp6y5jp-11" value="结束" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="145" y="1102" width="55" height="34" as="geometry" />
