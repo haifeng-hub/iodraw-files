@@ -1579,17 +1579,20 @@
         <mxCell id="9KhGymi9i63sxjAp125N-16" value="更新签到统计数据" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="666" y="1160" width="188" height="49" as="geometry" />
         </mxCell>
+        <mxCell id="x5FK2jDWVstx2ZQnBV-R-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9KhGymi9i63sxjAp125N-17" target="9KhGymi9i63sxjAp125N-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="9KhGymi9i63sxjAp125N-17" value="宿管查看签到结果" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="653" y="1310" width="188" height="49" as="geometry" />
         </mxCell>
         <mxCell id="9KhGymi9i63sxjAp125N-19" value="签到流程结束" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="698" y="2320" width="156" height="49" as="geometry" />
+          <mxGeometry x="663" y="1780" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="9KhGymi9i63sxjAp125N-56" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="9KhGymi9i63sxjAp125N-21" target="9KhGymi9i63sxjAp125N-19" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9KhGymi9i63sxjAp125N-21" value="记录核查结果" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="703.5" y="1770" width="156" height="49" as="geometry" />
+          <mxGeometry x="666" y="1460" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="9KhGymi9i63sxjAp125N-22" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" parent="1" source="9KhGymi9i63sxjAp125N-1" target="9KhGymi9i63sxjAp125N-2" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -1619,12 +1622,6 @@
         <mxCell id="9KhGymi9i63sxjAp125N-39" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.98;entryX=0.5;entryY=0;rounded=0;" parent="1" source="9KhGymi9i63sxjAp125N-16" target="9KhGymi9i63sxjAp125N-17" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="9KhGymi9i63sxjAp125N-40" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" parent="1" source="9KhGymi9i63sxjAp125N-17" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-            <mxPoint x="791.5" y="1760" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
