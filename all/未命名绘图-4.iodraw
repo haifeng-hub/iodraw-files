@@ -1866,10 +1866,10 @@
           <mxGeometry x="995" y="960" width="172" height="49" as="geometry" />
         </mxCell>
         <mxCell id="oDPSKtY6pFUW3TeCEHOw-17" value="显示预计完成时间" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="987" y="1359" width="188" height="49" as="geometry" />
+          <mxGeometry x="987" y="1070" width="188" height="49" as="geometry" />
         </mxCell>
         <mxCell id="oDPSKtY6pFUW3TeCEHOw-18" value="系统倒计时" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="1011" y="1457" width="140" height="49" as="geometry" />
+          <mxGeometry x="1011" y="1210" width="140" height="49" as="geometry" />
         </mxCell>
         <mxCell id="oDPSKtY6pFUW3TeCEHOw-19" value="洗衣完成通知" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="1003" y="1556" width="156" height="49" as="geometry" />
