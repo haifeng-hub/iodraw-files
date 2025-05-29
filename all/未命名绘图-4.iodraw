@@ -1753,12 +1753,6 @@
         <mxCell id="5CuBmWcRu3kKWvenCGQV-4" value="填写返校信息&#xa;预计出发时间/预计到达时间" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="680" y="440" width="244" height="84" as="geometry" />
         </mxCell>
-        <mxCell id="5CuBmWcRu3kKWvenCGQV-7" value="填写车次/航班号" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="711" y="767" width="180" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="5CuBmWcRu3kKWvenCGQV-8" value="填写健康信息&#xa;是否患病/体温等" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="711" y="866" width="180" height="66" as="geometry" />
-        </mxCell>
         <mxCell id="5CuBmWcRu3kKWvenCGQV-9" value="上传相关附件&#xa;健康码/行程码等" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="711" y="982" width="180" height="66" as="geometry" />
         </mxCell>
@@ -1808,20 +1802,24 @@
             <mxPoint x="802" y="669" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5CuBmWcRu3kKWvenCGQV-26" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.98;entryX=0.5;entryY=0;rounded=0;" parent="1" target="5CuBmWcRu3kKWvenCGQV-7" edge="1">
+        <mxCell id="5CuBmWcRu3kKWvenCGQV-26" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.98;entryX=0.5;entryY=0;rounded=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
             <mxPoint x="802" y="718" as="sourcePoint" />
+            <mxPoint x="801" y="767" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5CuBmWcRu3kKWvenCGQV-27" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" parent="1" source="5CuBmWcRu3kKWvenCGQV-7" target="5CuBmWcRu3kKWvenCGQV-8" edge="1">
+        <mxCell id="5CuBmWcRu3kKWvenCGQV-27" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
+            <mxPoint x="801" y="816" as="sourcePoint" />
+            <mxPoint x="801" y="866" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5CuBmWcRu3kKWvenCGQV-28" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" parent="1" source="5CuBmWcRu3kKWvenCGQV-8" target="5CuBmWcRu3kKWvenCGQV-9" edge="1">
+        <mxCell id="5CuBmWcRu3kKWvenCGQV-28" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" parent="1" target="5CuBmWcRu3kKWvenCGQV-9" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
+            <mxPoint x="801" y="932" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="5CuBmWcRu3kKWvenCGQV-29" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;" parent="1" source="5CuBmWcRu3kKWvenCGQV-9" target="5CuBmWcRu3kKWvenCGQV-10" edge="1">
