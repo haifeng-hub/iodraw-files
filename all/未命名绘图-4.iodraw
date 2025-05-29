@@ -1167,18 +1167,11 @@
         <mxCell id="A8CwcBPdFAWz8-e88l2W-17" value="继续展示" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="480" y="1230" width="124" height="49" as="geometry" />
         </mxCell>
+        <mxCell id="X7z-wWaqfsorbeRIyMEU-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="A8CwcBPdFAWz8-e88l2W-18" target="A8CwcBPdFAWz8-e88l2W-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="A8CwcBPdFAWz8-e88l2W-18" value="通过小程序联系对方" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="713" y="920" width="204" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="A8CwcBPdFAWz8-e88l2W-58" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" target="A8CwcBPdFAWz8-e88l2W-21" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="816.5" y="1207" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="A8CwcBPdFAWz8-e88l2W-59" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="A8CwcBPdFAWz8-e88l2W-58" vertex="1" connectable="0">
-          <mxGeometry x="0.0931" y="6" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="A8CwcBPdFAWz8-e88l2W-21" value="约定归还/领取方式" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="713" y="1050" width="196" height="49" as="geometry" />
