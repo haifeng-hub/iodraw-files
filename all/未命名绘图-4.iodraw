@@ -1353,9 +1353,6 @@
         <mxCell id="XUwIG_liIp07Ohd70iV--13" value="是否批准?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="739" y="1010" width="119" height="119" as="geometry" />
         </mxCell>
-        <mxCell id="XUwIG_liIp07Ohd70iV--17" value="流程终止" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="561" y="1238" width="124" height="49" as="geometry" />
-        </mxCell>
         <mxCell id="XUwIG_liIp07Ohd70iV--18" value="生成批准通知" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="874" y="1238" width="156" height="49" as="geometry" />
         </mxCell>
