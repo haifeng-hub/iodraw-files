@@ -1644,6 +1644,9 @@
         <mxCell id="MNGdiOIPaT0lDah_iIlD-6" value="选择充值金额" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="631" y="549" width="156" height="49" as="geometry" />
         </mxCell>
+        <mxCell id="EGINsDD_xNja1KfzDTO2-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MNGdiOIPaT0lDah_iIlD-7" target="MNGdiOIPaT0lDah_iIlD-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="MNGdiOIPaT0lDah_iIlD-7" value="选择支付方式&#xa;微信支付/支付宝支付" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="605" y="710" width="212" height="66" as="geometry" />
         </mxCell>
@@ -1654,7 +1657,7 @@
           <mxGeometry x="490" y="1400" width="188" height="49" as="geometry" />
         </mxCell>
         <mxCell id="MNGdiOIPaT0lDah_iIlD-14" value="更新电费余额" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="817" y="1442" width="156" height="49" as="geometry" />
+          <mxGeometry x="801" y="1040" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="MNGdiOIPaT0lDah_iIlD-15" value="生成缴费记录" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="817" y="1541" width="156" height="49" as="geometry" />
