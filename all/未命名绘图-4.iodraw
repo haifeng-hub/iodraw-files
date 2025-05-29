@@ -1,4 +1,4 @@
-<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0" version="24.7.17" pages="41">
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0" version="24.7.17" pages="42">
   <diagram id="EjXnBDmYcujXnU03AaHh" name="第 3 页">
     <mxGraphModel dx="1453" dy="768" grid="1" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1e+25" pageHeight="1e+22" math="0" shadow="0">
       <root>
@@ -2096,6 +2096,17 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="安全 的副本" id="lFkdl-Tmb016ZHno45gN">
+    <mxGraphModel dx="1453" dy="768" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1e+25" pageHeight="1e+22" math="0" shadow="0">
+      <root>
+        <mxCell id="mhNK6VS6sj-SI8lU6rJ0-0" />
+        <mxCell id="mhNK6VS6sj-SI8lU6rJ0-1" parent="mhNK6VS6sj-SI8lU6rJ0-0" />
+        <mxCell id="mhNK6VS6sj-SI8lU6rJ0-6" value="参与学习测试" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="mhNK6VS6sj-SI8lU6rJ0-1">
+          <mxGeometry x="226" y="1094" width="156" height="49" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
