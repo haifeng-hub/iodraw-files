@@ -1,4 +1,4 @@
-<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0" version="24.7.17" pages="35">
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0" version="24.7.17" pages="34">
   <diagram name="第 1 页" id="FaAvK8CDBB7bdUnd1vte">
     <mxGraphModel dx="1453" dy="768" grid="1" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1e+25" pageHeight="1e+22" math="0" shadow="0">
       <root>
@@ -4466,69 +4466,6 @@
         <mxCell id="qSTkrACg1MVO5J_tLnO2-37" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="qSTkrACg1MVO5J_tLnO2-30" target="qSTkrACg1MVO5J_tLnO2-31">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-      </root>
-    </mxGraphModel>
-  </diagram>
-  <diagram id="MLyTgNJU7lkiIvQnt8uI" name="第 37 页">
-    <mxGraphModel dx="1453" dy="768" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1e+25" pageHeight="1e+22" math="0" shadow="0">
-      <root>
-        <mxCell id="0" />
-        <mxCell id="1" parent="0" />
-        <mxCell id="7hU8HUus5rx2uqpTU3dB-1" value="学生用户" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="659" y="100" width="124" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="7hU8HUus5rx2uqpTU3dB-2" value="填写换宿/退宿信息" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="623" y="199" width="196" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="7hU8HUus5rx2uqpTU3dB-3" value="上传证明材料" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="643" y="297" width="156" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="7hU8HUus5rx2uqpTU3dB-4" value="系统记录" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="659" y="396" width="124" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="7hU8HUus5rx2uqpTU3dB-5" value="宿管审核处理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="643" y="495" width="156" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="7hU8HUus5rx2uqpTU3dB-6" value="宿舍信息变更" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="540" y="616" width="156" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="7hU8HUus5rx2uqpTU3dB-7" value="通知用户修改" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="746" y="616" width="156" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="7hU8HUus5rx2uqpTU3dB-8" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="7hU8HUus5rx2uqpTU3dB-1" target="7hU8HUus5rx2uqpTU3dB-2">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="7hU8HUus5rx2uqpTU3dB-9" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="7hU8HUus5rx2uqpTU3dB-2" target="7hU8HUus5rx2uqpTU3dB-3">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="7hU8HUus5rx2uqpTU3dB-10" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="7hU8HUus5rx2uqpTU3dB-3" target="7hU8HUus5rx2uqpTU3dB-4">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="7hU8HUus5rx2uqpTU3dB-11" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="7hU8HUus5rx2uqpTU3dB-4" target="7hU8HUus5rx2uqpTU3dB-5">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="7hU8HUus5rx2uqpTU3dB-12" value="通过" style="curved=1;startArrow=none;endArrow=block;exitX=0.24;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="7hU8HUus5rx2uqpTU3dB-5" target="7hU8HUus5rx2uqpTU3dB-6">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="618" y="580" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="7hU8HUus5rx2uqpTU3dB-13" value="驳回" style="curved=1;startArrow=none;endArrow=block;exitX=0.76;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="7hU8HUus5rx2uqpTU3dB-5" target="7hU8HUus5rx2uqpTU3dB-7">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="824" y="580" />
-            </Array>
           </mxGeometry>
         </mxCell>
       </root>
