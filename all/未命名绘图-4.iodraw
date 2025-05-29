@@ -2105,9 +2105,6 @@
       <root>
         <mxCell id="mhNK6VS6sj-SI8lU6rJ0-0" />
         <mxCell id="mhNK6VS6sj-SI8lU6rJ0-1" parent="mhNK6VS6sj-SI8lU6rJ0-0" />
-        <mxCell id="mhNK6VS6sj-SI8lU6rJ0-6" value="参与学习测试" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="mhNK6VS6sj-SI8lU6rJ0-1">
-          <mxGeometry x="226" y="1094" width="156" height="49" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
