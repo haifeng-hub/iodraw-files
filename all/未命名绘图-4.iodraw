@@ -4527,6 +4527,9 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="8gVvurHVk84-Hpp6y5jp-23" value="选择支付方式" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="111" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
