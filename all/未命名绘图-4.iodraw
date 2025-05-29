@@ -1824,7 +1824,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="oDPSKtY6pFUW3TeCEHOw-1" value="开始" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="667.5" y="30" width="92" height="49" as="geometry" />
+          <mxGeometry x="672" y="220" width="92" height="49" as="geometry" />
         </mxCell>
         <mxCell id="oDPSKtY6pFUW3TeCEHOw-4" value="扫描洗衣机设备二维码" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="603" y="336" width="220" height="49" as="geometry" />
@@ -1879,19 +1879,6 @@
         </mxCell>
         <mxCell id="oDPSKtY6pFUW3TeCEHOw-21" value="洗衣流程结束" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="1003" y="1753" width="156" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="oDPSKtY6pFUW3TeCEHOw-22" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.49;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" parent="1" source="oDPSKtY6pFUW3TeCEHOw-1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-            <mxPoint x="713" y="130" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="oDPSKtY6pFUW3TeCEHOw-23" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" parent="1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-            <mxPoint x="713" y="179" as="sourcePoint" />
-            <mxPoint x="713.5" y="237" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="oDPSKtY6pFUW3TeCEHOw-24" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;exitDx=0;exitDy=0;" parent="1" target="oDPSKtY6pFUW3TeCEHOw-4" edge="1">
           <mxGeometry relative="1" as="geometry">
