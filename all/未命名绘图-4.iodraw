@@ -1544,23 +1544,11 @@
         <mxCell id="9KhGymi9i63sxjAp125N-2" value="签到类型" style="rhombus;strokeWidth=2;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="717" y="109" width="113" height="113" as="geometry" />
         </mxCell>
-        <mxCell id="9KhGymi9i63sxjAp125N-3" value="t" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="679.5" y="280" width="188" height="49" as="geometry" />
-        </mxCell>
         <mxCell id="9KhGymi9i63sxjAp125N-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="9KhGymi9i63sxjAp125N-4" target="9KhGymi9i63sxjAp125N-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9KhGymi9i63sxjAp125N-4" value="学生进入签到页面" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="430" y="720" width="188" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="9KhGymi9i63sxjAp125N-5" value="设置查寝时间段" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="687.5" y="380" width="172" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="9KhGymi9i63sxjAp125N-6" value="选择查寝范围&#xa;楼栋/楼层等" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="698" y="500" width="156" height="66" as="geometry" />
-        </mxCell>
-        <mxCell id="9KhGymi9i63sxjAp125N-7" value="发布查寝通知" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="698" y="620" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="9KhGymi9i63sxjAp125N-47" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="9KhGymi9i63sxjAp125N-8" target="9KhGymi9i63sxjAp125N-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -1640,27 +1628,15 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9KhGymi9i63sxjAp125N-23" value="宿管发起查寝" style="startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0.5;entryY=0;rounded=0;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" parent="1" source="9KhGymi9i63sxjAp125N-2" target="9KhGymi9i63sxjAp125N-3" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="9KhGymi9i63sxjAp125N-25" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" parent="1" source="9KhGymi9i63sxjAp125N-3" target="9KhGymi9i63sxjAp125N-5" edge="1">
+        <mxCell id="9KhGymi9i63sxjAp125N-23" value="宿管发起查寝" style="startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0.5;entryY=0;rounded=0;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" parent="1" source="9KhGymi9i63sxjAp125N-2" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
+            <mxPoint x="773.5" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9KhGymi9i63sxjAp125N-26" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" parent="1" source="9KhGymi9i63sxjAp125N-5" target="9KhGymi9i63sxjAp125N-6" edge="1">
+        <mxCell id="9KhGymi9i63sxjAp125N-28" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" parent="1" target="9KhGymi9i63sxjAp125N-8" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="9KhGymi9i63sxjAp125N-27" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0.01;rounded=0;" parent="1" source="9KhGymi9i63sxjAp125N-6" target="9KhGymi9i63sxjAp125N-7" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="9KhGymi9i63sxjAp125N-28" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" parent="1" source="9KhGymi9i63sxjAp125N-7" target="9KhGymi9i63sxjAp125N-8" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
+            <mxPoint x="776" y="669" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="9KhGymi9i63sxjAp125N-31" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" parent="1" source="9KhGymi9i63sxjAp125N-9" target="9KhGymi9i63sxjAp125N-10" edge="1">
