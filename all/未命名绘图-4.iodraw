@@ -1482,11 +1482,8 @@
         <mxCell id="AqpJqt0BLSdEAmBp15Ga-11" value="修改手机号/密码等" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="403" y="940" width="244" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="AqpJqt0BLSdEAmBp15Ga-13" value="提交修改申请" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="443" y="1110" width="156" height="49" as="geometry" />
-        </mxCell>
         <mxCell id="AqpJqt0BLSdEAmBp15Ga-15" value="系统验证信息合法性" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="419" y="1450" width="204" height="49" as="geometry" />
+          <mxGeometry x="423" y="1160" width="204" height="49" as="geometry" />
         </mxCell>
         <mxCell id="AqpJqt0BLSdEAmBp15Ga-58" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="AqpJqt0BLSdEAmBp15Ga-17" target="AqpJqt0BLSdEAmBp15Ga-18" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -1542,14 +1539,16 @@
             <mxPoint x="819" y="560" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="AqpJqt0BLSdEAmBp15Ga-38" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" parent="1" source="AqpJqt0BLSdEAmBp15Ga-11" target="AqpJqt0BLSdEAmBp15Ga-13" edge="1">
+        <mxCell id="AqpJqt0BLSdEAmBp15Ga-38" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" parent="1" source="AqpJqt0BLSdEAmBp15Ga-11" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
+            <mxPoint x="525.0000000000002" y="1060" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="AqpJqt0BLSdEAmBp15Ga-40" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" parent="1" source="AqpJqt0BLSdEAmBp15Ga-13" target="AqpJqt0BLSdEAmBp15Ga-15" edge="1">
+        <mxCell id="AqpJqt0BLSdEAmBp15Ga-40" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" parent="1" target="AqpJqt0BLSdEAmBp15Ga-15" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
+            <mxPoint x="525.0000000000002" y="1109.0000000000002" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="AqpJqt0BLSdEAmBp15Ga-42" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" parent="1" source="AqpJqt0BLSdEAmBp15Ga-15" target="AqpJqt0BLSdEAmBp15Ga-17" edge="1">
