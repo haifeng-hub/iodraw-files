@@ -1469,7 +1469,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="AqpJqt0BLSdEAmBp15Ga-7" value="退出页面" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="1070" y="2021" width="124" height="49" as="geometry" />
+          <mxGeometry x="1060" y="1970" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="AqpJqt0BLSdEAmBp15Ga-57" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="AqpJqt0BLSdEAmBp15Ga-9" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -1507,7 +1507,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="AqpJqt0BLSdEAmBp15Ga-25" value="生成信息更新记录" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="822" y="2021" width="188" height="49" as="geometry" />
+          <mxGeometry x="822" y="1850" width="188" height="49" as="geometry" />
         </mxCell>
         <mxCell id="AqpJqt0BLSdEAmBp15Ga-26" value="信息维护流程结束" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="822" y="2119" width="188" height="49" as="geometry" />
