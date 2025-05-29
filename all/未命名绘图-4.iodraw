@@ -2111,9 +2111,6 @@
         <mxCell id="ljyehB0oueZhSU5qbJ3H-2" value="用户选择反馈类型并填写内容" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="mhNK6VS6sj-SI8lU6rJ0-1">
           <mxGeometry x="67" y="694" width="252" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="ljyehB0oueZhSU5qbJ3H-3" value="是否匿名？" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="mhNK6VS6sj-SI8lU6rJ0-1">
-          <mxGeometry x="129" y="810" width="129" height="129" as="geometry" />
-        </mxCell>
         <mxCell id="ljyehB0oueZhSU5qbJ3H-4" value="反馈数据库" style="shape=cylinder3;boundedLbl=1;backgroundOutline=1;size=10;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="mhNK6VS6sj-SI8lU6rJ0-1">
           <mxGeometry x="146" y="1011" width="95" height="66" as="geometry" />
         </mxCell>
@@ -2137,14 +2134,16 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ljyehB0oueZhSU5qbJ3H-11" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="mhNK6VS6sj-SI8lU6rJ0-1" source="ljyehB0oueZhSU5qbJ3H-2" target="ljyehB0oueZhSU5qbJ3H-3">
+        <mxCell id="ljyehB0oueZhSU5qbJ3H-11" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="mhNK6VS6sj-SI8lU6rJ0-1" source="ljyehB0oueZhSU5qbJ3H-2">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
+            <mxPoint x="193.5" y="810" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ljyehB0oueZhSU5qbJ3H-12" value="是/否" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.49;entryY=0;rounded=0;" edge="1" parent="mhNK6VS6sj-SI8lU6rJ0-1" source="ljyehB0oueZhSU5qbJ3H-3" target="ljyehB0oueZhSU5qbJ3H-4">
+        <mxCell id="ljyehB0oueZhSU5qbJ3H-12" value="是/否" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.49;entryY=0;rounded=0;" edge="1" parent="mhNK6VS6sj-SI8lU6rJ0-1" target="ljyehB0oueZhSU5qbJ3H-4">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
+            <mxPoint x="193.5" y="939" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ljyehB0oueZhSU5qbJ3H-13" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.49;exitY=1;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="mhNK6VS6sj-SI8lU6rJ0-1" source="ljyehB0oueZhSU5qbJ3H-4" target="ljyehB0oueZhSU5qbJ3H-5">
