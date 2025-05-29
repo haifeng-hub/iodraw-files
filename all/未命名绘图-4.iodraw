@@ -1648,7 +1648,7 @@
           <mxGeometry x="605" y="710" width="212" height="66" as="geometry" />
         </mxCell>
         <mxCell id="MNGdiOIPaT0lDah_iIlD-12" value="支付成功?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="760" y="1251" width="119" height="119" as="geometry" />
+          <mxGeometry x="636" y="910" width="119" height="119" as="geometry" />
         </mxCell>
         <mxCell id="MNGdiOIPaT0lDah_iIlD-13" value="显示支付失败原因" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="550" y="1442" width="188" height="49" as="geometry" />
@@ -1679,20 +1679,6 @@
         <mxCell id="MNGdiOIPaT0lDah_iIlD-22" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" parent="1" source="MNGdiOIPaT0lDah_iIlD-5" target="MNGdiOIPaT0lDah_iIlD-6" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="MNGdiOIPaT0lDah_iIlD-27" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" parent="1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-            <mxPoint x="820" y="1004" as="sourcePoint" />
-            <mxPoint x="820" y="1053" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="MNGdiOIPaT0lDah_iIlD-28" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" parent="1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-            <mxPoint x="820" y="1102" as="sourcePoint" />
-            <mxPoint x="820" y="1152" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="MNGdiOIPaT0lDah_iIlD-29" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" parent="1" target="MNGdiOIPaT0lDah_iIlD-12" edge="1">
