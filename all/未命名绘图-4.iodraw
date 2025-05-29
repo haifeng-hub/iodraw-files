@@ -1192,10 +1192,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="A8CwcBPdFAWz8-e88l2W-20" value="是否为所寻物品?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="739.5" y="1640" width="167" height="167" as="geometry" />
+          <mxGeometry x="736.5" y="1350" width="167" height="167" as="geometry" />
         </mxCell>
         <mxCell id="A8CwcBPdFAWz8-e88l2W-21" value="约定归还/领取方式" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="727.5" y="1890" width="196" height="49" as="geometry" />
+          <mxGeometry x="721" y="1640" width="196" height="49" as="geometry" />
         </mxCell>
         <mxCell id="A8CwcBPdFAWz8-e88l2W-22" value="物品成功归还/领取" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="728" y="2000" width="196" height="49" as="geometry" />
@@ -1230,12 +1230,6 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
             <mxPoint x="817.5" y="1350" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="A8CwcBPdFAWz8-e88l2W-45" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" parent="1" target="A8CwcBPdFAWz8-e88l2W-20" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-            <mxPoint x="817.5" y="1399" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="A8CwcBPdFAWz8-e88l2W-48" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" parent="1" source="A8CwcBPdFAWz8-e88l2W-21" target="A8CwcBPdFAWz8-e88l2W-22" edge="1">
