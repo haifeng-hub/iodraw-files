@@ -4483,7 +4483,7 @@
           <mxGeometry x="94.5" y="610" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="8gVvurHVk84-Hpp6y5jp-10" value="发送完成通知" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="93" y="790" width="156" height="49" as="geometry" />
+          <mxGeometry x="95" y="700" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="8gVvurHVk84-Hpp6y5jp-11" value="结束" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="143.5" y="890" width="55" height="34" as="geometry" />
