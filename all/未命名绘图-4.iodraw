@@ -1862,15 +1862,6 @@
         <mxCell id="oDPSKtY6pFUW3TeCEHOw-15" value="完成支付" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="1019" y="800" width="124" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="oDPSKtY6pFUW3TeCEHOw-16" value="洗衣机开始运行" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="995" y="960" width="172" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="oDPSKtY6pFUW3TeCEHOw-17" value="显示预计完成时间" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="987" y="1070" width="188" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="oDPSKtY6pFUW3TeCEHOw-18" value="系统倒计时" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="1011" y="1210" width="140" height="49" as="geometry" />
-        </mxCell>
         <mxCell id="oDPSKtY6pFUW3TeCEHOw-19" value="洗衣完成通知" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="1003" y="1556" width="156" height="49" as="geometry" />
         </mxCell>
@@ -1906,24 +1897,23 @@
         <mxCell id="oDPSKtY6pFUW3TeCEHOw-33" value="是" style="startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0.5;entryY=-0.01;rounded=0;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" parent="1" source="oDPSKtY6pFUW3TeCEHOw-6" target="oDPSKtY6pFUW3TeCEHOw-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="oDPSKtY6pFUW3TeCEHOw-37" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" parent="1" source="oDPSKtY6pFUW3TeCEHOw-15" target="oDPSKtY6pFUW3TeCEHOw-16" edge="1">
+        <mxCell id="oDPSKtY6pFUW3TeCEHOw-37" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" parent="1" source="oDPSKtY6pFUW3TeCEHOw-15" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
+            <mxPoint x="1081" y="960" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="oDPSKtY6pFUW3TeCEHOw-38" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" parent="1" source="oDPSKtY6pFUW3TeCEHOw-16" target="oDPSKtY6pFUW3TeCEHOw-17" edge="1">
+        <mxCell id="oDPSKtY6pFUW3TeCEHOw-38" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
+            <mxPoint x="1081" y="1009" as="sourcePoint" />
+            <mxPoint x="1081" y="1070" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="oDPSKtY6pFUW3TeCEHOw-39" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" parent="1" source="oDPSKtY6pFUW3TeCEHOw-17" target="oDPSKtY6pFUW3TeCEHOw-18" edge="1">
+        <mxCell id="oDPSKtY6pFUW3TeCEHOw-40" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" parent="1" target="oDPSKtY6pFUW3TeCEHOw-19" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="oDPSKtY6pFUW3TeCEHOw-40" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" parent="1" source="oDPSKtY6pFUW3TeCEHOw-18" target="oDPSKtY6pFUW3TeCEHOw-19" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
+            <mxPoint x="1081" y="1259" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="oDPSKtY6pFUW3TeCEHOw-41" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" parent="1" source="oDPSKtY6pFUW3TeCEHOw-19" target="oDPSKtY6pFUW3TeCEHOw-20" edge="1">
@@ -1935,6 +1925,9 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="bbcFSXgQNRLwSZN7-MGZ-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="oDPSKtY6pFUW3TeCEHOw-19" target="oDPSKtY6pFUW3TeCEHOw-19">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
