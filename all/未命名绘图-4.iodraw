@@ -1853,11 +1853,8 @@
         <mxCell id="oDPSKtY6pFUW3TeCEHOw-11" value="收到可用通知" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="722" y="1161" width="156" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="oDPSKtY6pFUW3TeCEHOw-12" value="选择洗衣模式" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="oDPSKtY6pFUW3TeCEHOw-12" value="选择洗衣模式支付方式" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="1003" y="660" width="156" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="oDPSKtY6pFUW3TeCEHOw-13" value="显示费用信息" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="1003" y="770" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="oDPSKtY6pFUW3TeCEHOw-15" value="完成支付" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="1019" y="1161" width="124" height="49" as="geometry" />
@@ -1906,14 +1903,16 @@
         <mxCell id="oDPSKtY6pFUW3TeCEHOw-33" value="是" style="startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0.5;entryY=-0.01;rounded=0;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" parent="1" source="oDPSKtY6pFUW3TeCEHOw-6" target="oDPSKtY6pFUW3TeCEHOw-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="oDPSKtY6pFUW3TeCEHOw-34" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" parent="1" source="oDPSKtY6pFUW3TeCEHOw-12" target="oDPSKtY6pFUW3TeCEHOw-13" edge="1">
+        <mxCell id="oDPSKtY6pFUW3TeCEHOw-34" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" parent="1" source="oDPSKtY6pFUW3TeCEHOw-12" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
+            <mxPoint x="1081" y="770" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="oDPSKtY6pFUW3TeCEHOw-35" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;" parent="1" source="oDPSKtY6pFUW3TeCEHOw-13" edge="1">
+        <mxCell id="oDPSKtY6pFUW3TeCEHOw-35" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
+            <mxPoint x="1081" y="819" as="sourcePoint" />
             <mxPoint x="1081" y="860" as="targetPoint" />
           </mxGeometry>
         </mxCell>
