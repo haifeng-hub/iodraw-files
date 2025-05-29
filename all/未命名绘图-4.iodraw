@@ -1207,7 +1207,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="mS5RTTX8JZzwG4ISRV_h" name="第 20 页">
+  <diagram id="mS5RTTX8JZzwG4ISRV_h" name="公告">
     <mxGraphModel dx="2076" dy="1097" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1e+25" pageHeight="1e+22" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -1246,7 +1246,7 @@
         <mxCell id="SMIPeMhjXmC3Eqsy3d5C-18" value="查看通知详情" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="640" y="750" width="156" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="SMIPeMhjXmC3Eqsy3d5C-59" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="SMIPeMhjXmC3Eqsy3d5C-19" edge="1">
+        <mxCell id="SMIPeMhjXmC3Eqsy3d5C-59" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="SMIPeMhjXmC3Eqsy3d5C-19" target="SMIPeMhjXmC3Eqsy3d5C-22" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="969.401470588235" y="930" as="targetPoint" />
           </mxGeometry>
