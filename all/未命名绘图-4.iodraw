@@ -1,4 +1,4 @@
-<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0" version="24.7.17" pages="35">
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0" version="24.7.17" pages="36">
   <diagram name="第 1 页" id="FaAvK8CDBB7bdUnd1vte">
     <mxGraphModel dx="1453" dy="768" grid="1" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1e+25" pageHeight="1e+22" math="0" shadow="0">
       <root>
@@ -4601,6 +4601,87 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="282" y="891" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="gqB4Ig2XYUWYPI60_fKj" name="第 36 页">
+    <mxGraphModel dx="1453" dy="768" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1e+25" pageHeight="1e+22" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Lk92qRruOyPNRtQgPH5U-1" value="开始" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="151" y="20" width="55" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="Lk92qRruOyPNRtQgPH5U-2" value="填写报修信息" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="101" y="104" width="156" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="Lk92qRruOyPNRtQgPH5U-3" value="报修数据库" style="shape=cylinder3;boundedLbl=1;backgroundOutline=1;size=10;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="131" y="202" width="95" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="Lk92qRruOyPNRtQgPH5U-4" value="宿管分配维修人员" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="20" y="318" width="188" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="Lk92qRruOyPNRtQgPH5U-5" value="维修人员处理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="36" y="417" width="156" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="Lk92qRruOyPNRtQgPH5U-6" value="用户确认结果" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="42" y="516" width="145" height="145" as="geometry" />
+        </mxCell>
+        <mxCell id="Lk92qRruOyPNRtQgPH5U-7" value="结束" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="54" y="741" width="55" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="Lk92qRruOyPNRtQgPH5U-8" value="提交再次反馈" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="178" y="733" width="156" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="Lk92qRruOyPNRtQgPH5U-9" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="Lk92qRruOyPNRtQgPH5U-1" target="Lk92qRruOyPNRtQgPH5U-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Lk92qRruOyPNRtQgPH5U-10" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="Lk92qRruOyPNRtQgPH5U-2" target="Lk92qRruOyPNRtQgPH5U-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Lk92qRruOyPNRtQgPH5U-11" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.11;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="Lk92qRruOyPNRtQgPH5U-3" target="Lk92qRruOyPNRtQgPH5U-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="114" y="293" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Lk92qRruOyPNRtQgPH5U-12" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="Lk92qRruOyPNRtQgPH5U-4" target="Lk92qRruOyPNRtQgPH5U-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Lk92qRruOyPNRtQgPH5U-13" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="Lk92qRruOyPNRtQgPH5U-5" target="Lk92qRruOyPNRtQgPH5U-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Lk92qRruOyPNRtQgPH5U-14" value="完成" style="curved=1;startArrow=none;endArrow=block;exitX=0.35;exitY=1;entryX=0.51;entryY=-0.01;rounded=0;" edge="1" parent="1" source="Lk92qRruOyPNRtQgPH5U-6" target="Lk92qRruOyPNRtQgPH5U-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="82" y="697" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Lk92qRruOyPNRtQgPH5U-15" value="未完成" style="curved=1;startArrow=none;endArrow=block;exitX=0.85;exitY=1;entryX=0.34;entryY=0;rounded=0;" edge="1" parent="1" source="Lk92qRruOyPNRtQgPH5U-6" target="Lk92qRruOyPNRtQgPH5U-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="192" y="697" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Lk92qRruOyPNRtQgPH5U-16" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.56;exitY=0;entryX=1;entryY=0.92;rounded=0;" edge="1" parent="1" source="Lk92qRruOyPNRtQgPH5U-8" target="Lk92qRruOyPNRtQgPH5U-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="279" y="697" />
+              <mxPoint x="279" y="293" />
             </Array>
           </mxGeometry>
         </mxCell>
