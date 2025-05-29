@@ -313,6 +313,9 @@
         <mxCell id="j0rJzowzzbi5A3T-aMSf-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="j0rJzowzzbi5A3T-aMSf-2" target="j0rJzowzzbi5A3T-aMSf-23" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="Uep2XcFfZ9tibKRVG54R-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="j0rJzowzzbi5A3T-aMSf-2" target="j0rJzowzzbi5A3T-aMSf-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="j0rJzowzzbi5A3T-aMSf-2" value="进入小程序界面" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="236.5" y="111" width="135" height="36" as="geometry" />
         </mxCell>
@@ -365,12 +368,6 @@
         <mxCell id="j0rJzowzzbi5A3T-aMSf-23" value="输入用户名及密码" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
           <mxGeometry x="235" y="189" width="137" height="41" as="geometry" />
         </mxCell>
-        <mxCell id="j0rJzowzzbi5A3T-aMSf-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="304.54545454545405" y="148" as="sourcePoint" />
-            <mxPoint x="304.54545454545405" y="190" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="j0rJzowzzbi5A3T-aMSf-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="305" y="68" as="sourcePoint" />
@@ -390,12 +387,6 @@
         <mxCell id="j0rJzowzzbi5A3T-aMSf-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" target="j0rJzowzzbi5A3T-aMSf-9" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="305.5" y="608" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="j0rJzowzzbi5A3T-aMSf-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="306" y="69" as="sourcePoint" />
-            <mxPoint x="306" y="113" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
