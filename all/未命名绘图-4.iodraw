@@ -1071,10 +1071,10 @@
           <mxGeometry x="610" y="895" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="fWXMqm6UiISyIzV3_qHW-10" value="创建用户账号" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="821.5" y="1170" width="156" height="49" as="geometry" />
+          <mxGeometry x="821.5" y="1040" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="fWXMqm6UiISyIzV3_qHW-11" value="注册成功并跳转至首页" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="804.75" y="1283" width="189.5" height="37" as="geometry" />
+          <mxGeometry x="804.75" y="1130" width="189.5" height="37" as="geometry" />
         </mxCell>
         <mxCell id="fWXMqm6UiISyIzV3_qHW-18" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" parent="1" source="fWXMqm6UiISyIzV3_qHW-5" target="fWXMqm6UiISyIzV3_qHW-6" edge="1">
           <mxGeometry relative="1" as="geometry">
