@@ -1684,10 +1684,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5CuBmWcRu3kKWvenCGQV-15" value="说明拒绝原因" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="584" y="1090" width="156" height="49" as="geometry" />
+          <mxGeometry x="540" y="1020" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="5CuBmWcRu3kKWvenCGQV-16" value="学生收到拒绝通知" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="574" y="1220" width="176" height="50" as="geometry" />
+          <mxGeometry x="470" y="830" width="176" height="50" as="geometry" />
         </mxCell>
         <mxCell id="pqTqLr2cPLwIAOXEppUr-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="5CuBmWcRu3kKWvenCGQV-17" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -1695,7 +1695,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="5CuBmWcRu3kKWvenCGQV-17" value="生成返校批准通知" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="840" y="1100" width="188" height="49" as="geometry" />
+          <mxGeometry x="706" y="1100" width="188" height="49" as="geometry" />
         </mxCell>
         <mxCell id="5CuBmWcRu3kKWvenCGQV-29" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0;rounded=0;entryDx=0;entryDy=0;" parent="1" source="5CuBmWcRu3kKWvenCGQV-9" target="5CuBmWcRu3kKWvenCGQV-12" edge="1">
           <mxGeometry relative="1" as="geometry">
