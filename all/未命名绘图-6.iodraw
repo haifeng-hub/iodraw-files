@@ -1499,7 +1499,7 @@
           <mxGeometry x="679.5" y="290" width="188" height="49" as="geometry" />
         </mxCell>
         <mxCell id="9KhGymi9i63sxjAp125N-9" value="学生获取当前位置" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="679" y="500" width="188" height="49" as="geometry" />
+          <mxGeometry x="679" y="400" width="188" height="49" as="geometry" />
         </mxCell>
         <mxCell id="x5FK2jDWVstx2ZQnBV-R-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="9KhGymi9i63sxjAp125N-10" target="9KhGymi9i63sxjAp125N-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -1518,7 +1518,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="9KhGymi9i63sxjAp125N-10" value="是否在宿舍范围内?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="687.5" y="610" width="183" height="183" as="geometry" />
+          <mxGeometry x="682" y="490" width="183" height="90" as="geometry" />
         </mxCell>
         <mxCell id="9KhGymi9i63sxjAp125N-14" value="确认签到" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="717" y="880" width="124" height="49" as="geometry" />
