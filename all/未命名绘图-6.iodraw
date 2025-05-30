@@ -1194,11 +1194,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="4Soc1fVK6NyBCa7nsHEv-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" target="SMIPeMhjXmC3Eqsy3d5C-3" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="971" y="219" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="SMIPeMhjXmC3Eqsy3d5C-3" value="进入公告管理页面" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="857" y="370" width="188" height="49" as="geometry" />
         </mxCell>
@@ -1262,6 +1257,9 @@
             <Array as="points" />
             <mxPoint x="1197" y="748.9999999999998" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="cK3znIJDCxzO72ARNKCQ-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cK3znIJDCxzO72ARNKCQ-1" target="SMIPeMhjXmC3Eqsy3d5C-3">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cK3znIJDCxzO72ARNKCQ-1" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="891" y="210" width="120" height="60" as="geometry" />
