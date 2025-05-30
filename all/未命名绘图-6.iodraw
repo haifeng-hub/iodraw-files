@@ -1680,11 +1680,8 @@
         <mxCell id="5CuBmWcRu3kKWvenCGQV-14" value="是否批准?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="724" y="920" width="152" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="4hiSOwlmf_ylCed1lAlk-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5CuBmWcRu3kKWvenCGQV-15" target="5CuBmWcRu3kKWvenCGQV-16">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="5CuBmWcRu3kKWvenCGQV-15" value="说明拒绝原因" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="550" y="1110" width="156" height="49" as="geometry" />
+          <mxGeometry x="480" y="1110" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="5CuBmWcRu3kKWvenCGQV-16" value="学生收到拒绝通知" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="470" y="830" width="176" height="50" as="geometry" />
@@ -1720,6 +1717,9 @@
         </mxCell>
         <mxCell id="4hiSOwlmf_ylCed1lAlk-4" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="740" y="1230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4hiSOwlmf_ylCed1lAlk-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.441;entryY=0.98;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="5CuBmWcRu3kKWvenCGQV-15" target="5CuBmWcRu3kKWvenCGQV-16">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
