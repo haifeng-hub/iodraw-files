@@ -1689,11 +1689,6 @@
         <mxCell id="5CuBmWcRu3kKWvenCGQV-16" value="学生收到拒绝通知" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="470" y="830" width="176" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="pqTqLr2cPLwIAOXEppUr-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="5CuBmWcRu3kKWvenCGQV-17" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="934" y="1220" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="5CuBmWcRu3kKWvenCGQV-17" value="生成返校批准通知" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="706" y="1100" width="188" height="49" as="geometry" />
         </mxCell>
@@ -1721,7 +1716,7 @@
           <mxGeometry x="740" y="410" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4hiSOwlmf_ylCed1lAlk-4" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="876" y="1220" width="120" height="60" as="geometry" />
+          <mxGeometry x="740" y="1230" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
