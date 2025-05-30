@@ -1680,11 +1680,14 @@
         <mxCell id="5CuBmWcRu3kKWvenCGQV-14" value="是否批准?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="724" y="920" width="152" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="4hiSOwlmf_ylCed1lAlk-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5CuBmWcRu3kKWvenCGQV-15" target="5CuBmWcRu3kKWvenCGQV-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="5CuBmWcRu3kKWvenCGQV-15" value="说明拒绝原因" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="584" y="1090" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="5CuBmWcRu3kKWvenCGQV-16" value="学生收到拒绝通知" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="580" y="1220" width="176" height="50" as="geometry" />
+          <mxGeometry x="574" y="1220" width="176" height="50" as="geometry" />
         </mxCell>
         <mxCell id="pqTqLr2cPLwIAOXEppUr-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="5CuBmWcRu3kKWvenCGQV-17" target="5CuBmWcRu3kKWvenCGQV-20" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -1704,13 +1707,6 @@
         <mxCell id="5CuBmWcRu3kKWvenCGQV-34" value="否" style="startArrow=none;endArrow=block;entryX=0.5;entryY=0;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" parent="1" source="5CuBmWcRu3kKWvenCGQV-14" target="5CuBmWcRu3kKWvenCGQV-15" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="740" y="1571" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="5CuBmWcRu3kKWvenCGQV-35" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.71;entryY=-0.01;rounded=0;" parent="1" source="5CuBmWcRu3kKWvenCGQV-15" target="5CuBmWcRu3kKWvenCGQV-16" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="683" y="1776" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="5CuBmWcRu3kKWvenCGQV-36" value="" style="startArrow=none;endArrow=block;exitX=0;exitY=0.5;entryX=0.003;entryY=0.615;rounded=0;exitDx=0;exitDy=0;entryDx=0;entryDy=0;entryPerimeter=0;edgeStyle=orthogonalEdgeStyle;" parent="1" source="5CuBmWcRu3kKWvenCGQV-16" target="5CuBmWcRu3kKWvenCGQV-4" edge="1">
