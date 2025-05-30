@@ -1519,7 +1519,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dso-ypX3LQX1OOb5yZu5-5" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="x5FK2jDWVstx2ZQnBV-R-7">
+        <mxCell id="dso-ypX3LQX1OOb5yZu5-5" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="x5FK2jDWVstx2ZQnBV-R-7">
           <mxGeometry x="-0.3269" y="3" relative="1" as="geometry">
             <mxPoint y="1" as="offset" />
           </mxGeometry>
@@ -1573,7 +1573,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="uBewbdJCqjxlDcepWgK9" name="电费缴纳">
-    <mxGraphModel dx="2076" dy="1097" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1e+25" pageHeight="1e+22" math="0" shadow="0">
+    <mxGraphModel dx="1453" dy="768" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1e+25" pageHeight="1e+22" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1586,13 +1586,13 @@
         <mxCell id="MNGdiOIPaT0lDah_iIlD-5" value="学生查询当前电费余额" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="599" y="450" width="220" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="EGINsDD_xNja1KfzDTO2-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MNGdiOIPaT0lDah_iIlD-6" target="MNGdiOIPaT0lDah_iIlD-7">
+        <mxCell id="EGINsDD_xNja1KfzDTO2-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="MNGdiOIPaT0lDah_iIlD-6" target="MNGdiOIPaT0lDah_iIlD-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="MNGdiOIPaT0lDah_iIlD-6" value="选择充值金额" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="631" y="549" width="156" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="EGINsDD_xNja1KfzDTO2-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MNGdiOIPaT0lDah_iIlD-7">
+        <mxCell id="EGINsDD_xNja1KfzDTO2-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="MNGdiOIPaT0lDah_iIlD-7" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="711" y="830" as="targetPoint" />
           </mxGeometry>
@@ -1600,7 +1600,7 @@
         <mxCell id="MNGdiOIPaT0lDah_iIlD-7" value="选择支付方式&#xa;微信支付/支付宝支付" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="605" y="710" width="212" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="EGINsDD_xNja1KfzDTO2-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MNGdiOIPaT0lDah_iIlD-14" target="MNGdiOIPaT0lDah_iIlD-17">
+        <mxCell id="EGINsDD_xNja1KfzDTO2-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="MNGdiOIPaT0lDah_iIlD-14" target="MNGdiOIPaT0lDah_iIlD-17" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="MNGdiOIPaT0lDah_iIlD-14" value="更新电费余额" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
