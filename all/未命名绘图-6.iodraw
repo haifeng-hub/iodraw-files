@@ -1823,14 +1823,14 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BxDmCh38KzQlI9b4LfmP-10" value="物品捐赠" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.9;entryX=0.5;entryY=-0.01;rounded=0;" parent="Gq6TEWO07YLVckFnm5Co-1" source="BxDmCh38KzQlI9b4LfmP-2" target="BxDmCh38KzQlI9b4LfmP-3" edge="1">
+        <mxCell id="BxDmCh38KzQlI9b4LfmP-10" value="物品捐赠" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.5;entryX=0.5;entryY=-0.01;rounded=0;exitDx=0;exitDy=0;" parent="Gq6TEWO07YLVckFnm5Co-1" source="BxDmCh38KzQlI9b4LfmP-2" target="BxDmCh38KzQlI9b4LfmP-3" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="518" y="921" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="BxDmCh38KzQlI9b4LfmP-11" value="志愿服务" style="curved=1;startArrow=none;endArrow=block;exitX=0.99;exitY=0.9;entryX=0.5;entryY=-0.01;rounded=0;" parent="Gq6TEWO07YLVckFnm5Co-1" source="BxDmCh38KzQlI9b4LfmP-2" target="BxDmCh38KzQlI9b4LfmP-4" edge="1">
+        <mxCell id="BxDmCh38KzQlI9b4LfmP-11" value="志愿服务" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0.5;entryY=-0.01;rounded=0;exitDx=0;exitDy=0;" parent="Gq6TEWO07YLVckFnm5Co-1" source="BxDmCh38KzQlI9b4LfmP-2" target="BxDmCh38KzQlI9b4LfmP-4" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="748" y="921" />
@@ -1845,7 +1845,7 @@
             <mxPoint x="586" y="1065.7058823529412" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BxDmCh38KzQlI9b4LfmP-13" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.99;entryY=0.14;rounded=0;" parent="Gq6TEWO07YLVckFnm5Co-1" source="BxDmCh38KzQlI9b4LfmP-4" edge="1">
+        <mxCell id="BxDmCh38KzQlI9b4LfmP-13" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;rounded=0;" parent="Gq6TEWO07YLVckFnm5Co-1" source="BxDmCh38KzQlI9b4LfmP-4" edge="1" target="BxDmCh38KzQlI9b4LfmP-6">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="748" y="1031" />
