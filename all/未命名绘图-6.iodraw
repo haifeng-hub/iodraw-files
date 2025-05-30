@@ -1752,7 +1752,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="oDPSKtY6pFUW3TeCEHOw-6" value="洗衣机是否可用?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="630" y="540" width="167" height="167" as="geometry" />
+          <mxGeometry x="630" y="540" width="167" height="90" as="geometry" />
         </mxCell>
         <mxCell id="bbcFSXgQNRLwSZN7-MGZ-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="oDPSKtY6pFUW3TeCEHOw-12" target="oDPSKtY6pFUW3TeCEHOw-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
