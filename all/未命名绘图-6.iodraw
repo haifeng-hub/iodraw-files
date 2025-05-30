@@ -1424,7 +1424,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="AqpJqt0BLSdEAmBp15Ga-17" value="验证通过?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="465.5" y="1170" width="119" height="119" as="geometry" />
+          <mxGeometry x="576.26" y="1090" width="119" height="119" as="geometry" />
         </mxCell>
         <mxCell id="AqpJqt0BLSdEAmBp15Ga-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="AqpJqt0BLSdEAmBp15Ga-18" target="AqpJqt0BLSdEAmBp15Ga-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
