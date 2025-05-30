@@ -1538,9 +1538,6 @@
         <mxCell id="9KhGymi9i63sxjAp125N-15" value="系统记录签到信息&#xa;时间/位置/状态" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="1753.25" y="1935" width="160.5" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Do5-NtNIFe1pILTtcX2U-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9KhGymi9i63sxjAp125N-17" target="Do5-NtNIFe1pILTtcX2U-1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="9KhGymi9i63sxjAp125N-17" value="宿管查看签到结果" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="1739.5" y="2051" width="188" height="49" as="geometry" />
         </mxCell>
@@ -1569,10 +1566,7 @@
           <mxGeometry x="1773.5" y="1270" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Do5-NtNIFe1pILTtcX2U-1" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1770" y="2140" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Do5-NtNIFe1pILTtcX2U-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Do5-NtNIFe1pILTtcX2U-1" target="Do5-NtNIFe1pILTtcX2U-1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="1776" y="2170" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
