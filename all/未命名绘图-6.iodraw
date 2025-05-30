@@ -1542,7 +1542,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9KhGymi9i63sxjAp125N-23" value="宿管发起查寝" style="startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0.5;entryY=0;rounded=0;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" parent="1" source="9KhGymi9i63sxjAp125N-2" edge="1">
+        <mxCell id="9KhGymi9i63sxjAp125N-23" value="宿管发起查寝" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;entryDx=0;entryDy=0;" parent="1" source="9KhGymi9i63sxjAp125N-2" edge="1" target="9KhGymi9i63sxjAp125N-8">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1833.5" y="1490" as="targetPoint" />
           </mxGeometry>
