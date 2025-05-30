@@ -1275,13 +1275,8 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="XUwIG_liIp07Ohd70iV--57" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" target="XUwIG_liIp07Ohd70iV--4" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="755" y="289" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="XUwIG_liIp07Ohd70iV--4" value="选择业务类型" style="rhombus;strokeWidth=2;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="682.5" y="410" width="145" height="75" as="geometry" />
+          <mxGeometry x="680.5" y="410" width="145" height="75" as="geometry" />
         </mxCell>
         <mxCell id="XUwIG_liIp07Ohd70iV--5" value="填写换宿原因" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="858" y="553" width="156" height="49" as="geometry" />
@@ -1385,6 +1380,9 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XUwIG_liIp07Ohd70iV--56" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" parent="1" source="XUwIG_liIp07Ohd70iV--26" target="XUwIG_liIp07Ohd70iV--27" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uPvEaKTdcq5Sw9pCJz8u-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uPvEaKTdcq5Sw9pCJz8u-1" target="XUwIG_liIp07Ohd70iV--4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="uPvEaKTdcq5Sw9pCJz8u-1" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
