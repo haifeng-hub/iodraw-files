@@ -1436,11 +1436,11 @@
     </mxGraphModel>
   </diagram>
   <diagram id="TSZXoUSOwpRqzKstwM7n" name="信息维护">
-    <mxGraphModel dx="2422" dy="1280" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1e+25" pageHeight="1e+22" math="0" shadow="0">
+    <mxGraphModel dx="1453" dy="768" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1e+25" pageHeight="1e+22" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="ZJoEBEsvZqQ0rG7ml3xA-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AqpJqt0BLSdEAmBp15Ga-1" target="AqpJqt0BLSdEAmBp15Ga-4">
+        <mxCell id="ZJoEBEsvZqQ0rG7ml3xA-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="AqpJqt0BLSdEAmBp15Ga-1" target="AqpJqt0BLSdEAmBp15Ga-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="AqpJqt0BLSdEAmBp15Ga-1" value="开始" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
@@ -1493,7 +1493,7 @@
         <mxCell id="AqpJqt0BLSdEAmBp15Ga-18" value="提示错误并返回" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="435" y="1500" width="172" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="ZJoEBEsvZqQ0rG7ml3xA-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AqpJqt0BLSdEAmBp15Ga-19" target="AqpJqt0BLSdEAmBp15Ga-26">
+        <mxCell id="ZJoEBEsvZqQ0rG7ml3xA-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="AqpJqt0BLSdEAmBp15Ga-19" target="AqpJqt0BLSdEAmBp15Ga-26" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="AqpJqt0BLSdEAmBp15Ga-19" value="更新个人信息" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
