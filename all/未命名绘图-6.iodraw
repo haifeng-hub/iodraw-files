@@ -1826,26 +1826,16 @@
         <mxCell id="BxDmCh38KzQlI9b4LfmP-10" value="物品捐赠" style="startArrow=none;endArrow=block;exitX=0;exitY=0.5;entryX=0.5;entryY=-0.01;rounded=0;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" parent="Gq6TEWO07YLVckFnm5Co-1" source="BxDmCh38KzQlI9b4LfmP-2" target="BxDmCh38KzQlI9b4LfmP-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BxDmCh38KzQlI9b4LfmP-11" value="志愿服务" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0.5;entryY=-0.01;rounded=0;exitDx=0;exitDy=0;" parent="Gq6TEWO07YLVckFnm5Co-1" source="BxDmCh38KzQlI9b4LfmP-2" target="BxDmCh38KzQlI9b4LfmP-4" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="748" y="921" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="BxDmCh38KzQlI9b4LfmP-11" value="志愿服务" style="startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0.5;entryY=-0.01;rounded=0;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" parent="Gq6TEWO07YLVckFnm5Co-1" source="BxDmCh38KzQlI9b4LfmP-2" target="BxDmCh38KzQlI9b4LfmP-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BxDmCh38KzQlI9b4LfmP-12" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;entryDx=0;entryDy=0;" parent="Gq6TEWO07YLVckFnm5Co-1" source="BxDmCh38KzQlI9b4LfmP-3" edge="1" target="BxDmCh38KzQlI9b4LfmP-6">
+        <mxCell id="BxDmCh38KzQlI9b4LfmP-12" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" parent="Gq6TEWO07YLVckFnm5Co-1" source="BxDmCh38KzQlI9b4LfmP-3" edge="1" target="BxDmCh38KzQlI9b4LfmP-6">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="518" y="1031" />
-            </Array>
             <mxPoint x="586" y="1065.7058823529412" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BxDmCh38KzQlI9b4LfmP-13" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;rounded=0;" parent="Gq6TEWO07YLVckFnm5Co-1" source="BxDmCh38KzQlI9b4LfmP-4" edge="1">
+        <mxCell id="BxDmCh38KzQlI9b4LfmP-13" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;rounded=0;edgeStyle=orthogonalEdgeStyle;" parent="Gq6TEWO07YLVckFnm5Co-1" source="BxDmCh38KzQlI9b4LfmP-4" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="748" y="1031" />
-            </Array>
             <mxPoint x="630" y="1080" as="targetPoint" />
           </mxGeometry>
         </mxCell>
