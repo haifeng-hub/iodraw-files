@@ -1662,9 +1662,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="5CuBmWcRu3kKWvenCGQV-1" value="报修流程结束" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="753" y="340" width="92" height="49" as="geometry" />
-        </mxCell>
         <mxCell id="pqTqLr2cPLwIAOXEppUr-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="5CuBmWcRu3kKWvenCGQV-4" target="5CuBmWcRu3kKWvenCGQV-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
