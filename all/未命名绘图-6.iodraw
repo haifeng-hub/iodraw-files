@@ -1802,7 +1802,7 @@
           <mxGeometry x="572.5" y="772" width="120" height="58" as="geometry" />
         </mxCell>
         <mxCell id="BxDmCh38KzQlI9b4LfmP-3" value="填写物品信息" style="whiteSpace=wrap;strokeWidth=2;" parent="Gq6TEWO07YLVckFnm5Co-1" vertex="1">
-          <mxGeometry x="440" y="958" width="156" height="49" as="geometry" />
+          <mxGeometry x="430" y="900" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="BxDmCh38KzQlI9b4LfmP-4" value="填写服务时间与技能" style="whiteSpace=wrap;strokeWidth=2;" parent="Gq6TEWO07YLVckFnm5Co-1" vertex="1">
           <mxGeometry x="660" y="958" width="204" height="49" as="geometry" />
