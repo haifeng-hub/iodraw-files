@@ -1669,13 +1669,13 @@
           <mxGeometry x="710" y="470" width="180" height="70" as="geometry" />
         </mxCell>
         <mxCell id="5CuBmWcRu3kKWvenCGQV-9" value="上传相关文件" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="708" y="640" width="180" height="66" as="geometry" />
+          <mxGeometry x="710" y="630" width="180" height="66" as="geometry" />
         </mxCell>
         <mxCell id="pqTqLr2cPLwIAOXEppUr-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="5CuBmWcRu3kKWvenCGQV-12" target="5CuBmWcRu3kKWvenCGQV-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5CuBmWcRu3kKWvenCGQV-12" value="系统记录并通知宿管/辅导员" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="676" y="860" width="244" height="66" as="geometry" />
+          <mxGeometry x="678" y="780" width="244" height="66" as="geometry" />
         </mxCell>
         <mxCell id="5CuBmWcRu3kKWvenCGQV-14" value="是否批准?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="753" y="1260" width="119" height="119" as="geometry" />
@@ -1731,6 +1731,9 @@
               <mxPoint x="920" y="1570" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="4hiSOwlmf_ylCed1lAlk-1" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="752" y="320" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
