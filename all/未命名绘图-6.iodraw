@@ -1666,16 +1666,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5CuBmWcRu3kKWvenCGQV-4" value="填写返校信息&#xa;预计出发时间/预计到达时间" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="710" y="540" width="180" height="70" as="geometry" />
+          <mxGeometry x="710" y="536" width="180" height="70" as="geometry" />
         </mxCell>
         <mxCell id="5CuBmWcRu3kKWvenCGQV-9" value="上传相关文件" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="710" y="670" width="180" height="66" as="geometry" />
+          <mxGeometry x="710" y="672" width="180" height="66" as="geometry" />
         </mxCell>
         <mxCell id="pqTqLr2cPLwIAOXEppUr-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="5CuBmWcRu3kKWvenCGQV-12" target="5CuBmWcRu3kKWvenCGQV-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5CuBmWcRu3kKWvenCGQV-12" value="系统记录并通知宿管/辅导员" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="689" y="780" width="222" height="50" as="geometry" />
+          <mxGeometry x="689" y="804" width="222" height="50" as="geometry" />
         </mxCell>
         <mxCell id="5CuBmWcRu3kKWvenCGQV-14" value="是否批准?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="724" y="920" width="152" height="70" as="geometry" />
