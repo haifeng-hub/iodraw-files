@@ -1065,7 +1065,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="fWXMqm6UiISyIzV3_qHW-8" value="验证通过?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="842.25" y="700" width="119" height="119" as="geometry" />
+          <mxGeometry x="842.25" y="700" width="127.75" height="100" as="geometry" />
         </mxCell>
         <mxCell id="fWXMqm6UiISyIzV3_qHW-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="fWXMqm6UiISyIzV3_qHW-9" target="fWXMqm6UiISyIzV3_qHW-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -1095,7 +1095,7 @@
         <mxCell id="-htlS2OBMX7D2KaFP1ZX-4" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="837" y="260" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-htlS2OBMX7D2KaFP1ZX-5" value="结束" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#000000;" parent="1" vertex="1">
+        <mxCell id="-htlS2OBMX7D2KaFP1ZX-5" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="838" y="1080" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
