@@ -1608,9 +1608,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="7FZjdMlkxcrqIRNeqpyv-1" value="开始" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="733" y="320" width="92" height="49" as="geometry" />
-        </mxCell>
         <mxCell id="7FZjdMlkxcrqIRNeqpyv-4" value="填写报修信息&#xa;校区/宿舍楼号/楼层/宿舍号/房间号" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="656" y="416" width="245" height="84" as="geometry" />
         </mxCell>
