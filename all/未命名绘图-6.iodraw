@@ -1761,7 +1761,7 @@
           <mxGeometry x="635.5" y="849" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="oDPSKtY6pFUW3TeCEHOw-15" value="洗衣机工作" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="1019" y="800" width="124" height="49" as="geometry" />
+          <mxGeometry x="651.5" y="950" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="oDPSKtY6pFUW3TeCEHOw-19" value="洗衣完成通知" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="1003" y="964.5" width="156" height="49" as="geometry" />
