@@ -1681,10 +1681,10 @@
           <mxGeometry x="724" y="920" width="152" height="70" as="geometry" />
         </mxCell>
         <mxCell id="5CuBmWcRu3kKWvenCGQV-15" value="说明拒绝原因" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="640" y="1500" width="156" height="49" as="geometry" />
+          <mxGeometry x="584" y="1090" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="5CuBmWcRu3kKWvenCGQV-16" value="学生收到拒绝通知" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="630" y="1800" width="188" height="49" as="geometry" />
+          <mxGeometry x="570" y="1790" width="188" height="49" as="geometry" />
         </mxCell>
         <mxCell id="pqTqLr2cPLwIAOXEppUr-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="5CuBmWcRu3kKWvenCGQV-17" target="5CuBmWcRu3kKWvenCGQV-20" edge="1">
           <mxGeometry relative="1" as="geometry" />
