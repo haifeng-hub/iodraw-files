@@ -1208,8 +1208,11 @@
         <mxCell id="SMIPeMhjXmC3Eqsy3d5C-6" value="通知标题与内容" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="619" y="650" width="204" height="49" as="geometry" />
         </mxCell>
+        <mxCell id="cK3znIJDCxzO72ARNKCQ-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SMIPeMhjXmC3Eqsy3d5C-7" target="SMIPeMhjXmC3Eqsy3d5C-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="SMIPeMhjXmC3Eqsy3d5C-7" value="选择宿舍" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="889" y="650" width="156" height="49" as="geometry" />
+          <mxGeometry x="873" y="650" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="SMIPeMhjXmC3Eqsy3d5C-8" value="报销政策文件" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="1103" y="650" width="188" height="49" as="geometry" />
