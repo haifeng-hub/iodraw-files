@@ -4103,6 +4103,9 @@
         <mxCell id="xuDHv2ytR7gmNZN0mZbj-12" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.flowchart.on-page_reference;" vertex="1" parent="1">
           <mxGeometry x="170" y="220" width="60" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="xuDHv2ytR7gmNZN0mZbj-13" value="学生" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.flowchart.on-page_reference;" vertex="1" parent="1">
+          <mxGeometry x="90" y="160" width="60" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
