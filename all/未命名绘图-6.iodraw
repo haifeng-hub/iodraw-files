@@ -1669,7 +1669,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5CuBmWcRu3kKWvenCGQV-4" value="填写返校信息&#xa;预计出发时间/预计到达时间" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="680" y="500" width="244" height="84" as="geometry" />
+          <mxGeometry x="710" y="500" width="180" height="70" as="geometry" />
         </mxCell>
         <mxCell id="5CuBmWcRu3kKWvenCGQV-9" value="上传相关文件" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="708" y="640" width="180" height="66" as="geometry" />
