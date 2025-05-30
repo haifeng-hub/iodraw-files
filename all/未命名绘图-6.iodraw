@@ -1124,14 +1124,14 @@
           <mxGeometry x="480" y="420" width="253" height="66" as="geometry" />
         </mxCell>
         <mxCell id="A8CwcBPdFAWz8-e88l2W-6" value="填写拾获物品信息&#xa;物品名称/拾获地点/时间等" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="863" y="420" width="253" height="66" as="geometry" />
+          <mxGeometry x="930" y="420" width="253" height="66" as="geometry" />
         </mxCell>
         <mxCell id="A8CwcBPdFAWz8-e88l2W-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.474;exitY=1.061;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitPerimeter=0;" parent="1" source="A8CwcBPdFAWz8-e88l2W-5" target="A8CwcBPdFAWz8-e88l2W-15" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="606.5" y="639" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="A8CwcBPdFAWz8-e88l2W-53" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="A8CwcBPdFAWz8-e88l2W-15" edge="1">
+        <mxCell id="A8CwcBPdFAWz8-e88l2W-53" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" parent="1" target="A8CwcBPdFAWz8-e88l2W-15" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1040" y="490" as="sourcePoint" />
           </mxGeometry>
