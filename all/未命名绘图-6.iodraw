@@ -1720,6 +1720,9 @@
         <mxCell id="4hiSOwlmf_ylCed1lAlk-1" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="740" y="410" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="4hiSOwlmf_ylCed1lAlk-4" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="876" y="1220" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
