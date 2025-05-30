@@ -1481,7 +1481,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="9KhGymi9i63sxjAp125N-2" value="签到类型" style="rhombus;strokeWidth=2;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="1777" y="1370" width="113" height="71" as="geometry" />
+          <mxGeometry x="1777" y="1353" width="113" height="71" as="geometry" />
         </mxCell>
         <mxCell id="9KhGymi9i63sxjAp125N-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="9KhGymi9i63sxjAp125N-4" target="9KhGymi9i63sxjAp125N-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -1493,16 +1493,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9KhGymi9i63sxjAp125N-8" value="学生收到查寝通知" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="1759.75" y="1500" width="147.5" height="30" as="geometry" />
+          <mxGeometry x="1759.75" y="1462" width="147.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9KhGymi9i63sxjAp125N-9" value="学生获取当前位置" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="1739.5" y="1580" width="188" height="49" as="geometry" />
+          <mxGeometry x="1739.5" y="1541" width="188" height="49" as="geometry" />
         </mxCell>
         <mxCell id="x5FK2jDWVstx2ZQnBV-R-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="9KhGymi9i63sxjAp125N-10" target="9KhGymi9i63sxjAp125N-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="x5FK2jDWVstx2ZQnBV-R-5" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="x5FK2jDWVstx2ZQnBV-R-4" vertex="1" connectable="0">
-          <mxGeometry x="0.0805" y="2" relative="1" as="geometry">
+          <mxGeometry x="0.0805" y="1742" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
@@ -1510,21 +1510,21 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="x5FK2jDWVstx2ZQnBV-R-8" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="x5FK2jDWVstx2ZQnBV-R-7" vertex="1" connectable="0">
-          <mxGeometry x="-0.2385" y="4" relative="1" as="geometry">
+          <mxGeometry x="-0.2385" y="1919" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="9KhGymi9i63sxjAp125N-10" value="是否在宿舍范围内?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="1759.5" y="1670" width="148" height="80" as="geometry" />
+          <mxGeometry x="1759.5" y="1614" width="148" height="80" as="geometry" />
         </mxCell>
         <mxCell id="9KhGymi9i63sxjAp125N-14" value="确认签到" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="1771.5" y="1800" width="124" height="49" as="geometry" />
+          <mxGeometry x="1771.5" y="1806" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="9KhGymi9i63sxjAp125N-15" value="系统记录签到信息&#xa;时间/位置/状态" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="1753.25" y="1900" width="160.5" height="60" as="geometry" />
+          <mxGeometry x="1753.25" y="1978" width="160.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9KhGymi9i63sxjAp125N-17" value="宿管查看签到结果" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="1739.5" y="2000" width="188" height="49" as="geometry" />
+          <mxGeometry x="1739.5" y="2072" width="188" height="49" as="geometry" />
         </mxCell>
         <mxCell id="9KhGymi9i63sxjAp125N-19" value="签到流程结束" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="1755.5" y="2160" width="156" height="49" as="geometry" />
