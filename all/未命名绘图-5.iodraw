@@ -1559,18 +1559,18 @@
         <mxCell id="9KhGymi9i63sxjAp125N-9" value="学生获取当前位置" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="679" y="500" width="188" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="x5FK2jDWVstx2ZQnBV-R-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9KhGymi9i63sxjAp125N-10" target="9KhGymi9i63sxjAp125N-14">
+        <mxCell id="x5FK2jDWVstx2ZQnBV-R-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="9KhGymi9i63sxjAp125N-10" target="9KhGymi9i63sxjAp125N-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="x5FK2jDWVstx2ZQnBV-R-5" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="x5FK2jDWVstx2ZQnBV-R-4">
+        <mxCell id="x5FK2jDWVstx2ZQnBV-R-5" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="x5FK2jDWVstx2ZQnBV-R-4" vertex="1" connectable="0">
           <mxGeometry x="0.0805" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="x5FK2jDWVstx2ZQnBV-R-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="9KhGymi9i63sxjAp125N-10" target="9KhGymi9i63sxjAp125N-19">
+        <mxCell id="x5FK2jDWVstx2ZQnBV-R-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="9KhGymi9i63sxjAp125N-10" target="9KhGymi9i63sxjAp125N-19" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="x5FK2jDWVstx2ZQnBV-R-8" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="x5FK2jDWVstx2ZQnBV-R-7">
+        <mxCell id="x5FK2jDWVstx2ZQnBV-R-8" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="x5FK2jDWVstx2ZQnBV-R-7" vertex="1" connectable="0">
           <mxGeometry x="-0.2385" y="4" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -1584,7 +1584,7 @@
         <mxCell id="9KhGymi9i63sxjAp125N-15" value="系统记录签到信息&#xa;时间/位置/状态" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="687.5" y="990" width="188" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="x5FK2jDWVstx2ZQnBV-R-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9KhGymi9i63sxjAp125N-17">
+        <mxCell id="x5FK2jDWVstx2ZQnBV-R-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="9KhGymi9i63sxjAp125N-17" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="781.5" y="1210" as="targetPoint" />
           </mxGeometry>
