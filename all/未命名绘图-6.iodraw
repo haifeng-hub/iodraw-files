@@ -1487,7 +1487,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9KhGymi9i63sxjAp125N-4" value="学生进入签到页面" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="1560" y="1495" width="138" height="40" as="geometry" />
+          <mxGeometry x="1764.5" y="1495" width="138" height="40" as="geometry" />
         </mxCell>
         <mxCell id="9KhGymi9i63sxjAp125N-47" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="9KhGymi9i63sxjAp125N-8" target="9KhGymi9i63sxjAp125N-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
