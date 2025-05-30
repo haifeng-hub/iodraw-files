@@ -1493,7 +1493,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9KhGymi9i63sxjAp125N-8" value="学生收到查寝通知" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="1840" y="1485" width="147.5" height="30" as="geometry" />
+          <mxGeometry x="1759.75" y="1425" width="147.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9KhGymi9i63sxjAp125N-9" value="学生获取当前位置" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="1739.5" y="1565" width="188" height="49" as="geometry" />
@@ -1522,22 +1522,22 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="9KhGymi9i63sxjAp125N-10" value="是否在宿舍范围内?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="1838" y="1656" width="148" height="80" as="geometry" />
+          <mxGeometry x="1759.5" y="1550" width="148" height="80" as="geometry" />
         </mxCell>
         <mxCell id="9KhGymi9i63sxjAp125N-14" value="确认签到" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="1842" y="1780" width="124" height="49" as="geometry" />
+          <mxGeometry x="1771.5" y="1706" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="dso-ypX3LQX1OOb5yZu5-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9KhGymi9i63sxjAp125N-15" target="9KhGymi9i63sxjAp125N-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9KhGymi9i63sxjAp125N-15" value="系统记录签到信息&#xa;时间/位置/状态" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="1829" y="1890" width="160.5" height="60" as="geometry" />
+          <mxGeometry x="1753.25" y="1842" width="160.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fnC-CZzbgp4Xwb8gO30l-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9KhGymi9i63sxjAp125N-17" target="fnC-CZzbgp4Xwb8gO30l-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9KhGymi9i63sxjAp125N-17" value="宿管查看签到结果" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="1803" y="2000" width="188" height="49" as="geometry" />
+          <mxGeometry x="1739.5" y="1985" width="188" height="49" as="geometry" />
         </mxCell>
         <mxCell id="9KhGymi9i63sxjAp125N-22" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" parent="1" target="9KhGymi9i63sxjAp125N-2" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -1561,10 +1561,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="dso-ypX3LQX1OOb5yZu5-1" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1829" y="1270" width="120" height="60" as="geometry" />
+          <mxGeometry x="1773.5" y="1270" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fnC-CZzbgp4Xwb8gO30l-1" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1814" y="2110" width="120" height="60" as="geometry" />
+          <mxGeometry x="1773.5" y="2110" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
