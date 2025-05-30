@@ -1920,7 +1920,7 @@
           <mxGeometry x="587" y="744" width="188" height="49" as="geometry" />
         </mxCell>
         <mxCell id="uMqSs_mlE6yKY6PJ-onW-2" value="选择类型？" style="rhombus;strokeWidth=2;whiteSpace=wrap;" parent="YxewMreZX9XG7cv_og-W-1" vertex="1">
-          <mxGeometry x="617" y="842" width="129" height="129" as="geometry" />
+          <mxGeometry x="616" y="860" width="129" height="129" as="geometry" />
         </mxCell>
         <mxCell id="uMqSs_mlE6yKY6PJ-onW-3" value="浏览学习资料" style="whiteSpace=wrap;strokeWidth=2;" parent="YxewMreZX9XG7cv_og-W-1" vertex="1">
           <mxGeometry x="500" y="1044" width="156" height="49" as="geometry" />
@@ -1953,12 +1953,8 @@
         <mxCell id="uMqSs_mlE6yKY6PJ-onW-11" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" parent="YxewMreZX9XG7cv_og-W-1" source="uMqSs_mlE6yKY6PJ-onW-3" target="uMqSs_mlE6yKY6PJ-onW-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="uMqSs_mlE6yKY6PJ-onW-12" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;entryDx=0;entryDy=0;" parent="YxewMreZX9XG7cv_og-W-1" source="uMqSs_mlE6yKY6PJ-onW-4" target="uMqSs_mlE6yKY6PJ-onW-5" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="784" y="1117" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="uMqSs_mlE6yKY6PJ-onW-12" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" parent="YxewMreZX9XG7cv_og-W-1" source="uMqSs_mlE6yKY6PJ-onW-4" target="uMqSs_mlE6yKY6PJ-onW-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="uMqSs_mlE6yKY6PJ-onW-13" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.51;entryY=0;rounded=0;" parent="YxewMreZX9XG7cv_og-W-1" source="uMqSs_mlE6yKY6PJ-onW-5" target="uMqSs_mlE6yKY6PJ-onW-6" edge="1">
           <mxGeometry relative="1" as="geometry">
