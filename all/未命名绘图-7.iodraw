@@ -4109,6 +4109,9 @@
         <mxCell id="xuDHv2ytR7gmNZN0mZbj-30" value="" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];" vertex="1" parent="1">
           <mxGeometry x="860" y="540" width="170" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="w5NvJEX1oiGaT3VScmNS-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.855;entryY=0.855;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="xuDHv2ytR7gmNZN0mZbj-27" target="xuDHv2ytR7gmNZN0mZbj-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
