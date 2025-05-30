@@ -1217,11 +1217,6 @@
         <mxCell id="SMIPeMhjXmC3Eqsy3d5C-18" value="查看通知详情" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="640" y="750" width="156" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="SMIPeMhjXmC3Eqsy3d5C-59" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="SMIPeMhjXmC3Eqsy3d5C-19" target="SMIPeMhjXmC3Eqsy3d5C-22" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="969.401470588235" y="930" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="SMIPeMhjXmC3Eqsy3d5C-19" value="查看宿舍卫生得分" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="857" y="760" width="188" height="49" as="geometry" />
         </mxCell>
@@ -1281,7 +1276,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cK3znIJDCxzO72ARNKCQ-1" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="912" y="160" width="120" height="60" as="geometry" />
+          <mxGeometry x="911.5" y="210" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
