@@ -1200,10 +1200,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="SMIPeMhjXmC3Eqsy3d5C-3" value="进入公告管理页面" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="877" y="334" width="188" height="49" as="geometry" />
+          <mxGeometry x="857" y="370" width="188" height="49" as="geometry" />
         </mxCell>
         <mxCell id="SMIPeMhjXmC3Eqsy3d5C-5" value="选择公告类型" style="rhombus;strokeWidth=2;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="877" y="420" width="184" height="117" as="geometry" />
+          <mxGeometry x="861" y="460" width="184" height="117" as="geometry" />
         </mxCell>
         <mxCell id="SMIPeMhjXmC3Eqsy3d5C-6" value="通知标题与内容" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="619" y="650" width="204" height="49" as="geometry" />
@@ -1264,7 +1264,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="cK3znIJDCxzO72ARNKCQ-1" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="911.5" y="210" width="120" height="60" as="geometry" />
+          <mxGeometry x="891" y="210" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cK3znIJDCxzO72ARNKCQ-3" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="891" y="920" width="120" height="60" as="geometry" />
