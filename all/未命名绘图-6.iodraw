@@ -1468,10 +1468,13 @@
     </mxGraphModel>
   </diagram>
   <diagram id="B6cfMh90Z0fA0y3tB6QB" name="签到">
-    <mxGraphModel dx="1453" dy="1e+22" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1e+25" pageHeight="1e+22" math="0" shadow="0">
+    <mxGraphModel dx="9687" dy="1e+22" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1e+25" pageHeight="1e+22" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="9KhGymi9i63sxjAp125N-1" value="开始" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="727" y="10" width="92" height="49" as="geometry" />
+        </mxCell>
         <mxCell id="9KhGymi9i63sxjAp125N-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="9KhGymi9i63sxjAp125N-2" target="9KhGymi9i63sxjAp125N-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -1515,7 +1518,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="9KhGymi9i63sxjAp125N-10" value="是否在宿舍范围内?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="682" y="490" width="183" height="90" as="geometry" />
+          <mxGeometry x="687.5" y="610" width="183" height="90" as="geometry" />
         </mxCell>
         <mxCell id="9KhGymi9i63sxjAp125N-14" value="确认签到" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="717" y="880" width="124" height="49" as="geometry" />
@@ -1534,10 +1537,9 @@
         <mxCell id="9KhGymi9i63sxjAp125N-19" value="签到流程结束" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="711" y="1210" width="156" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="9KhGymi9i63sxjAp125N-22" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" parent="1" target="9KhGymi9i63sxjAp125N-2" edge="1">
+        <mxCell id="9KhGymi9i63sxjAp125N-22" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" parent="1" source="9KhGymi9i63sxjAp125N-1" target="9KhGymi9i63sxjAp125N-2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-            <mxPoint x="773" y="59" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="9KhGymi9i63sxjAp125N-23" value="宿管发起查寝" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;entryDx=0;entryDy=0;" parent="1" source="9KhGymi9i63sxjAp125N-2" edge="1" target="9KhGymi9i63sxjAp125N-8">
