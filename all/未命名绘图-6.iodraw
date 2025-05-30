@@ -1312,7 +1312,7 @@
           <mxGeometry x="590" y="1540" width="172" height="49" as="geometry" />
         </mxCell>
         <mxCell id="XUwIG_liIp07Ohd70iV--25" value="更新学生宿舍信息" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="790" y="1660" width="188" height="49" as="geometry" />
+          <mxGeometry x="792" y="1640" width="188" height="49" as="geometry" />
         </mxCell>
         <mxCell id="XUwIG_liIp07Ohd70iV--26" value="注销宿舍信息" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="598" y="1640" width="156" height="49" as="geometry" />
