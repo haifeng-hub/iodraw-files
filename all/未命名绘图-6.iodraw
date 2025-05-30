@@ -1758,7 +1758,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="oDPSKtY6pFUW3TeCEHOw-12" value="选择洗衣模式支付方式" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="823.5" y="800" width="156" height="49" as="geometry" />
+          <mxGeometry x="630" y="840" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="oDPSKtY6pFUW3TeCEHOw-15" value="洗衣机工作" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="1019" y="800" width="124" height="49" as="geometry" />
@@ -1769,7 +1769,7 @@
         <mxCell id="oDPSKtY6pFUW3TeCEHOw-21" value="洗衣流程结束" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="1003" y="1070" width="156" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="oDPSKtY6pFUW3TeCEHOw-33" value="是" style="startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0.5;entryY=-0.01;rounded=0;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" parent="1" source="oDPSKtY6pFUW3TeCEHOw-6" target="oDPSKtY6pFUW3TeCEHOw-12" edge="1">
+        <mxCell id="oDPSKtY6pFUW3TeCEHOw-33" value="是" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" parent="1" source="oDPSKtY6pFUW3TeCEHOw-6" target="oDPSKtY6pFUW3TeCEHOw-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="oDPSKtY6pFUW3TeCEHOw-37" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" parent="1" source="oDPSKtY6pFUW3TeCEHOw-15" edge="1">
