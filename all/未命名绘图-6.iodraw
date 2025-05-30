@@ -4075,6 +4075,141 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <UserObject label="%flowchart_LR%" flowchart_LR="    %% 定义外部实体" placeholders="1" id="q5Y8W2276iY_WH-pXQ-X-1">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="60" width="120" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%flowchart_LR%" flowchart_LR="    StudentExt2[学生]" placeholders="1" id="q5Y8W2276iY_WH-pXQ-X-2">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="130" width="120" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%flowchart_LR%" flowchart_LR="    DormAdminExt2[宿舍管理员]" placeholders="1" id="q5Y8W2276iY_WH-pXQ-X-3">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="200" width="180" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%flowchart_LR%" flowchart_LR="    %% 定义进程和数据存储" placeholders="1" id="q5Y8W2276iY_WH-pXQ-X-4">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="270" width="160" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%flowchart_LR%" flowchart_LR="    SignInProc((1. 签到管理))" placeholders="1" id="q5Y8W2276iY_WH-pXQ-X-5">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="340" width="160" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%flowchart_LR%" flowchart_LR="    SignInStore[|签到记录|]" placeholders="1" id="q5Y8W2276iY_WH-pXQ-X-6">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="410" width="150" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%flowchart_LR%" flowchart_LR="    RepairProc((2. 报修管理))" placeholders="1" id="q5Y8W2276iY_WH-pXQ-X-7">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="480" width="160" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%flowchart_LR%" flowchart_LR="    RepairStore[|报修信息|]" placeholders="1" id="q5Y8W2276iY_WH-pXQ-X-8">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="550" width="150" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%flowchart_LR%" flowchart_LR="    AnnProc((3. 公告管理))" placeholders="1" id="q5Y8W2276iY_WH-pXQ-X-9">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="620" width="150" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%flowchart_LR%" flowchart_LR="    AnnStore[|公告信息|]" placeholders="1" id="q5Y8W2276iY_WH-pXQ-X-10">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="690" width="130" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%flowchart_LR%" flowchart_LR="    %% 签到模块数据流" placeholders="1" id="q5Y8W2276iY_WH-pXQ-X-11">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="760" width="130" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%flowchart_LR%" flowchart_LR="    StudentExt2 --&gt;|签到请求| SignInProc" placeholders="1" id="q5Y8W2276iY_WH-pXQ-X-12">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="830" width="220" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%flowchart_LR%" flowchart_LR="    SignInProc --&gt;|签到确认| StudentExt2" placeholders="1" id="q5Y8W2276iY_WH-pXQ-X-13">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="900" width="220" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%flowchart_LR%" flowchart_LR="    SignInProc --&gt;|签到数据| SignInStore" placeholders="1" id="q5Y8W2276iY_WH-pXQ-X-14">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="970" width="220" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%flowchart_LR%" flowchart_LR="    DormAdminExt2 --&gt;|查看签到| SignInProc" placeholders="1" id="q5Y8W2276iY_WH-pXQ-X-15">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="1040" width="250" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%flowchart_LR%" flowchart_LR="    SignInProc --&gt;|签到汇总| DormAdminExt2" placeholders="1" id="q5Y8W2276iY_WH-pXQ-X-16">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="1110" width="250" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%flowchart_LR%" flowchart_LR="    %% 报修模块数据流" placeholders="1" id="q5Y8W2276iY_WH-pXQ-X-17">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="1180" width="130" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%flowchart_LR%" flowchart_LR="    StudentExt2 --&gt;|报修请求| RepairProc" placeholders="1" id="q5Y8W2276iY_WH-pXQ-X-18">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="1250" width="220" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%flowchart_LR%" flowchart_LR="    RepairProc --&gt;|处理反馈| StudentExt2" placeholders="1" id="q5Y8W2276iY_WH-pXQ-X-19">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="1320" width="220" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%flowchart_LR%" flowchart_LR="    RepairProc --&gt;|报修记录| RepairStore" placeholders="1" id="q5Y8W2276iY_WH-pXQ-X-20">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="1390" width="220" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%flowchart_LR%" flowchart_LR="    DormAdminExt2 --&gt;|处理报修| RepairProc" placeholders="1" id="q5Y8W2276iY_WH-pXQ-X-21">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="1460" width="250" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%flowchart_LR%" flowchart_LR="    RepairProc --&gt;|报修信息| DormAdminExt2" placeholders="1" id="q5Y8W2276iY_WH-pXQ-X-22">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="1530" width="250" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%flowchart_LR%" flowchart_LR="    %% 公告模块数据流" placeholders="1" id="q5Y8W2276iY_WH-pXQ-X-23">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="1600" width="130" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%flowchart_LR%" flowchart_LR="    DormAdminExt2 --&gt;|发布公告| AnnProc" placeholders="1" id="q5Y8W2276iY_WH-pXQ-X-24">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="1670" width="230" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%flowchart_LR%" flowchart_LR="    AnnProc --&gt;|公告内容| AnnStore" placeholders="1" id="q5Y8W2276iY_WH-pXQ-X-25">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="1740" width="200" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%flowchart_LR%" flowchart_LR="    StudentExt2 --&gt;|查询公告| AnnProc" placeholders="1" id="q5Y8W2276iY_WH-pXQ-X-26">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="1810" width="210" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%flowchart_LR%" flowchart_LR="    AnnProc --&gt;|公告列表| StudentExt2" placeholders="1" id="q5Y8W2276iY_WH-pXQ-X-27">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="1880" width="210" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
       </root>
     </mxGraphModel>
   </diagram>
