@@ -1654,9 +1654,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="-d83dKN50sLoc0dZak2J-10" value="后勤师傅" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="926" y="119" width="124" height="49" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
