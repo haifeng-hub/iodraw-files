@@ -1481,22 +1481,22 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="9KhGymi9i63sxjAp125N-2" value="签到类型" style="rhombus;strokeWidth=2;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="1777" y="1353" width="113" height="71" as="geometry" />
+          <mxGeometry x="1799" y="1374" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9KhGymi9i63sxjAp125N-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="9KhGymi9i63sxjAp125N-4" target="9KhGymi9i63sxjAp125N-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9KhGymi9i63sxjAp125N-4" value="学生进入签到页面" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="1764.5" y="1495" width="138" height="40" as="geometry" />
+          <mxGeometry x="1560" y="1495" width="138" height="40" as="geometry" />
         </mxCell>
         <mxCell id="9KhGymi9i63sxjAp125N-47" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="9KhGymi9i63sxjAp125N-8" target="9KhGymi9i63sxjAp125N-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9KhGymi9i63sxjAp125N-8" value="学生收到查寝通知" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="1759.75" y="1462" width="147.5" height="30" as="geometry" />
+          <mxGeometry x="1773.75" y="1462" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9KhGymi9i63sxjAp125N-9" value="学生获取当前位置" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="1739.5" y="1541" width="188" height="49" as="geometry" />
+          <mxGeometry x="1773.5" y="1551" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="x5FK2jDWVstx2ZQnBV-R-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="9KhGymi9i63sxjAp125N-10" target="9KhGymi9i63sxjAp125N-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -1515,19 +1515,19 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="9KhGymi9i63sxjAp125N-10" value="是否在宿舍范围内?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="1759.5" y="1614" width="148" height="80" as="geometry" />
+          <mxGeometry x="1768.5" y="1639" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9KhGymi9i63sxjAp125N-14" value="确认签到" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="1771.5" y="1806" width="124" height="49" as="geometry" />
+          <mxGeometry x="1798.5" y="1816" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9KhGymi9i63sxjAp125N-15" value="系统记录签到信息&#xa;时间/位置/状态" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="1753.25" y="1978" width="160.5" height="60" as="geometry" />
+          <mxGeometry x="1773.25" y="1988" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="9KhGymi9i63sxjAp125N-17" value="宿管查看签到结果" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="1739.5" y="2072" width="188" height="49" as="geometry" />
+          <mxGeometry x="1773.5" y="2082" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9KhGymi9i63sxjAp125N-19" value="签到流程结束" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="1755.5" y="2160" width="156" height="49" as="geometry" />
+          <mxGeometry x="1783.5" y="2170" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9KhGymi9i63sxjAp125N-22" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" parent="1" target="9KhGymi9i63sxjAp125N-2" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -1551,7 +1551,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="dso-ypX3LQX1OOb5yZu5-1" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1773.5" y="1270" width="120" height="60" as="geometry" />
+          <mxGeometry x="1808.5" y="1285" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
