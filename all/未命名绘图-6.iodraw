@@ -1203,7 +1203,7 @@
           <mxGeometry x="877" y="334" width="188" height="49" as="geometry" />
         </mxCell>
         <mxCell id="SMIPeMhjXmC3Eqsy3d5C-5" value="选择公告类型" style="rhombus;strokeWidth=2;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="860" y="433" width="184" height="145" as="geometry" />
+          <mxGeometry x="879.5" y="433" width="184" height="117" as="geometry" />
         </mxCell>
         <mxCell id="SMIPeMhjXmC3Eqsy3d5C-6" value="通知标题与内容" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="619" y="650" width="204" height="49" as="geometry" />
