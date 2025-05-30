@@ -1306,7 +1306,7 @@
           <mxGeometry x="694" y="1240" width="119" height="90" as="geometry" />
         </mxCell>
         <mxCell id="XUwIG_liIp07Ohd70iV--23" value="学生确认搬迁完成" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="920" y="1540" width="188" height="49" as="geometry" />
+          <mxGeometry x="792" y="1540" width="188" height="49" as="geometry" />
         </mxCell>
         <mxCell id="XUwIG_liIp07Ohd70iV--24" value="宿管验收并确认" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="590" y="1540" width="172" height="49" as="geometry" />
@@ -1318,7 +1318,7 @@
           <mxGeometry x="628" y="1640" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="XUwIG_liIp07Ohd70iV--27" value="宿舍变更流程结束" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="520" y="1850" width="188" height="49" as="geometry" />
+          <mxGeometry x="612" y="1940" width="188" height="49" as="geometry" />
         </mxCell>
         <mxCell id="XUwIG_liIp07Ohd70iV--31" value="换宿申请" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0.01;rounded=0;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" parent="1" source="XUwIG_liIp07Ohd70iV--4" target="XUwIG_liIp07Ohd70iV--5" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -1351,7 +1351,7 @@
             <mxPoint x="623" y="1238" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XUwIG_liIp07Ohd70iV--49" value="换宿" style="startArrow=none;endArrow=block;exitX=1;exitY=0.5;rounded=0;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" parent="1" source="XUwIG_liIp07Ohd70iV--20" edge="1">
+        <mxCell id="XUwIG_liIp07Ohd70iV--49" value="换宿" style="startArrow=none;endArrow=block;exitX=1;exitY=0.5;rounded=0;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="XUwIG_liIp07Ohd70iV--20" edge="1" target="XUwIG_liIp07Ohd70iV--23">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1070" y="1540" as="targetPoint" />
           </mxGeometry>
