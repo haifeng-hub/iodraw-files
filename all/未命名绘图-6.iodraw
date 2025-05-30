@@ -1515,10 +1515,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="9KhGymi9i63sxjAp125N-10" value="是否在宿舍范围内?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="1745" y="1680" width="183" height="183" as="geometry" />
+          <mxGeometry x="1762.5" y="1670" width="148" height="80" as="geometry" />
         </mxCell>
         <mxCell id="9KhGymi9i63sxjAp125N-14" value="确认签到" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="1774.5" y="1940" width="124" height="49" as="geometry" />
+          <mxGeometry x="1774.5" y="1800" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="9KhGymi9i63sxjAp125N-15" value="系统记录签到信息&#xa;时间/位置/状态" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="1747.5" y="2200" width="188" height="66" as="geometry" />
