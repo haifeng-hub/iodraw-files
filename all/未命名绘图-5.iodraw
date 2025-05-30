@@ -1681,7 +1681,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="pL3IL6jtUvbYfrn_PFEe" name="报修">
-    <mxGraphModel dx="578" dy="226" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1e+25" pageHeight="1e+22" math="0" shadow="0">
+    <mxGraphModel dx="1156" dy="452" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1e+25" pageHeight="1e+22" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
