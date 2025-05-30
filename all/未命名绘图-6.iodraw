@@ -1859,30 +1859,30 @@
           <mxGeometry x="424.5" y="754" width="220" height="49" as="geometry" />
         </mxCell>
         <mxCell id="daF2Cswv_4P-z3EUdVUX-2" value="选择并阅读规章内容" style="whiteSpace=wrap;strokeWidth=2;" parent="8D0bJr_5MwA6CprDsa97-1" vertex="1">
-          <mxGeometry x="432.5" y="852" width="204" height="49" as="geometry" />
+          <mxGeometry x="432.5" y="853" width="204" height="49" as="geometry" />
         </mxCell>
         <mxCell id="gADj_ghuijH7kuKliTsK-0" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="8D0bJr_5MwA6CprDsa97-1" source="daF2Cswv_4P-z3EUdVUX-3" target="daF2Cswv_4P-z3EUdVUX-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="gADj_ghuijH7kuKliTsK-2" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="gADj_ghuijH7kuKliTsK-0">
-          <mxGeometry x="-0.2476" relative="1" as="geometry">
+          <mxGeometry x="-0.2476" y="1071" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="daF2Cswv_4P-z3EUdVUX-3" value="是否下载？" style="rhombus;strokeWidth=2;whiteSpace=wrap;" parent="8D0bJr_5MwA6CprDsa97-1" vertex="1">
-          <mxGeometry x="470" y="951" width="129" height="69" as="geometry" />
+          <mxGeometry x="470" y="952" width="129" height="69" as="geometry" />
         </mxCell>
         <mxCell id="gADj_ghuijH7kuKliTsK-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="8D0bJr_5MwA6CprDsa97-1" source="daF2Cswv_4P-z3EUdVUX-4" target="daF2Cswv_4P-z3EUdVUX-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="daF2Cswv_4P-z3EUdVUX-4" value="下载或打印文档" style="whiteSpace=wrap;strokeWidth=2;" parent="8D0bJr_5MwA6CprDsa97-1" vertex="1">
-          <mxGeometry x="448.5" y="1090" width="172" height="49" as="geometry" />
+          <mxGeometry x="448.5" y="1080" width="172" height="49" as="geometry" />
         </mxCell>
         <mxCell id="daF2Cswv_4P-z3EUdVUX-5" value="继续阅读" style="whiteSpace=wrap;strokeWidth=2;" parent="8D0bJr_5MwA6CprDsa97-1" vertex="1">
           <mxGeometry x="700" y="1140" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="daF2Cswv_4P-z3EUdVUX-6" value="结束" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" parent="8D0bJr_5MwA6CprDsa97-1" vertex="1">
-          <mxGeometry x="507" y="1220" width="55" height="34" as="geometry" />
+          <mxGeometry x="507" y="1189" width="55" height="34" as="geometry" />
         </mxCell>
         <mxCell id="daF2Cswv_4P-z3EUdVUX-7" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.51;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" parent="8D0bJr_5MwA6CprDsa97-1" source="daF2Cswv_4P-z3EUdVUX-0" target="daF2Cswv_4P-z3EUdVUX-1" edge="1">
           <mxGeometry relative="1" as="geometry">
