@@ -1702,13 +1702,13 @@
         <mxCell id="7FZjdMlkxcrqIRNeqpyv-8" value="系统记录并通知宿管" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="701" y="680" width="204" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="lLqPBNBByEkp3N3die4C-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7FZjdMlkxcrqIRNeqpyv-9" target="7FZjdMlkxcrqIRNeqpyv-13">
+        <mxCell id="lLqPBNBByEkp3N3die4C-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="7FZjdMlkxcrqIRNeqpyv-9" target="7FZjdMlkxcrqIRNeqpyv-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="7FZjdMlkxcrqIRNeqpyv-9" value="宿管查看报修信息" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="705" y="780" width="188" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="yVNzTTiPPED5ic__nYwH-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7FZjdMlkxcrqIRNeqpyv-13" target="7FZjdMlkxcrqIRNeqpyv-20">
+        <mxCell id="yVNzTTiPPED5ic__nYwH-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="7FZjdMlkxcrqIRNeqpyv-13" target="7FZjdMlkxcrqIRNeqpyv-20" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="7FZjdMlkxcrqIRNeqpyv-13" value="安排维修人员" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
