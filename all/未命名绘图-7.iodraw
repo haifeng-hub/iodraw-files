@@ -4104,7 +4104,7 @@
           <mxGeometry x="910" y="530" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="w5NvJEX1oiGaT3VScmNS-131" value="密码" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="1140" y="820" width="100" height="40" as="geometry" />
+          <mxGeometry x="1130" y="850" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="w5NvJEX1oiGaT3VScmNS-132" value="年龄" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="1130" y="620" width="100" height="40" as="geometry" />
@@ -4144,8 +4144,8 @@
         </mxCell>
         <mxCell id="w5NvJEX1oiGaT3VScmNS-146" value="" style="endArrow=none;html=1;rounded=0;exitX=0.417;exitY=0.023;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1312" y="640" as="sourcePoint" />
-            <mxPoint x="1390" y="599" as="targetPoint" />
+            <mxPoint x="1080" y="810" as="sourcePoint" />
+            <mxPoint x="1158" y="769" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
