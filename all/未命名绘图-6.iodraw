@@ -1290,11 +1290,10 @@
         <mxCell id="XUwIG_liIp07Ohd70iV--12" value="管理员审核申请" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="667" y="780" width="172" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="uPvEaKTdcq5Sw9pCJz8u-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="XUwIG_liIp07Ohd70iV--13" target="XUwIG_liIp07Ohd70iV--18">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="XUwIG_liIp07Ohd70iV--13" value="是否批准?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="694" y="890" width="119" height="119" as="geometry" />
+        <mxCell id="uPvEaKTdcq5Sw9pCJz8u-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="XUwIG_liIp07Ohd70iV--18">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="753.5000000000005" y="1009" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="uPvEaKTdcq5Sw9pCJz8u-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XUwIG_liIp07Ohd70iV--18" target="XUwIG_liIp07Ohd70iV--20">
           <mxGeometry relative="1" as="geometry" />
@@ -1338,14 +1337,10 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XUwIG_liIp07Ohd70iV--40" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.49;entryY=0;rounded=0;" parent="1" source="XUwIG_liIp07Ohd70iV--12" target="XUwIG_liIp07Ohd70iV--13" edge="1">
+        <mxCell id="XUwIG_liIp07Ohd70iV--40" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.49;entryY=0;rounded=0;" parent="1" source="XUwIG_liIp07Ohd70iV--12" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="XUwIG_liIp07Ohd70iV--41" value="否" style="startArrow=none;endArrow=block;exitX=0;exitY=0.5;entryX=0;entryY=0.5;rounded=0;edgeStyle=orthogonalEdgeStyle;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" parent="1" source="XUwIG_liIp07Ohd70iV--13" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="582" y="1834.5000000000005" as="targetPoint" />
+            <mxPoint x="752.3333333333335" y="891.1666666666672" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="XUwIG_liIp07Ohd70iV--49" value="换宿" style="startArrow=none;endArrow=block;exitX=1;exitY=0.5;rounded=0;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="XUwIG_liIp07Ohd70iV--20" edge="1" target="XUwIG_liIp07Ohd70iV--23">
