@@ -1799,7 +1799,7 @@
           <mxGeometry x="535" y="674" width="196" height="49" as="geometry" />
         </mxCell>
         <mxCell id="BxDmCh38KzQlI9b4LfmP-2" value="捐赠类型" style="rhombus;strokeWidth=2;whiteSpace=wrap;" parent="Gq6TEWO07YLVckFnm5Co-1" vertex="1">
-          <mxGeometry x="577" y="772" width="113" height="113" as="geometry" />
+          <mxGeometry x="577" y="772" width="113" height="58" as="geometry" />
         </mxCell>
         <mxCell id="BxDmCh38KzQlI9b4LfmP-3" value="填写物品信息" style="whiteSpace=wrap;strokeWidth=2;" parent="Gq6TEWO07YLVckFnm5Co-1" vertex="1">
           <mxGeometry x="440" y="958" width="156" height="49" as="geometry" />
