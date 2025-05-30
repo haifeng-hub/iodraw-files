@@ -1796,10 +1796,10 @@
           <mxGeometry x="605" y="590" width="55" height="34" as="geometry" />
         </mxCell>
         <mxCell id="BxDmCh38KzQlI9b4LfmP-1" value="查看/发起捐赠项目" style="whiteSpace=wrap;strokeWidth=2;" parent="Gq6TEWO07YLVckFnm5Co-1" vertex="1">
-          <mxGeometry x="535" y="674" width="196" height="49" as="geometry" />
+          <mxGeometry x="534.5" y="674" width="196" height="49" as="geometry" />
         </mxCell>
         <mxCell id="BxDmCh38KzQlI9b4LfmP-2" value="捐赠类型" style="rhombus;strokeWidth=2;whiteSpace=wrap;" parent="Gq6TEWO07YLVckFnm5Co-1" vertex="1">
-          <mxGeometry x="570" y="772" width="120" height="58" as="geometry" />
+          <mxGeometry x="572.5" y="772" width="120" height="58" as="geometry" />
         </mxCell>
         <mxCell id="BxDmCh38KzQlI9b4LfmP-3" value="填写物品信息" style="whiteSpace=wrap;strokeWidth=2;" parent="Gq6TEWO07YLVckFnm5Co-1" vertex="1">
           <mxGeometry x="440" y="958" width="156" height="49" as="geometry" />
@@ -1811,7 +1811,7 @@
           <mxGeometry x="535" y="1080" width="188" height="49" as="geometry" />
         </mxCell>
         <mxCell id="BxDmCh38KzQlI9b4LfmP-7" value="结束" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" parent="Gq6TEWO07YLVckFnm5Co-1" vertex="1">
-          <mxGeometry x="605" y="1180" width="55" height="34" as="geometry" />
+          <mxGeometry x="602.5" y="1180" width="55" height="34" as="geometry" />
         </mxCell>
         <mxCell id="BxDmCh38KzQlI9b4LfmP-8" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.51;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" parent="Gq6TEWO07YLVckFnm5Co-1" source="BxDmCh38KzQlI9b4LfmP-0" target="BxDmCh38KzQlI9b4LfmP-1" edge="1">
           <mxGeometry relative="1" as="geometry">
