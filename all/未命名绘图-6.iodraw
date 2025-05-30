@@ -1468,7 +1468,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="B6cfMh90Z0fA0y3tB6QB" name="签到">
-    <mxGraphModel dx="1384" dy="731" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1e+25" pageHeight="1e+22" math="0" shadow="0">
+    <mxGraphModel dx="2906" dy="1536" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1e+25" pageHeight="1e+22" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1521,10 +1521,10 @@
           <mxGeometry x="1774.5" y="1800" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="9KhGymi9i63sxjAp125N-15" value="系统记录签到信息&#xa;时间/位置/状态" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="1742.5" y="1900" width="188" height="66" as="geometry" />
+          <mxGeometry x="1756.25" y="1900" width="160.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9KhGymi9i63sxjAp125N-17" value="宿管查看签到结果" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="1747.5" y="2040" width="188" height="49" as="geometry" />
+          <mxGeometry x="1747.5" y="2000" width="188" height="49" as="geometry" />
         </mxCell>
         <mxCell id="9KhGymi9i63sxjAp125N-19" value="签到流程结束" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="1763.5" y="2160" width="156" height="49" as="geometry" />
