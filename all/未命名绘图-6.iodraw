@@ -1294,7 +1294,7 @@
           <mxGeometry x="693" y="890" width="119" height="90" as="geometry" />
         </mxCell>
         <mxCell id="XUwIG_liIp07Ohd70iV--23" value="学生确认搬迁完成" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="792" y="1240" width="188" height="49" as="geometry" />
+          <mxGeometry x="792" y="1060" width="188" height="49" as="geometry" />
         </mxCell>
         <mxCell id="XUwIG_liIp07Ohd70iV--24" value="宿管验收并确认" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="560" y="1060" width="172" height="49" as="geometry" />
@@ -1309,7 +1309,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XUwIG_liIp07Ohd70iV--26" value="注销宿舍信息" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="606" y="1360" width="156" height="49" as="geometry" />
+          <mxGeometry x="568" y="1180" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="XUwIG_liIp07Ohd70iV--31" value="换宿申请" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0.01;rounded=0;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" parent="1" source="XUwIG_liIp07Ohd70iV--4" target="XUwIG_liIp07Ohd70iV--5" edge="1">
           <mxGeometry relative="1" as="geometry" />
