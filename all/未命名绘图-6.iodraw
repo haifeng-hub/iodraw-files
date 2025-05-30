@@ -1106,9 +1106,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="A8CwcBPdFAWz8-e88l2W-1" value="开始" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="758.5" y="40" width="92" height="49" as="geometry" />
-        </mxCell>
         <mxCell id="A8CwcBPdFAWz8-e88l2W-3" value="进入寻物招领页面" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="710.5" y="140" width="188" height="49" as="geometry" />
         </mxCell>
@@ -1185,10 +1182,11 @@
         <mxCell id="A8CwcBPdFAWz8-e88l2W-24" value="寻物招领流程结束" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="702.5" y="1400" width="188" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="A8CwcBPdFAWz8-e88l2W-25" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" parent="1" source="A8CwcBPdFAWz8-e88l2W-1" edge="1">
+        <mxCell id="A8CwcBPdFAWz8-e88l2W-25" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
             <mxPoint x="804.5" y="139" as="targetPoint" />
+            <mxPoint x="804.5" y="89" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="A8CwcBPdFAWz8-e88l2W-27" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" parent="1" source="A8CwcBPdFAWz8-e88l2W-3" target="A8CwcBPdFAWz8-e88l2W-4" edge="1">
