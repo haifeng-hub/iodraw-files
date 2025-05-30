@@ -1430,13 +1430,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="AqpJqt0BLSdEAmBp15Ga-18" value="提示错误并返回" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="435" y="1500" width="172" height="49" as="geometry" />
+          <mxGeometry x="550" y="1260" width="172" height="49" as="geometry" />
         </mxCell>
         <mxCell id="ZJoEBEsvZqQ0rG7ml3xA-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="AqpJqt0BLSdEAmBp15Ga-19" target="AqpJqt0BLSdEAmBp15Ga-26" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="AqpJqt0BLSdEAmBp15Ga-19" value="更新个人信息" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="640" y="1500" width="156" height="49" as="geometry" />
+          <mxGeometry x="695.26" y="1280" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="AqpJqt0BLSdEAmBp15Ga-26" value="信息维护流程结束" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="624" y="1610" width="188" height="49" as="geometry" />
