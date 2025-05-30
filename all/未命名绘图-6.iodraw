@@ -2004,7 +2004,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ljyehB0oueZhSU5qbJ3H-15" value="已完成" style="curved=1;startArrow=none;endArrow=block;exitX=0.03;exitY=1;entryX=0.5;entryY=0.01;rounded=0;" parent="mhNK6VS6sj-SI8lU6rJ0-1" source="ljyehB0oueZhSU5qbJ3H-6" target="ljyehB0oueZhSU5qbJ3H-7" edge="1">
+        <mxCell id="ljyehB0oueZhSU5qbJ3H-15" value="已完成" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.5;entryX=0.5;entryY=0.01;rounded=0;exitDx=0;exitDy=0;" parent="mhNK6VS6sj-SI8lU6rJ0-1" source="ljyehB0oueZhSU5qbJ3H-6" target="ljyehB0oueZhSU5qbJ3H-7" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="628" y="1391" />
