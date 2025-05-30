@@ -1297,7 +1297,7 @@
           <mxGeometry x="694" y="890" width="119" height="119" as="geometry" />
         </mxCell>
         <mxCell id="XUwIG_liIp07Ohd70iV--18" value="生成批准通知" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="707" y="1150" width="156" height="49" as="geometry" />
+          <mxGeometry x="675.5" y="1130" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="XUwIG_liIp07Ohd70iV--20" value="业务类型?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="892.5" y="1340" width="119" height="119" as="geometry" />
