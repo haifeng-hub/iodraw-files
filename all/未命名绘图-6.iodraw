@@ -1320,15 +1320,13 @@
         <mxCell id="XUwIG_liIp07Ohd70iV--32" value="退宿申请" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0.01;rounded=0;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" parent="1" source="XUwIG_liIp07Ohd70iV--4" target="XUwIG_liIp07Ohd70iV--6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="XUwIG_liIp07Ohd70iV--33" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;entryDx=0;entryDy=0;" parent="1" source="XUwIG_liIp07Ohd70iV--5" target="XUwIG_liIp07Ohd70iV--11" edge="1">
+        <mxCell id="XUwIG_liIp07Ohd70iV--33" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" parent="1" source="XUwIG_liIp07Ohd70iV--5" target="XUwIG_liIp07Ohd70iV--11" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
             <mxPoint x="935.9999999999995" y="652" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XUwIG_liIp07Ohd70iV--34" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;entryDx=0;entryDy=0;" parent="1" source="XUwIG_liIp07Ohd70iV--6" target="XUwIG_liIp07Ohd70iV--11" edge="1">
+        <mxCell id="XUwIG_liIp07Ohd70iV--34" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" parent="1" source="XUwIG_liIp07Ohd70iV--6" target="XUwIG_liIp07Ohd70iV--11" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
             <mxPoint x="615" y="652" as="targetPoint" />
           </mxGeometry>
         </mxCell>
