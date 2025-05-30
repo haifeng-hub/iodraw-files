@@ -1856,10 +1856,10 @@
           <mxGeometry x="507" y="670" width="55" height="34" as="geometry" />
         </mxCell>
         <mxCell id="daF2Cswv_4P-z3EUdVUX-1" value="学生查看规章分类列表" style="whiteSpace=wrap;strokeWidth=2;" parent="8D0bJr_5MwA6CprDsa97-1" vertex="1">
-          <mxGeometry x="424.5" y="754" width="220" height="49" as="geometry" />
+          <mxGeometry x="424.5" y="758" width="220" height="49" as="geometry" />
         </mxCell>
         <mxCell id="daF2Cswv_4P-z3EUdVUX-2" value="选择并阅读规章内容" style="whiteSpace=wrap;strokeWidth=2;" parent="8D0bJr_5MwA6CprDsa97-1" vertex="1">
-          <mxGeometry x="432.5" y="853" width="204" height="49" as="geometry" />
+          <mxGeometry x="432.5" y="861" width="204" height="49" as="geometry" />
         </mxCell>
         <mxCell id="gADj_ghuijH7kuKliTsK-0" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="8D0bJr_5MwA6CprDsa97-1" source="daF2Cswv_4P-z3EUdVUX-3" target="daF2Cswv_4P-z3EUdVUX-4">
           <mxGeometry relative="1" as="geometry" />
@@ -1870,13 +1870,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="daF2Cswv_4P-z3EUdVUX-3" value="是否下载？" style="rhombus;strokeWidth=2;whiteSpace=wrap;" parent="8D0bJr_5MwA6CprDsa97-1" vertex="1">
-          <mxGeometry x="470" y="952" width="129" height="69" as="geometry" />
+          <mxGeometry x="470" y="963" width="129" height="69" as="geometry" />
         </mxCell>
         <mxCell id="gADj_ghuijH7kuKliTsK-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="8D0bJr_5MwA6CprDsa97-1" source="daF2Cswv_4P-z3EUdVUX-4" target="daF2Cswv_4P-z3EUdVUX-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="daF2Cswv_4P-z3EUdVUX-4" value="下载或打印文档" style="whiteSpace=wrap;strokeWidth=2;" parent="8D0bJr_5MwA6CprDsa97-1" vertex="1">
-          <mxGeometry x="448.5" y="1080" width="172" height="49" as="geometry" />
+          <mxGeometry x="448.5" y="1086" width="172" height="49" as="geometry" />
         </mxCell>
         <mxCell id="daF2Cswv_4P-z3EUdVUX-5" value="继续阅读" style="whiteSpace=wrap;strokeWidth=2;" parent="8D0bJr_5MwA6CprDsa97-1" vertex="1">
           <mxGeometry x="670" y="1129" width="124" height="49" as="geometry" />
