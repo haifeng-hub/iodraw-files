@@ -1684,7 +1684,7 @@
           <mxGeometry x="480" y="1110" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="5CuBmWcRu3kKWvenCGQV-16" value="学生收到拒绝通知" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="370" y="840" width="176" height="50" as="geometry" />
+          <mxGeometry x="380" y="670" width="176" height="50" as="geometry" />
         </mxCell>
         <mxCell id="4hiSOwlmf_ylCed1lAlk-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5CuBmWcRu3kKWvenCGQV-17" target="4hiSOwlmf_ylCed1lAlk-4">
           <mxGeometry relative="1" as="geometry" />
