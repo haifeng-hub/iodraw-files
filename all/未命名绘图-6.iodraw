@@ -1950,14 +1950,10 @@
         <mxCell id="uMqSs_mlE6yKY6PJ-onW-10" value="演练指南" style="startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0.5;entryY=-0.01;rounded=0;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" parent="YxewMreZX9XG7cv_og-W-1" source="uMqSs_mlE6yKY6PJ-onW-2" target="uMqSs_mlE6yKY6PJ-onW-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="uMqSs_mlE6yKY6PJ-onW-11" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;entryDx=0;entryDy=0;" parent="YxewMreZX9XG7cv_og-W-1" source="uMqSs_mlE6yKY6PJ-onW-3" target="uMqSs_mlE6yKY6PJ-onW-5" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="578" y="1117" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="uMqSs_mlE6yKY6PJ-onW-11" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" parent="YxewMreZX9XG7cv_og-W-1" source="uMqSs_mlE6yKY6PJ-onW-3" target="uMqSs_mlE6yKY6PJ-onW-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="uMqSs_mlE6yKY6PJ-onW-12" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.83;entryY=0.01;rounded=0;" parent="YxewMreZX9XG7cv_og-W-1" source="uMqSs_mlE6yKY6PJ-onW-4" target="uMqSs_mlE6yKY6PJ-onW-5" edge="1">
+        <mxCell id="uMqSs_mlE6yKY6PJ-onW-12" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;entryDx=0;entryDy=0;" parent="YxewMreZX9XG7cv_og-W-1" source="uMqSs_mlE6yKY6PJ-onW-4" target="uMqSs_mlE6yKY6PJ-onW-5" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="784" y="1117" />
