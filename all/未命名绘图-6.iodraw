@@ -1511,6 +1511,11 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="fnC-CZzbgp4Xwb8gO30l-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="9KhGymi9i63sxjAp125N-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2120" y="2190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="9KhGymi9i63sxjAp125N-10" value="是否在宿舍范围内?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="1759.5" y="1691" width="148" height="80" as="geometry" />
         </mxCell>
@@ -1553,7 +1558,7 @@
         <mxCell id="dso-ypX3LQX1OOb5yZu5-1" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1773.5" y="1270" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fnC-CZzbgp4Xwb8gO30l-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fnC-CZzbgp4Xwb8gO30l-1" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1775.5" y="2160" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
