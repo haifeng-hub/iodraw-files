@@ -1468,7 +1468,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="B6cfMh90Z0fA0y3tB6QB" name="签到">
-    <mxGraphModel dx="1162" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1e+25" pageHeight="1e+22" math="0" shadow="0">
+    <mxGraphModel dx="2422" dy="1280" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1e+25" pageHeight="1e+22" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1503,6 +1503,11 @@
         </mxCell>
         <mxCell id="x5FK2jDWVstx2ZQnBV-R-5" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="x5FK2jDWVstx2ZQnBV-R-4" vertex="1" connectable="0">
           <mxGeometry x="0.0805" y="1742" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dso-ypX3LQX1OOb5yZu5-4" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="x5FK2jDWVstx2ZQnBV-R-4">
+          <mxGeometry x="-0.122" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
