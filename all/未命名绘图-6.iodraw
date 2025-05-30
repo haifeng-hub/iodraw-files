@@ -1862,7 +1862,7 @@
           <mxGeometry x="433" y="852" width="204" height="49" as="geometry" />
         </mxCell>
         <mxCell id="daF2Cswv_4P-z3EUdVUX-3" value="是否下载？" style="rhombus;strokeWidth=2;whiteSpace=wrap;" parent="8D0bJr_5MwA6CprDsa97-1" vertex="1">
-          <mxGeometry x="471" y="951" width="129" height="129" as="geometry" />
+          <mxGeometry x="471" y="951" width="129" height="69" as="geometry" />
         </mxCell>
         <mxCell id="daF2Cswv_4P-z3EUdVUX-4" value="下载或打印文档" style="whiteSpace=wrap;strokeWidth=2;" parent="8D0bJr_5MwA6CprDsa97-1" vertex="1">
           <mxGeometry x="350" y="1152" width="172" height="49" as="geometry" />
