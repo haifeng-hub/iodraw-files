@@ -1982,7 +1982,7 @@
           <mxGeometry x="597" y="1127" width="252" height="49" as="geometry" />
         </mxCell>
         <mxCell id="ljyehB0oueZhSU5qbJ3H-6" value="处理状态？" style="rhombus;strokeWidth=2;whiteSpace=wrap;" parent="mhNK6VS6sj-SI8lU6rJ0-1" vertex="1">
-          <mxGeometry x="659" y="1226" width="129" height="129" as="geometry" />
+          <mxGeometry x="644" y="1226" width="158" height="94" as="geometry" />
         </mxCell>
         <mxCell id="ljyehB0oueZhSU5qbJ3H-7" value="回复用户结果" style="whiteSpace=wrap;strokeWidth=2;" parent="mhNK6VS6sj-SI8lU6rJ0-1" vertex="1">
           <mxGeometry x="550" y="1427" width="156" height="49" as="geometry" />
