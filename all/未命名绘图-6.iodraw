@@ -1380,10 +1380,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="AqpJqt0BLSdEAmBp15Ga-1" value="开始" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="772.5" y="340" width="92" height="49" as="geometry" />
+          <mxGeometry x="768" y="330" width="92" height="49" as="geometry" />
         </mxCell>
         <mxCell id="AqpJqt0BLSdEAmBp15Ga-4" value="查看当前信息&#xa;学号/密码/姓名/年龄/性别/手机" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="687" y="470" width="254" height="84" as="geometry" />
+          <mxGeometry x="708.5" y="450" width="211" height="60" as="geometry" />
         </mxCell>
         <mxCell id="AqpJqt0BLSdEAmBp15Ga-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="AqpJqt0BLSdEAmBp15Ga-6" edge="1">
           <mxGeometry relative="1" as="geometry">
