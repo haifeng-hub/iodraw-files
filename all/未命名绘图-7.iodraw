@@ -4276,6 +4276,12 @@
             <mxRectangle width="290" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="w5NvJEX1oiGaT3VScmNS-51" value="用户（User）" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
+          <mxGeometry x="230" y="550" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="w5NvJEX1oiGaT3VScmNS-52" value="属性：学号、姓名、密码、性别、年龄、班级、手机号、邮箱、用户类型、注册时间、状态             绘制E_R图" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
+          <mxGeometry x="430" y="550" width="590" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
