@@ -1823,22 +1823,22 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="bbcFSXgQNRLwSZN7-MGZ-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oDPSKtY6pFUW3TeCEHOw-1" target="oDPSKtY6pFUW3TeCEHOw-4">
+        <mxCell id="bbcFSXgQNRLwSZN7-MGZ-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="oDPSKtY6pFUW3TeCEHOw-1" target="oDPSKtY6pFUW3TeCEHOw-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="oDPSKtY6pFUW3TeCEHOw-1" value="开始" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="667" y="310" width="92" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="bbcFSXgQNRLwSZN7-MGZ-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oDPSKtY6pFUW3TeCEHOw-4" target="oDPSKtY6pFUW3TeCEHOw-6">
+        <mxCell id="bbcFSXgQNRLwSZN7-MGZ-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="oDPSKtY6pFUW3TeCEHOw-4" target="oDPSKtY6pFUW3TeCEHOw-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="oDPSKtY6pFUW3TeCEHOw-4" value="扫描洗衣机设备二维码获取洗衣机状态信息" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="603.5" y="430" width="220" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="bbcFSXgQNRLwSZN7-MGZ-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="oDPSKtY6pFUW3TeCEHOw-6" target="oDPSKtY6pFUW3TeCEHOw-21">
+        <mxCell id="bbcFSXgQNRLwSZN7-MGZ-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="oDPSKtY6pFUW3TeCEHOw-6" target="oDPSKtY6pFUW3TeCEHOw-21" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="bbcFSXgQNRLwSZN7-MGZ-7" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="bbcFSXgQNRLwSZN7-MGZ-6">
+        <mxCell id="bbcFSXgQNRLwSZN7-MGZ-7" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="bbcFSXgQNRLwSZN7-MGZ-6" vertex="1" connectable="0">
           <mxGeometry x="-0.5575" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -1846,7 +1846,7 @@
         <mxCell id="oDPSKtY6pFUW3TeCEHOw-6" value="洗衣机是否可用?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="630" y="533" width="167" height="167" as="geometry" />
         </mxCell>
-        <mxCell id="bbcFSXgQNRLwSZN7-MGZ-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oDPSKtY6pFUW3TeCEHOw-12" target="oDPSKtY6pFUW3TeCEHOw-15">
+        <mxCell id="bbcFSXgQNRLwSZN7-MGZ-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="oDPSKtY6pFUW3TeCEHOw-12" target="oDPSKtY6pFUW3TeCEHOw-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="oDPSKtY6pFUW3TeCEHOw-12" value="选择洗衣模式支付方式" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
@@ -1876,7 +1876,7 @@
             <mxPoint x="1081" y="1063.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="bbcFSXgQNRLwSZN7-MGZ-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="oDPSKtY6pFUW3TeCEHOw-19" target="oDPSKtY6pFUW3TeCEHOw-19">
+        <mxCell id="bbcFSXgQNRLwSZN7-MGZ-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="oDPSKtY6pFUW3TeCEHOw-19" target="oDPSKtY6pFUW3TeCEHOw-19" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
