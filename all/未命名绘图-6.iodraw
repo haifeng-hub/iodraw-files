@@ -1570,6 +1570,9 @@
         <mxCell id="dso-ypX3LQX1OOb5yZu5-1" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1773.5" y="1270" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="Do5-NtNIFe1pILTtcX2U-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1776" y="2170" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
