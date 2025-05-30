@@ -1291,13 +1291,13 @@
           <mxGeometry x="667" y="780" width="172" height="49" as="geometry" />
         </mxCell>
         <mxCell id="XUwIG_liIp07Ohd70iV--20" value="业务类型?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="694" y="1030" width="119" height="90" as="geometry" />
+          <mxGeometry x="693" y="890" width="119" height="90" as="geometry" />
         </mxCell>
         <mxCell id="XUwIG_liIp07Ohd70iV--23" value="学生确认搬迁完成" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="792" y="1240" width="188" height="49" as="geometry" />
         </mxCell>
         <mxCell id="XUwIG_liIp07Ohd70iV--24" value="宿管验收并确认" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="598" y="1240" width="172" height="49" as="geometry" />
+          <mxGeometry x="560" y="1060" width="172" height="49" as="geometry" />
         </mxCell>
         <mxCell id="uPvEaKTdcq5Sw9pCJz8u-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="XUwIG_liIp07Ohd70iV--25" target="uPvEaKTdcq5Sw9pCJz8u-5">
           <mxGeometry relative="1" as="geometry" />
