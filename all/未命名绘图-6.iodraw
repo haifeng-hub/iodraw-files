@@ -1415,7 +1415,7 @@
           <mxGeometry x="533.75" y="790" width="204" height="49" as="geometry" />
         </mxCell>
         <mxCell id="AqpJqt0BLSdEAmBp15Ga-11" value="修改手机号/密码等" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="440" y="960" width="244" height="66" as="geometry" />
+          <mxGeometry x="530" y="900" width="227.75" height="60" as="geometry" />
         </mxCell>
         <mxCell id="AqpJqt0BLSdEAmBp15Ga-15" value="系统验证信息合法性" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="423" y="1070" width="204" height="49" as="geometry" />
