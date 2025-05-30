@@ -4075,11 +4075,60 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <UserObject label="%flowchart_LR%" flowchart_LR="    AnnProc --&gt;|公告列表| StudentExt2" placeholders="1" id="q5Y8W2276iY_WH-pXQ-X-27">
-          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="20" y="1880" width="210" height="30" as="geometry" />
-          </mxCell>
-        </UserObject>
+        <mxCell id="q5Y8W2276iY_WH-pXQ-X-28" value="学生" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="20" y="1640" width="92" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="q5Y8W2276iY_WH-pXQ-X-29" value="宿舍管理系统" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="310" y="1609" width="111" height="111" as="geometry" />
+        </mxCell>
+        <mxCell id="q5Y8W2276iY_WH-pXQ-X-30" value="宿舍管理员" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="619" y="1590" width="140" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="q5Y8W2276iY_WH-pXQ-X-31" value="微信平台" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="627" y="1689" width="124" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="q5Y8W2276iY_WH-pXQ-X-32" value="签到/报修信息" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.35;entryX=0;entryY=0.43;rounded=0;" edge="1" parent="1" source="q5Y8W2276iY_WH-pXQ-X-28" target="q5Y8W2276iY_WH-pXQ-X-29">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="211" y="1643" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="q5Y8W2276iY_WH-pXQ-X-33" value="公告通知、反馈结果" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.56;entryX=1;entryY=0.63;rounded=0;" edge="1" parent="1" source="q5Y8W2276iY_WH-pXQ-X-29" target="q5Y8W2276iY_WH-pXQ-X-28">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="211" y="1685" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="q5Y8W2276iY_WH-pXQ-X-34" value="发布公告、处理报修" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.68;entryX=1;entryY=0.4;rounded=0;" edge="1" parent="1" source="q5Y8W2276iY_WH-pXQ-X-30" target="q5Y8W2276iY_WH-pXQ-X-29">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="520" y="1636" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="q5Y8W2276iY_WH-pXQ-X-35" value="签到/报修数据" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.27;entryX=0;entryY=0.32;rounded=0;" edge="1" parent="1" source="q5Y8W2276iY_WH-pXQ-X-29" target="q5Y8W2276iY_WH-pXQ-X-30">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="520" y="1593" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="q5Y8W2276iY_WH-pXQ-X-36" value="用户认证信息" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.66;entryX=1;entryY=0.72;rounded=0;" edge="1" parent="1" source="q5Y8W2276iY_WH-pXQ-X-31" target="q5Y8W2276iY_WH-pXQ-X-29">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="520" y="1735" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="q5Y8W2276iY_WH-pXQ-X-37" value="通知消息" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.59;entryX=0;entryY=0.34;rounded=0;" edge="1" parent="1" source="q5Y8W2276iY_WH-pXQ-X-29" target="q5Y8W2276iY_WH-pXQ-X-31">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="520" y="1692" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
