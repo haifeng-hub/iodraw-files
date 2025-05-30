@@ -1511,21 +1511,6 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="x5FK2jDWVstx2ZQnBV-R-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="9KhGymi9i63sxjAp125N-10" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1911.5" y="2184.5" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="x5FK2jDWVstx2ZQnBV-R-8" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="x5FK2jDWVstx2ZQnBV-R-7" vertex="1" connectable="0">
-          <mxGeometry x="-0.2385" y="1919" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="dso-ypX3LQX1OOb5yZu5-5" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="x5FK2jDWVstx2ZQnBV-R-7">
-          <mxGeometry x="-0.3269" y="3" relative="1" as="geometry">
-            <mxPoint y="1" as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="9KhGymi9i63sxjAp125N-10" value="是否在宿舍范围内?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="1759.5" y="1691" width="148" height="80" as="geometry" />
         </mxCell>
@@ -1538,13 +1523,14 @@
         <mxCell id="9KhGymi9i63sxjAp125N-15" value="系统记录签到信息&#xa;时间/位置/状态" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="1753.25" y="1935" width="160.5" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="dso-ypX3LQX1OOb5yZu5-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9KhGymi9i63sxjAp125N-17">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1833.500000000001" y="2160" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="dso-ypX3LQX1OOb5yZu5-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9KhGymi9i63sxjAp125N-17" target="9KhGymi9i63sxjAp125N-19">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9KhGymi9i63sxjAp125N-17" value="宿管查看签到结果" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="1739.5" y="2051" width="188" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="9KhGymi9i63sxjAp125N-19" value="签到流程结束" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="1755.5" y="2160" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="9KhGymi9i63sxjAp125N-22" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" parent="1" target="9KhGymi9i63sxjAp125N-2" edge="1">
           <mxGeometry relative="1" as="geometry">
