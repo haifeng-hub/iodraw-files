@@ -1516,7 +1516,7 @@
             <mxPoint x="2120" y="2190" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fnC-CZzbgp4Xwb8gO30l-6" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="fnC-CZzbgp4Xwb8gO30l-3">
+        <mxCell id="fnC-CZzbgp4Xwb8gO30l-6" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="fnC-CZzbgp4Xwb8gO30l-3">
           <mxGeometry x="-0.2037" y="4" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
