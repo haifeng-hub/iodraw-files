@@ -1684,7 +1684,7 @@
           <mxGeometry x="584" y="1090" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="5CuBmWcRu3kKWvenCGQV-16" value="学生收到拒绝通知" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="568" y="1220" width="188" height="49" as="geometry" />
+          <mxGeometry x="580" y="1220" width="176" height="50" as="geometry" />
         </mxCell>
         <mxCell id="pqTqLr2cPLwIAOXEppUr-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="5CuBmWcRu3kKWvenCGQV-17" target="5CuBmWcRu3kKWvenCGQV-20" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -1717,6 +1717,9 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5CuBmWcRu3kKWvenCGQV-37" value="是" style="startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0.5;entryY=0;rounded=0;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" parent="1" source="5CuBmWcRu3kKWvenCGQV-14" target="5CuBmWcRu3kKWvenCGQV-17" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4hiSOwlmf_ylCed1lAlk-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4hiSOwlmf_ylCed1lAlk-1" target="5CuBmWcRu3kKWvenCGQV-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4hiSOwlmf_ylCed1lAlk-1" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
