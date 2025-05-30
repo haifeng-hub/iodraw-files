@@ -1741,7 +1741,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="oDPSKtY6pFUW3TeCEHOw-4" value="扫描洗衣机设备二维码获取洗衣机状态信息" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="603.5" y="425" width="220" height="49" as="geometry" />
+          <mxGeometry x="603.5" y="449" width="220" height="49" as="geometry" />
         </mxCell>
         <mxCell id="bbcFSXgQNRLwSZN7-MGZ-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="oDPSKtY6pFUW3TeCEHOw-6" target="oDPSKtY6pFUW3TeCEHOw-21" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -1752,25 +1752,25 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="oDPSKtY6pFUW3TeCEHOw-6" value="洗衣机是否可用?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="630" y="540" width="167" height="90" as="geometry" />
+          <mxGeometry x="630" y="587" width="167" height="90" as="geometry" />
         </mxCell>
         <mxCell id="bbcFSXgQNRLwSZN7-MGZ-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="oDPSKtY6pFUW3TeCEHOw-12" target="oDPSKtY6pFUW3TeCEHOw-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="oDPSKtY6pFUW3TeCEHOw-12" value="选择洗衣模式支付方式" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="635.5" y="837" width="156" height="49" as="geometry" />
+          <mxGeometry x="635.5" y="766" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="_NsHQ_Eszt08lERs9oqK-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oDPSKtY6pFUW3TeCEHOw-15" target="oDPSKtY6pFUW3TeCEHOw-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="oDPSKtY6pFUW3TeCEHOw-15" value="洗衣机工作" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="651.5" y="951" width="124" height="49" as="geometry" />
+          <mxGeometry x="651.5" y="904" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="_NsHQ_Eszt08lERs9oqK-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oDPSKtY6pFUW3TeCEHOw-19" target="oDPSKtY6pFUW3TeCEHOw-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="oDPSKtY6pFUW3TeCEHOw-19" value="洗衣完成通知" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="635.5" y="1066" width="156" height="49" as="geometry" />
+          <mxGeometry x="635.5" y="1042" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="oDPSKtY6pFUW3TeCEHOw-21" value="洗衣流程结束" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="635.5" y="1180" width="156" height="49" as="geometry" />
