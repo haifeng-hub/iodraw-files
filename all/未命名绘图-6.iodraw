@@ -1678,7 +1678,7 @@
           <mxGeometry x="689" y="780" width="222" height="50" as="geometry" />
         </mxCell>
         <mxCell id="5CuBmWcRu3kKWvenCGQV-14" value="是否批准?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="724" y="980" width="152" height="70" as="geometry" />
+          <mxGeometry x="724" y="920" width="152" height="70" as="geometry" />
         </mxCell>
         <mxCell id="5CuBmWcRu3kKWvenCGQV-15" value="说明拒绝原因" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="620" y="1560" width="156" height="49" as="geometry" />
