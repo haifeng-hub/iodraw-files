@@ -1975,11 +1975,14 @@
         <mxCell id="ljyehB0oueZhSU5qbJ3H-1" value="开始" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" parent="mhNK6VS6sj-SI8lU6rJ0-1" vertex="1">
           <mxGeometry x="695" y="840" width="55" height="34" as="geometry" />
         </mxCell>
+        <mxCell id="HEHmZ61dQb7zuwz3pHk3-0" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="mhNK6VS6sj-SI8lU6rJ0-1" source="ljyehB0oueZhSU5qbJ3H-2" target="ljyehB0oueZhSU5qbJ3H-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ljyehB0oueZhSU5qbJ3H-2" value="用户选择反馈类型并填写内容" style="whiteSpace=wrap;strokeWidth=2;" parent="mhNK6VS6sj-SI8lU6rJ0-1" vertex="1">
-          <mxGeometry x="596.5" y="986" width="252" height="66" as="geometry" />
+          <mxGeometry x="596.5" y="953" width="252" height="66" as="geometry" />
         </mxCell>
         <mxCell id="ljyehB0oueZhSU5qbJ3H-5" value="管理员查看反馈并分类处理" style="whiteSpace=wrap;strokeWidth=2;" parent="mhNK6VS6sj-SI8lU6rJ0-1" vertex="1">
-          <mxGeometry x="596.5" y="1127" width="252" height="49" as="geometry" />
+          <mxGeometry x="596.5" y="1098" width="252" height="49" as="geometry" />
         </mxCell>
         <mxCell id="ljyehB0oueZhSU5qbJ3H-6" value="处理状态？" style="rhombus;strokeWidth=2;whiteSpace=wrap;" parent="mhNK6VS6sj-SI8lU6rJ0-1" vertex="1">
           <mxGeometry x="643.5" y="1226" width="158" height="94" as="geometry" />
