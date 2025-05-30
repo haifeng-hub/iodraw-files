@@ -1506,7 +1506,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dso-ypX3LQX1OOb5yZu5-4" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="x5FK2jDWVstx2ZQnBV-R-4">
+        <mxCell id="dso-ypX3LQX1OOb5yZu5-4" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="x5FK2jDWVstx2ZQnBV-R-4">
           <mxGeometry x="-0.122" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -1517,6 +1517,11 @@
         <mxCell id="x5FK2jDWVstx2ZQnBV-R-8" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="x5FK2jDWVstx2ZQnBV-R-7" vertex="1" connectable="0">
           <mxGeometry x="-0.2385" y="1919" relative="1" as="geometry">
             <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dso-ypX3LQX1OOb5yZu5-5" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="x5FK2jDWVstx2ZQnBV-R-7">
+          <mxGeometry x="-0.3269" y="3" relative="1" as="geometry">
+            <mxPoint y="1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="9KhGymi9i63sxjAp125N-10" value="是否在宿舍范围内?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" parent="1" vertex="1">
