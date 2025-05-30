@@ -1155,19 +1155,18 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="A8CwcBPdFAWz8-e88l2W-18" value="通过小程序联系对方" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="720" y="870" width="197" height="50" as="geometry" />
+          <mxGeometry x="717" y="870" width="197" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="X7z-wWaqfsorbeRIyMEU-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="A8CwcBPdFAWz8-e88l2W-21" target="A8CwcBPdFAWz8-e88l2W-23" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="X7z-wWaqfsorbeRIyMEU-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="A8CwcBPdFAWz8-e88l2W-21" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="815" y="1100" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="A8CwcBPdFAWz8-e88l2W-21" value="约定归还/领取方式" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="717" y="990" width="196" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="A8CwcBPdFAWz8-e88l2W-23" value="关闭寻物/招领信息" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="717" y="1120" width="196" height="49" as="geometry" />
-        </mxCell>
         <mxCell id="A8CwcBPdFAWz8-e88l2W-24" value="寻物招领流程结束" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="721" y="1250" width="188" height="49" as="geometry" />
+          <mxGeometry x="721" y="1200" width="188" height="49" as="geometry" />
         </mxCell>
         <mxCell id="A8CwcBPdFAWz8-e88l2W-25" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -1184,9 +1183,10 @@
         <mxCell id="A8CwcBPdFAWz8-e88l2W-28" value="寻物启事" style="startArrow=none;endArrow=block;exitX=0;exitY=0.5;entryX=0.5;entryY=0.01;rounded=0;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" parent="1" source="A8CwcBPdFAWz8-e88l2W-4" target="A8CwcBPdFAWz8-e88l2W-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="A8CwcBPdFAWz8-e88l2W-50" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" parent="1" source="A8CwcBPdFAWz8-e88l2W-23" target="A8CwcBPdFAWz8-e88l2W-24" edge="1">
+        <mxCell id="A8CwcBPdFAWz8-e88l2W-50" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" parent="1" target="A8CwcBPdFAWz8-e88l2W-24" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
+            <mxPoint x="815" y="1149" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="RWFuE5umN5-4SejpQ-k6-1" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
