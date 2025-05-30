@@ -1415,10 +1415,10 @@
           <mxGeometry x="533.75" y="790" width="204" height="49" as="geometry" />
         </mxCell>
         <mxCell id="AqpJqt0BLSdEAmBp15Ga-11" value="修改手机号/密码等" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="530" y="900" width="227.75" height="60" as="geometry" />
+          <mxGeometry x="521.88" y="900" width="227.75" height="60" as="geometry" />
         </mxCell>
         <mxCell id="AqpJqt0BLSdEAmBp15Ga-15" value="系统验证信息合法性" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="423" y="1070" width="204" height="49" as="geometry" />
+          <mxGeometry x="533.75" y="1010" width="204" height="49" as="geometry" />
         </mxCell>
         <mxCell id="AqpJqt0BLSdEAmBp15Ga-58" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="AqpJqt0BLSdEAmBp15Ga-17" target="AqpJqt0BLSdEAmBp15Ga-18" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -1441,7 +1441,7 @@
         <mxCell id="AqpJqt0BLSdEAmBp15Ga-26" value="信息维护流程结束" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="624" y="1610" width="188" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="AqpJqt0BLSdEAmBp15Ga-38" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" parent="1" source="AqpJqt0BLSdEAmBp15Ga-11" edge="1">
+        <mxCell id="AqpJqt0BLSdEAmBp15Ga-38" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;entryDx=0;entryDy=0;" parent="1" source="AqpJqt0BLSdEAmBp15Ga-11" edge="1" target="AqpJqt0BLSdEAmBp15Ga-15">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
             <mxPoint x="525.0000000000002" y="1060" as="targetPoint" />
