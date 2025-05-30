@@ -4075,57 +4075,124 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="q5Y8W2276iY_WH-pXQ-X-28" value="学生" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="20" y="1640" width="92" height="49" as="geometry" />
+        <mxCell id="q5Y8W2276iY_WH-pXQ-X-38" value="学生" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="20" y="1642" width="92" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="q5Y8W2276iY_WH-pXQ-X-29" value="宿舍管理系统" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="310" y="1609" width="111" height="111" as="geometry" />
+        <mxCell id="q5Y8W2276iY_WH-pXQ-X-39" value="宿舍管理员" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="363" y="1664" width="140" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="q5Y8W2276iY_WH-pXQ-X-30" value="宿舍管理员" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="619" y="1590" width="140" height="49" as="geometry" />
+        <mxCell id="q5Y8W2276iY_WH-pXQ-X-40" value="1. 签到管理" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="230" y="1675" width="15" height="15" as="geometry" />
         </mxCell>
-        <mxCell id="q5Y8W2276iY_WH-pXQ-X-31" value="微信平台" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="627" y="1689" width="124" height="49" as="geometry" />
+        <mxCell id="q5Y8W2276iY_WH-pXQ-X-41" value="签到记录" style="shape=cylinder3;boundedLbl=1;backgroundOutline=1;size=10;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="394" y="1525" width="79" height="63" as="geometry" />
         </mxCell>
-        <mxCell id="q5Y8W2276iY_WH-pXQ-X-32" value="签到/报修信息" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.35;entryX=0;entryY=0.43;rounded=0;" edge="1" parent="1" source="q5Y8W2276iY_WH-pXQ-X-28" target="q5Y8W2276iY_WH-pXQ-X-29">
+        <mxCell id="q5Y8W2276iY_WH-pXQ-X-42" value="2. 报修管理" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="621" y="1600" width="15" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="q5Y8W2276iY_WH-pXQ-X-43" value="报修信息" style="shape=cylinder3;boundedLbl=1;backgroundOutline=1;size=10;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="754" y="1576" width="79" height="63" as="geometry" />
+        </mxCell>
+        <mxCell id="q5Y8W2276iY_WH-pXQ-X-44" value="3. 公告管理" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="621" y="1760" width="15" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="q5Y8W2276iY_WH-pXQ-X-45" value="公告信息" style="shape=cylinder3;boundedLbl=1;backgroundOutline=1;size=10;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="754" y="1736" width="79" height="63" as="geometry" />
+        </mxCell>
+        <mxCell id="q5Y8W2276iY_WH-pXQ-X-46" value="签到请求" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.52;entryX=0;entryY=0.39;rounded=0;" edge="1" parent="1" source="q5Y8W2276iY_WH-pXQ-X-38" target="q5Y8W2276iY_WH-pXQ-X-40">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="211" y="1643" />
+              <mxPoint x="171" y="1668" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="q5Y8W2276iY_WH-pXQ-X-33" value="公告通知、反馈结果" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.56;entryX=1;entryY=0.63;rounded=0;" edge="1" parent="1" source="q5Y8W2276iY_WH-pXQ-X-29" target="q5Y8W2276iY_WH-pXQ-X-28">
+        <mxCell id="q5Y8W2276iY_WH-pXQ-X-47" value="签到确认" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.79;entryX=1;entryY=1;rounded=0;" edge="1" parent="1" source="q5Y8W2276iY_WH-pXQ-X-40" target="q5Y8W2276iY_WH-pXQ-X-38">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="211" y="1685" />
+              <mxPoint x="171" y="1722" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="q5Y8W2276iY_WH-pXQ-X-34" value="发布公告、处理报修" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.68;entryX=1;entryY=0.4;rounded=0;" edge="1" parent="1" source="q5Y8W2276iY_WH-pXQ-X-30" target="q5Y8W2276iY_WH-pXQ-X-29">
+        <mxCell id="q5Y8W2276iY_WH-pXQ-X-48" value="签到数据" style="curved=1;startArrow=none;endArrow=block;exitX=0.76;exitY=-0.01;entryX=-0.01;entryY=0.5;rounded=0;" edge="1" parent="1" source="q5Y8W2276iY_WH-pXQ-X-40" target="q5Y8W2276iY_WH-pXQ-X-41">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="520" y="1636" />
+              <mxPoint x="304" y="1557" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="q5Y8W2276iY_WH-pXQ-X-35" value="签到/报修数据" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.27;entryX=0;entryY=0.32;rounded=0;" edge="1" parent="1" source="q5Y8W2276iY_WH-pXQ-X-29" target="q5Y8W2276iY_WH-pXQ-X-30">
+        <mxCell id="q5Y8W2276iY_WH-pXQ-X-49" value="查看签到" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.81;entryX=1;entryY=0.75;rounded=0;" edge="1" parent="1" source="q5Y8W2276iY_WH-pXQ-X-39" target="q5Y8W2276iY_WH-pXQ-X-40">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="520" y="1593" />
+              <mxPoint x="304" y="1717" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="q5Y8W2276iY_WH-pXQ-X-36" value="用户认证信息" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.66;entryX=1;entryY=0.72;rounded=0;" edge="1" parent="1" source="q5Y8W2276iY_WH-pXQ-X-31" target="q5Y8W2276iY_WH-pXQ-X-29">
+        <mxCell id="q5Y8W2276iY_WH-pXQ-X-50" value="签到汇总" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.43;entryX=0;entryY=0.34;rounded=0;" edge="1" parent="1" source="q5Y8W2276iY_WH-pXQ-X-40" target="q5Y8W2276iY_WH-pXQ-X-39">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="520" y="1735" />
+              <mxPoint x="304" y="1674" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="q5Y8W2276iY_WH-pXQ-X-37" value="通知消息" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.59;entryX=0;entryY=0.34;rounded=0;" edge="1" parent="1" source="q5Y8W2276iY_WH-pXQ-X-29" target="q5Y8W2276iY_WH-pXQ-X-31">
+        <mxCell id="q5Y8W2276iY_WH-pXQ-X-51" value="报修请求" style="curved=1;startArrow=none;endArrow=block;exitX=0.66;exitY=0.01;entryX=0.22;entryY=-0.01;rounded=0;" edge="1" parent="1" source="q5Y8W2276iY_WH-pXQ-X-38" target="q5Y8W2276iY_WH-pXQ-X-42">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="520" y="1692" />
+              <mxPoint x="171" y="1490" />
+              <mxPoint x="562" y="1490" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="q5Y8W2276iY_WH-pXQ-X-52" value="处理反馈" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.61;entryX=1;entryY=0.11;rounded=0;" edge="1" parent="1" source="q5Y8W2276iY_WH-pXQ-X-42" target="q5Y8W2276iY_WH-pXQ-X-38">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="562" y="1623" />
+              <mxPoint x="171" y="1623" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="q5Y8W2276iY_WH-pXQ-X-53" value="报修记录" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.49;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="q5Y8W2276iY_WH-pXQ-X-42" target="q5Y8W2276iY_WH-pXQ-X-43">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="q5Y8W2276iY_WH-pXQ-X-54" value="处理报修" style="curved=1;startArrow=none;endArrow=block;exitX=0.67;exitY=-0.01;entryX=0;entryY=0.11;rounded=0;" edge="1" parent="1" source="q5Y8W2276iY_WH-pXQ-X-39" target="q5Y8W2276iY_WH-pXQ-X-42">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="562" y="1557" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="q5Y8W2276iY_WH-pXQ-X-55" value="报修信息" style="curved=1;startArrow=none;endArrow=block;exitX=0.06;exitY=0.99;entryX=1;entryY=0.43;rounded=0;" edge="1" parent="1" source="q5Y8W2276iY_WH-pXQ-X-42" target="q5Y8W2276iY_WH-pXQ-X-39">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="562" y="1682" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="q5Y8W2276iY_WH-pXQ-X-56" value="发布公告" style="curved=1;startArrow=none;endArrow=block;exitX=0.96;exitY=0.99;entryX=0;entryY=0.28;rounded=0;" edge="1" parent="1" source="q5Y8W2276iY_WH-pXQ-X-39" target="q5Y8W2276iY_WH-pXQ-X-44">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="562" y="1736" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="q5Y8W2276iY_WH-pXQ-X-57" value="公告内容" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.51;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="q5Y8W2276iY_WH-pXQ-X-44" target="q5Y8W2276iY_WH-pXQ-X-45">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="q5Y8W2276iY_WH-pXQ-X-58" value="查询公告" style="curved=1;startArrow=none;endArrow=block;exitX=0.77;exitY=1;entryX=0;entryY=0.51;rounded=0;" edge="1" parent="1" source="q5Y8W2276iY_WH-pXQ-X-38" target="q5Y8W2276iY_WH-pXQ-X-44">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="171" y="1768" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="q5Y8W2276iY_WH-pXQ-X-59" value="公告列表" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.83;entryX=0.69;entryY=1;rounded=0;" edge="1" parent="1" source="q5Y8W2276iY_WH-pXQ-X-44" target="q5Y8W2276iY_WH-pXQ-X-38">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="562" y="1810" />
+              <mxPoint x="171" y="1810" />
             </Array>
           </mxGeometry>
         </mxCell>
