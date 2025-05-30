@@ -1297,20 +1297,16 @@
           <mxGeometry x="792" y="1060" width="188" height="49" as="geometry" />
         </mxCell>
         <mxCell id="XUwIG_liIp07Ohd70iV--24" value="宿管验收并确认" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="560" y="1060" width="172" height="49" as="geometry" />
+          <mxGeometry x="552" y="1060" width="172" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="uPvEaKTdcq5Sw9pCJz8u-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="XUwIG_liIp07Ohd70iV--25">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="760" y="1330" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="uPvEaKTdcq5Sw9pCJz8u-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="XUwIG_liIp07Ohd70iV--25" target="uPvEaKTdcq5Sw9pCJz8u-5">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XUwIG_liIp07Ohd70iV--25" value="更新学生宿舍信息" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="792" y="1180" width="188" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="uPvEaKTdcq5Sw9pCJz8u-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="XUwIG_liIp07Ohd70iV--26">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="760" y="1330" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="uPvEaKTdcq5Sw9pCJz8u-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="XUwIG_liIp07Ohd70iV--26" target="uPvEaKTdcq5Sw9pCJz8u-5">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XUwIG_liIp07Ohd70iV--26" value="注销宿舍信息" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="568" y="1180" width="156" height="49" as="geometry" />
@@ -1368,6 +1364,9 @@
         </mxCell>
         <mxCell id="uPvEaKTdcq5Sw9pCJz8u-1" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="693" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uPvEaKTdcq5Sw9pCJz8u-5" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="700" y="1330" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
