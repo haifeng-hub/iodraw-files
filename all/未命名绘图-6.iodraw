@@ -1758,7 +1758,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="oDPSKtY6pFUW3TeCEHOw-12" value="选择洗衣模式支付方式" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="1003" y="660" width="156" height="49" as="geometry" />
+          <mxGeometry x="823.5" y="800" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="oDPSKtY6pFUW3TeCEHOw-15" value="洗衣机工作" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="1019" y="800" width="124" height="49" as="geometry" />
