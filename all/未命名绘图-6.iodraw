@@ -1879,7 +1879,7 @@
           <mxGeometry x="448.5" y="1080" width="172" height="49" as="geometry" />
         </mxCell>
         <mxCell id="daF2Cswv_4P-z3EUdVUX-5" value="继续阅读" style="whiteSpace=wrap;strokeWidth=2;" parent="8D0bJr_5MwA6CprDsa97-1" vertex="1">
-          <mxGeometry x="700" y="1140" width="124" height="49" as="geometry" />
+          <mxGeometry x="670" y="1129" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="daF2Cswv_4P-z3EUdVUX-6" value="结束" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" parent="8D0bJr_5MwA6CprDsa97-1" vertex="1">
           <mxGeometry x="507" y="1189" width="55" height="34" as="geometry" />
