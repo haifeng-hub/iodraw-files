@@ -1628,14 +1628,13 @@
         <mxCell id="7FZjdMlkxcrqIRNeqpyv-9" value="宿管查看报修信息" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="670" y="780" width="223" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="yVNzTTiPPED5ic__nYwH-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="7FZjdMlkxcrqIRNeqpyv-13" target="7FZjdMlkxcrqIRNeqpyv-20" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="yVNzTTiPPED5ic__nYwH-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="7FZjdMlkxcrqIRNeqpyv-13" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="771.4705882352941" y="1010" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="7FZjdMlkxcrqIRNeqpyv-13" value="安排维修人员" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="660" y="870" width="213" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="7FZjdMlkxcrqIRNeqpyv-20" value="报修流程结束" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="670" y="1010" width="203" height="70" as="geometry" />
         </mxCell>
         <mxCell id="7FZjdMlkxcrqIRNeqpyv-23" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" parent="1" target="7FZjdMlkxcrqIRNeqpyv-4" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -1656,6 +1655,9 @@
         </mxCell>
         <mxCell id="m3KwMc8PCVbvuJOvvGf0-1" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="730" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="m3KwMc8PCVbvuJOvvGf0-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="706" y="1040" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
